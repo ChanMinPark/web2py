@@ -1,0 +1,15 @@
+{{extend 'plugin_layouts/layouts/KeepitSimple.html'}}
+<html>
+    <head>
+    </head>
+    <body>
+        This page show Temperature, Humidity and CO2 value.<br><br>
+        
+        <ul>
+            <li>Temp : {{=temp}}ºC</li>
+            <li>Humi : {{=humi}}%</li>
+            <li>CO2 : {{=co2}}</li>
+        </ul>
+        <button onClick="window.location.reload()">Reload</a>
+    </body>
+</html>

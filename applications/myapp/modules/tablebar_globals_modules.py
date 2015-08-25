@@ -21,10 +21,13 @@ def init_variables():
         db.tablebar_globals.insert(variable_name='lock', variable_value='False')
     else:
         db(db.tablebar_globals.variable_name == 'lock').update(variable_value='False')
+        
+    db.commit()
 
 def setTask(wtask):
     db = current.db
     db(db.tablebar_globals.variable_name == 'wtask').update(variable_value=wtask)
+    db.commit()
     
 def getTask():
     db = current.db
@@ -34,6 +37,7 @@ def getTask():
 def setLock(lock):
     db = current.db
     db(db.tablebar_globals.variable_name == 'lock').update(variable_value=lock)
+    db.commit()
     
 def getLock():
     db = current.db

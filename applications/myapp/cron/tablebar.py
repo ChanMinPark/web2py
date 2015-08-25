@@ -2,7 +2,7 @@ from lcd import *
 from tablebar_time import *
 from tablebar_calender import *
 from tablebar_weather import *
-from tablebar_globals_controller import *
+from tablebar_globals import *
 #from tablebar_baseball import *
 #from gluon import current
 

@@ -1,0 +1,2 @@
+#crontab
+@reboot  root *applications/myapp/cron/tablebar.py

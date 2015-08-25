@@ -398,3 +398,4 @@
 [2015-08-25 14:37:13] EDIT myapp/controllers/tablebar_globals.py: 5
 [2015-08-25 14:37:19] EDIT myapp/controllers/tablebar_globals.py: -2
 [2015-08-25 14:44:04] EDIT myapp/modules/lcd.py: 0
+[2015-08-25 14:55:27] EDIT myapp/cron/crontab: 1

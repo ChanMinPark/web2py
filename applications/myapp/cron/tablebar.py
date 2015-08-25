@@ -56,10 +56,10 @@ def main():
     	    	time.sleep(1)
     	    setLock("False")
     	if cycle == 0:
-    	    setTask("3")
+    	    setTask("0")
     	    break
     
-    
+    """
     while getTask() == "3":
     	cycle = 5
     	if getLock() == "False":
@@ -75,7 +75,7 @@ def main():
     	if cycle == 0:
     	    setTask("0")
     	    break
-    
+    """
 
 if __name__ == '__main__':
     try:

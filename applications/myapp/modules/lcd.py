@@ -7,7 +7,7 @@
 import RPi.GPIO as GPIO
 import time, os
 from subprocess import *
-from lcd_connect import * 
+from lcd_connect import *
 
 # Define some device constants
 LCD_WIDTH = 16    # Maximum characters per line

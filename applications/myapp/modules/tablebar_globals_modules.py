@@ -10,9 +10,6 @@ fileHandler = logging.FileHandler('/usr/local/web2py/logs/pcmtest.log')
 logger.addHandler(fileHandler)
 logger.setLevel(logging.DEBUG)
 
-getTaskpage = urllib2.urlopen("https://169.254.1.89:8000/myapp/tablebar_globals/getTask")
-getLockpage = urllib2.urlopen("https://169.254.1.89:8000/myapp/tablebar_globals/getLock")
-
 def setTask(wtask):
     page = urllib2.urlopen("https://169.254.1.89:8000/myapp/tablebar_globals/setTask/%s"%wtask)
     logger.info("https://169.254.1.89:8000/myapp/tablebar_globals/setTask/%s"%wtask)
@@ -20,7 +17,7 @@ def setTask(wtask):
     logger.info(text)
     
 def getTask():
-    #page = urllib2.urlopen("https://169.254.1.89:8000/myapp/tablebar_globals/getTask")
+    page = urllib2.urlopen("https://169.254.1.89:8000/myapp/tablebar_globals/getTask")
     g_wtask = getTaskpage.read()
     logger.info(g_wtask)
     return g_wtask
@@ -32,7 +29,7 @@ def setLock(lock):
     logger.info(text)
     
 def getLock():
-    #page = urllib2.urlopen("https://169.254.1.89:8000/myapp/tablebar_globals/getLock")
+    page = urllib2.urlopen("https://169.254.1.89:8000/myapp/tablebar_globals/getLock")
     g_lock = getLockpage.read()
     logger.info(g_lock)
     return g_lock

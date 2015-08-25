@@ -1,3 +1,13 @@
+import logging
+import logging.handlers
+
+logger = logging.getLogger('mylogger')
+fileHandler = logging.FileHandler('/usr/local/web2py/pcmtest.log')
+logger.addHandler(fileHandler)
+logger.setLevel(logging.DEBUG)
+    
+logger.info('tablebar.py - main() - 1')
+
 from lcd import *
 from tablebar_time import *
 from tablebar_calender import *
@@ -5,17 +15,9 @@ from tablebar_weather import *
 from tablebar_globals import *
 #from tablebar_baseball import *
 #from gluon import current
-import logging
-import logging.handlers
+
 
 def main():
-    logger = logging.getLogger('mylogger')
-    fileHandler = logging.FileHandler('/usr/local/web2py/pcmtest.log')
-    logger.addHandler(fileHandler)
-    logger.setLevel(logging.DEBUG)
-    
-    logger.info('tablebar.py - main() - 1')
-    
     # Display time information
     cycle = 10
     while getTask() == "0":

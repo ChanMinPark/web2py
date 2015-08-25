@@ -86,7 +86,7 @@ def returnMonth(a):
 def getSchedules():
     db = current.db
     
-    schedule_record = db(db.tablebar_schedules.id>0)select()
+    schedule_record = db(db.tablebar_schedules.id>0).select()
     
     schedules = []
     for record in schedule_record:

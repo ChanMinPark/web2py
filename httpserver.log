@@ -9079,3 +9079,6 @@
 169.254.150.167, 2015-08-25 22:39:46, POST, /admin/default/edit/myapp/modules/tablebar_calender.py, HTTP/1.1, 200, 1.256994
 169.254.1.89, 2015-08-25 22:39:51, GET, /myapp/default/project_tablebar_setting, HTTP/1.1, 200, 12.443326
 169.254.150.167, 2015-08-25 22:39:53, POST, /admin/default/edit/myapp/modules/tablebar_calender.py, HTTP/1.1, 200, 0.839345
+169.254.150.167, 2015-08-25 22:42:22, GET, /admin/default/todolist.load, HTTP/1.1, 200, 4.038100
+169.254.150.167, 2015-08-25 22:42:23, GET, /myapp/appadmin/hooks, HTTP/1.1, 200, 4.945955
+169.254.150.167, 2015-08-25 22:43:03, POST, /admin/default/edit/myapp/modules/tablebar_calender.py, HTTP/1.1, 200, 0.626623

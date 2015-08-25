@@ -1,50 +1,20 @@
-2015-08-25 15:01:40,759 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 15:01:40,766 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-25 15:01:40.765986
-2015-08-25 15:01:40,776 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 15:01:40,809 - web2py.cron - INFO - Hard cron daemon started
-2015-08-25 15:01:48,560 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
-Traceback (most recent call last):
-  File "/usr/local/web2py/gluon/shell.py", line 261, in run
-    execfile(startfile, _env)
-  File "applications/myapp/cron/tablebar.py", line 5, in <module>
-    from tablebar_globals import *
-  File "/usr/local/web2py/gluon/custom_import.py", line 95, in custom_importer
-    return base_importer(pname, globals, locals, fromlist, level)
-ImportError: No module named tablebar_globals
+2015-08-25 17:01:55,341 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
 
-
-2015-08-25 15:02:00,010 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 15:02:29,056 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 15:02:29,064 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-25 15:02:29.063917
-2015-08-25 15:02:29,073 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 15:02:29,093 - web2py.cron - INFO - Hard cron daemon started
-2015-08-25 15:02:37,625 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
-Traceback (most recent call last):
-  File "/usr/local/web2py/gluon/shell.py", line 261, in run
-    execfile(startfile, _env)
-  File "applications/myapp/cron/tablebar.py", line 5, in <module>
-    from tablebar_globals import *
-  File "/usr/local/web2py/gluon/custom_import.py", line 95, in custom_importer
-    return base_importer(pname, globals, locals, fromlist, level)
-ImportError: No module named tablebar_globals
-
-
-2015-08-25 15:03:47,888 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 15:03:47,895 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-25 15:03:47.895117
-2015-08-25 15:03:47,925 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 15:03:48,014 - web2py.cron - INFO - Hard cron daemon started
-2015-08-25 15:03:56,427 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
-Traceback (most recent call last):
-  File "/usr/local/web2py/gluon/shell.py", line 261, in run
-    execfile(startfile, _env)
-  File "applications/myapp/cron/tablebar.py", line 5, in <module>
-    from tablebar_globals import *
-  File "/usr/local/web2py/gluon/custom_import.py", line 95, in custom_importer
-    return base_importer(pname, globals, locals, fromlist, level)
-ImportError: No module named tablebar_globals
-
-
-2015-08-25 15:04:00,008 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 15:05:00,035 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 15:05:00,039 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 15:05:00,050 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock

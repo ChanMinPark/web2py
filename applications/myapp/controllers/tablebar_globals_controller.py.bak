@@ -1,0 +1,26 @@
+# -*- coding: utf-8 -*-
+# try something like
+global g_wtask
+global g_lock
+
+def init_variable():
+    global g_wtask
+    global g_lock
+    g_wtask = "0"
+    g_lock = "False"
+
+def setTask(wtask):
+    global g_wtask
+    g_wtask = wtask
+    
+def getTask():
+    global g_wtask
+    return g_wtask
+
+def setLock(lock):
+    global g_lock
+    g_lock = lock
+    
+def getLock():
+    global g_lock
+    return g_lock

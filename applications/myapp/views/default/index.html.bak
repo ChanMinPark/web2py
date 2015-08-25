@@ -17,6 +17,8 @@
 <p class="lead">{{=T('My project list.')}}</p>
 <ol>
     <li><a href={{=URL('myapp','default','project_temp_humi_co2')}}>{{=T('Temp/Humi/CO2')}}</a></li>
+    <li><a href={{=URL('myapp','default','project_tablebar_setting')}}>{{=T('Table Bar setting')}}</a></li>
+    <li>Task number : {{=wtask}}</li>
   
 </ol>
 {{elif 'content' in globals():}}

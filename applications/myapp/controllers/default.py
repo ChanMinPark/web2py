@@ -66,8 +66,18 @@ def project_tablebar_setting():
         response.flash = 'Enter your location.'
         
     rows2 = db(db.tablebar_user_location.id>0).select()
+    
+    form3 = SQLFORM(db.tablebar_baseball)
+    if form3.accepts(request,session):
+        response.flash = 'Good! Your team is set.'
+    elif form3.errors:
+        response.flash = 'Please check your team.'
+    else:
+        response.flash = 'Enter your team.'
         
-    return dict(form=form, rows=rows, form2=form2, rows2=rows2)
+    rows3 = db(db.tablebar_baseball.id>0).select()
+        
+    return dict(form=form, rows=rows, form2=form2, rows2=rows2, form3=form3, rows3=rows3)
 
 def database_update_delete():
     if request.args(0) == 'tablebar_schedules':
@@ -88,6 +98,10 @@ def database_update_delete():
     elif request.args(0) == 'tablebar_user_location':
         if request.args(1) == 'delete':
             db(db.tablebar_user_location.id == request.args(2)).delete()
+            return dict(form=redirect(URL('myapp','default','project_tablebar_setting')))
+    elif request.args(0) == 'tablebar_baseball':
+        if request.args(1) == 'delete':
+            db(db.tablebar_baseball.id == request.args(2)).delete()
             return dict(form=redirect(URL('myapp','default','project_tablebar_setting')))
 
 def profile():

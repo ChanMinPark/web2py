@@ -2002,3 +2002,50 @@ success!
 success!
 success!
 success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+timestamp: 2015-08-25T14:22:23.015840
+CREATE TABLE tablebar_baseball(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    team_name CHAR(512)
+);
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!

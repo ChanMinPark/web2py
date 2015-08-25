@@ -391,3 +391,9 @@
 [2015-08-18 13:14:38] EDIT myapp/modules/tablebar_globals.py: 8
 [2015-08-18 13:16:39] EDIT myapp/controllers/default.py: -7
 [2015-08-18 13:18:29] DELETE myapp/modules/tablebar.py: -47
+[2015-08-25 14:21:51] EDIT myapp/models/db.py: 3
+[2015-08-25 14:25:05] EDIT myapp/controllers/default.py: 8
+[2015-08-25 14:25:32] EDIT myapp/controllers/default.py: 4
+[2015-08-25 14:26:27] EDIT myapp/views/default/project_tablebar_setting.html: 11
+[2015-08-25 14:37:13] EDIT myapp/controllers/tablebar_globals.py: 5
+[2015-08-25 14:37:19] EDIT myapp/controllers/tablebar_globals.py: -2

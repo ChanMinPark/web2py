@@ -3,7 +3,10 @@
 from gluon import *
 
 global which_task
+which_task = "0"
+
 global is_lock
+is_lock = "False"
 
 def init_variable():
     global which_task

@@ -14,7 +14,7 @@
         {{for row in rows2:}}
             <tr>
                 <td>설정된 지역 : {{=row.location}}</td>
-                <td><a href={{=URL('myapp','default','database_update_delete',args=['tablebar_user_location','delete',row.id])}}>삭제</a></td>
+                <td><a href={{=URL('myapp','default','database_update_delete',args=['tablebar_user_location','delete',row.id])}}>삭제</a></td><br>
             </tr>
         {{pass}}
         <br><br><br>

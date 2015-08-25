@@ -102,3 +102,7 @@ db.define_table('tablebar_schedules',
 
 db.define_table('tablebar_user_location',
                 Field('location', 'string', requires=[IS_NOT_EMPTY()]))
+
+db.define_table('tablebar_baseball',
+                Field('team_name'))
+db.tablebar_baseball.team_name.requires=IS_IN_SET(('SK','두산','삼성','넥센','LG','KIA','롯데','NC','한화','kt'))

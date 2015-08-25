@@ -65,7 +65,7 @@ def main():
     	if getLock() == "False":
     	    setLock("True")
     	    while cycle > 0:
-    	    	data = {}a
+    	    	data = {}
     	    	data = getWeather()
     	    	lcd_string("Now : "+data['now_temp']+"'C, "+data['now_weather'], LCD_LINE_1, 2)
     	    	lcd_string("1h : "+data['one_later']+", 2h : "+data['two_later'], LCD_LINE_2, 2)

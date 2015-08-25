@@ -73,6 +73,7 @@ if __name__ == '__main__':
     	# Initialise display
         lcd_init()
         whiteLCDon()
+        init_variables()
         while True:
             main()
     except KeyboardInterrupt:

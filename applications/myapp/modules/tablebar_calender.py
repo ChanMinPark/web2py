@@ -1,5 +1,6 @@
 import time
 import urllib2
+from gluon import current
 
 def getWeek():
     now = time.localtime()
@@ -81,7 +82,28 @@ def returnMonth(a):
     elif a == 12:
         return "Dec"
 
+
 def getSchedules():
+    db = current.db
+    
+    schedule_record = db(db.tablebar_schedules.id>0).select()
+    
+    schedules = []
+    for record in schedule_record:
+        data={}
+        data['date'] = record.date
+        data['location'] = record.location
+        data['content'] = record.content
+        data['isAlarm'] = record.isAlarm
+        schedules.append(data)
+    
+    schedules_day = []
+    for i in schedules:
+        schedules_day.append(i['date'].split(' ')[0].split('-')[2])
+	
+    return schedules_day
+    
+def getSchedulesviaWeb():
     page = urllib2.urlopen("https://169.254.1.89:8000/myapp/default/project_tablebar_setting")
     text = page.read()
 	

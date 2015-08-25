@@ -3,7 +3,7 @@ from tablebar_time import *
 from tablebar_calender import *
 from tablebar_weather import *
 from tablebar_globals_modules import *
-#from tablebar_baseball import *
+from tablebar_baseball import *
 #from gluon import current
 
 

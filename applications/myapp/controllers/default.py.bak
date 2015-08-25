@@ -8,6 +8,14 @@
 ## - download is for downloading files uploaded in the db (does streaming)
 #########################################################################
 from temp_humi_co2 import *
+from tablebar import *
+
+def start_function():
+    session.which_task = 0
+    #dict(wtast = 0)
+    tablebar_main()
+    db.commit()
+    return dict()
 
 def index():
     """
@@ -17,6 +25,7 @@ def index():
     if you need a simple wiki simply replace the two lines below with:
     return auth.wiki()
     """
+    session.which_task = 1
     response.flash = T("Hi everyone!")
     return dict(message=T('Welcome to ChanMin\'s blog'))
 

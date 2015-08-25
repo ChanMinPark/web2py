@@ -17,6 +17,7 @@ def index():
     if you need a simple wiki simply replace the two lines below with:
     return auth.wiki()
     """
+    session.which_task = 1
     response.flash = T("Hi everyone!")
     return dict(message=T('Welcome to ChanMin\'s blog'))
 

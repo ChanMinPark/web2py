@@ -3,10 +3,10 @@
 from gluon import *
 
 global which_task
-which_task = 0
+which_task = "0"
 
 global is_lock
-is_lock = False
+is_lock = "False"
 
 def setTask(wtask):
     global which_task

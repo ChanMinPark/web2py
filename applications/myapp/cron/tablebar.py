@@ -9,10 +9,15 @@ logger.setLevel(logging.DEBUG)
 logger.info('tablebar.py - main() - 1')
 
 from lcd import *
+logger.info('tablebar.py - main() - 2')
 from tablebar_time import *
+logger.info('tablebar.py - main() - 3')
 from tablebar_calender import *
+logger.info('tablebar.py - main() - 4')
 from tablebar_weather import *
+logger.info('tablebar.py - main() - 5')
 from tablebar_globals import *
+logger.info('tablebar.py - main() - 6')
 #from tablebar_baseball import *
 #from gluon import current
 

@@ -18,3 +18,4 @@ applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in
 applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
   GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
 
+2015-08-25 17:21:24,691 - mylogger - INFO - 0

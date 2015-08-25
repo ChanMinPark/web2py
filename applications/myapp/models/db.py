@@ -92,8 +92,12 @@ auth.settings.reset_password_requires_verification = True
 # auth.enable_record_versioning(db)
 
 import datetime
+from gluon import current
 
 db = DAL('sqlite://webform.sqlite')
+
+current.db = db
+
 db.define_table('tablebar_schedules',
                 Field('date', 'datetime', widget=SQLFORM.widgets.datetime.widget),
                 Field('location', 'string', requires=[IS_NOT_EMPTY()]),
@@ -106,3 +110,7 @@ db.define_table('tablebar_user_location',
 db.define_table('tablebar_baseball',
                 Field('team_name'))
 db.tablebar_baseball.team_name.requires=IS_IN_SET(('SK','두산','삼성','넥센','LG','KIA','롯데','NC','한화','kt'))
+
+db.define_table('tablebar_globals',
+                Field('variable_name','string'),
+                Field('variable_value','string'))

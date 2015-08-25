@@ -3647,3 +3647,51 @@ success!
 success!
 success!
 success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+timestamp: 2015-08-25T17:31:42.588466
+CREATE TABLE tablebar_globals(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    wTask CHAR(512),
+    lock CHAR(512)
+);
+success!
+success!
+success!
+success!
+success!
+timestamp: 2015-08-25T17:35:42.431462
+ALTER TABLE tablebar_globals ADD variable_value CHAR(512);
+timestamp: 2015-08-25T17:35:42.515037
+ALTER TABLE tablebar_globals ADD variable_name CHAR(512);
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!

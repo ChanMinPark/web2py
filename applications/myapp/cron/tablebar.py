@@ -56,17 +56,26 @@ def main():
     	    	time.sleep(1)
     	    setLock("False")
     	if cycle == 0:
+    	    setTask("3")
+    	    break
+    
+    
+    while getTask() == "3":
+    	cycle = 5
+    	if getLock() == "False":
+    	    setLock("True")
+    	    while cycle > 0:
+    	    	data = {}a
+    	    	data = getWeather()
+    	    	lcd_string("Now : "+data['now_temp']+"'C, "+data['now_weather'], LCD_LINE_1, 2)
+    	    	lcd_string("1h : "+data['one_later']+", 2h : "+data['two_later'], LCD_LINE_2, 2)
+    	    	cycle = cycle - 1
+    	    	time.sleep(5)
+    	    setLock("False")
+    	if cycle == 0:
     	    setTask("0")
     	    break
     
-    """
-    while True:
-        data = {}a
-        data = getWeather()
-        lcd_string("Now : "+data['now_temp']+"'C, "+data['now_weather'], LCD_LINE_1, 2)
-        lcd_string("1h : "+data['one_later']+", 2h : "+data['two_later'], LCD_LINE_2, 2)
-        time.sleep(5)
-    """
 
 if __name__ == '__main__':
     try:

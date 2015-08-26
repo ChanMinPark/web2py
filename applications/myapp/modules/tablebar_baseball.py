@@ -7,8 +7,13 @@ import urllib2
 def getBaseballinfo():
     baseballinfo = ["Baseball","Information"]
     
-    page = urllib2.urlopen("http://sports.news.naver.com/schedule/index.nhn?category=kbo")
-    text = page.read()
+    try:
+        page = urllib2.urlopen("http://sports.news.naver.com/schedule/index.nhn?category=kbo")
+        text = page.read()
+    except httplib.IncompleteRead, e:
+        baseballinfo[0] = "Sorry,"
+        baseballinfo[1] = "Now Loading..."
+        return baseballinfo
     
     if '<ul class="sch_vs" id="todaySchedule">' not in text:
         baseballinfo[0] = "Sorry,"

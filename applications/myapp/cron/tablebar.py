@@ -11,7 +11,7 @@ from tablebar_baseball import *
 def main():
     # Display wlan ip address
     lcd_string("Wlan IP Addr", LCD_LINE_1, 2)
-    lcd_string(wip_chk(), LCD_LINE_2, 2)
+    lcd_string(wip_chk()[:-1], LCD_LINE_2, 2)
     time.sleep(3)
 	
     # Display time information

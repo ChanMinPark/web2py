@@ -1,3 +1,4 @@
+import sys
 from lcd import *
 from tablebar_time import *
 from tablebar_calender import *
@@ -8,6 +9,11 @@ from tablebar_baseball import *
 
 
 def main():
+    # Display wlan ip address
+    lcd_string("Wlan IP Addr", LCD_LINE_1, 2)
+    lcd_string(wip_chk(), LCD_LINE_2, 2)
+    time.sleep(3)
+	
     # Display time information
     cycle = 10
     while getTask() == "0":
@@ -76,6 +82,16 @@ def main():
     	    setTask("0")
     	    break
     """
+    
+def run_cmd(cmd):
+    p = Popen(cmd, shell=True, stdout=PIPE)
+    output = p.communicate()[0]
+    return output
+
+def wip_chk():
+    cmd = "ip addr show wlan0 | grep inet | awk '{print $2}' | cut -d/ -f1"
+    wipAddr = run_cmd(cmd)
+    return wipAddr
 
 if __name__ == '__main__':
     try:

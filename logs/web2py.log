@@ -1,9 +1,314 @@
-2015-08-25 17:50:01,762 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 17:50:01,775 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-25 17:50:01.774770
-2015-08-25 17:50:01,800 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 17:50:01,835 - web2py.cron - INFO - Hard cron daemon started
-2015-08-25 17:51:00,040 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 17:51:23,887 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+2015-08-25 23:18:07,657 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:18:07,665 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-25 23:18:07.664522
+2015-08-25 23:18:07,688 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:18:07,713 - web2py.cron - INFO - Hard cron daemon started
+2015-08-25 23:19:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:20:00,053 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:20:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:20:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:21:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:22:00,058 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:22:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:22:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:23:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:24:00,031 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:24:00,035 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:24:00,047 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:25:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:25:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:25:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:26:00,053 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:26:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:26:00,068 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:27:00,053 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:27:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:27:00,071 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:28:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:29:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:29:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:29:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:30:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:30:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:30:00,046 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:31:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:31:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:31:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:32:00,031 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:32:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:32:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:33:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:33:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:33:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:34:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:34:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:34:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:35:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:35:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:35:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:36:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:36:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:36:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:37:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:37:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:37:00,076 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:38:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:39:00,037 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:39:00,040 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:39:00,051 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:40:00,053 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:40:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:40:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:41:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:42:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:42:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:42:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:43:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:43:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:43:00,052 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:44:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:44:00,039 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:44:00,050 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:45:00,036 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:45:00,046 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:45:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:46:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:47:00,035 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:47:00,039 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:47:00,053 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:48:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-25 23:48:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-25 23:48:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-25 23:48:32,499 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+
+2015-08-26 16:37:18,012 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:37:18,022 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 16:37:18.022328
+2015-08-26 16:37:18,037 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:37:18,072 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 16:38:00,011 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:39:00,010 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:39:00,014 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:39:00,025 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:40:00,051 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:40:00,055 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:40:00,070 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:41:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:41:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:41:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:42:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:42:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:42:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:43:00,010 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:44:00,010 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:44:00,014 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:44:00,026 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:45:00,010 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:45:00,014 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:45:00,025 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:46:00,010 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:46:00,014 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:46:00,025 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:47:00,020 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:47:00,024 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:47:00,036 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:48:00,051 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:48:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:48:00,081 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:49:00,051 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:49:00,055 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:49:00,076 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:50:00,051 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:50:00,055 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:50:00,077 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:51:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:51:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:51:00,086 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:52:00,051 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:52:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:52:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:53:00,020 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:54:00,040 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:54:00,044 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:54:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:55:00,040 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:55:00,044 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:55:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:56:00,041 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:56:00,044 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:56:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:57:00,040 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:57:00,044 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:57:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:58:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 16:58:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 16:58:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 16:58:20,452 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+
+2015-08-26 18:14:54,345 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:14:54,368 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 18:14:54.368256
+2015-08-26 18:14:54,407 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:14:54,425 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 18:15:00,005 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:16:00,053 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:16:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:16:00,068 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:16:37,758 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+Traceback (most recent call last):
+  File "/usr/local/web2py/gluon/shell.py", line 261, in run
+    execfile(startfile, _env)
+  File "applications/myapp/cron/tablebar.py", line 103, in <module>
+    main()
+  File "applications/myapp/cron/tablebar.py", line 54, in main
+    plines = getBaseballinfo()
+  File "applications/myapp/modules/tablebar_baseball.py", line 49, in getBaseballinfo
+    baseballinfo[1] = team_1[1] + " : " + team_2[1] + convertState(play_state)
+TypeError: cannot concatenate 'str' and 'NoneType' objects
+
+
+2015-08-26 18:17:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:17:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:17:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:18:00,019 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:19:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:19:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:19:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:20:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:20:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:20:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:21:00,035 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:22:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:22:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:22:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:23:07,748 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:23:07,756 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 18:23:07.755626
+2015-08-26 18:23:07,777 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:23:07,815 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 18:24:00,025 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:25:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:25:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:25:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:26:00,015 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:27:00,015 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:27:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:27:00,029 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:28:00,037 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:28:00,040 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:28:00,051 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:29:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:30:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:30:00,004 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:30:00,016 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:30:27,883 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+Traceback (most recent call last):
+  File "/usr/local/web2py/gluon/shell.py", line 261, in run
+    execfile(startfile, _env)
+  File "applications/myapp/cron/tablebar.py", line 103, in <module>
+    main()
+  File "applications/myapp/cron/tablebar.py", line 54, in main
+    plines = getBaseballinfo()
+  File "applications/myapp/modules/tablebar_baseball.py", line 49, in getBaseballinfo
+    baseballinfo[1] = team_1[1] + " : " + team_2[1] + convertState(play_state)
+TypeError: cannot concatenate 'str' and 'NoneType' objects
+
+
+2015-08-26 18:31:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:31:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:31:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:32:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:32:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:32:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:33:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:33:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:33:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:34:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:34:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:34:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:35:00,052 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:35:00,056 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:35:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:36:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:36:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:36:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:37:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:37:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:37:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:38:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:38:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:38:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:39:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:39:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:39:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:40:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:40:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:40:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:41:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:41:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:41:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:42:00,056 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:42:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:42:00,070 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:43:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:43:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:43:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:44:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:44:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:44:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:45:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:45:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:45:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:46:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:46:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:46:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:47:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:47:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:47:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:48:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:48:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:48:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:49:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:49:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:49:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:50:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:50:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:50:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:51:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:51:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:51:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:52:00,036 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:53:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:53:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:53:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:53:14,523 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:53:14,531 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 18:53:14.530793
+2015-08-26 18:53:14,540 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:53:14,560 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 18:54:00,046 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:55:00,010 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:55:00,014 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:55:00,030 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:55:16,197 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+
+2015-08-26 18:55:45,836 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:55:45,858 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 18:55:45.857685
+2015-08-26 18:55:45,867 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:55:45,889 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 18:56:00,014 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:57:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:57:00,004 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:57:00,020 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:58:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:58:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:58:00,077 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 18:59:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 18:59:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 18:59:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:00:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:00:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:00:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:00:47,968 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
 applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
   GPIO.setup(LCD_E, GPIO.OUT)  # E
 applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
@@ -23,316 +328,875 @@ applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in
 applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
   GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
 
-2015-08-25 20:36:41,139 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:36:41,179 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-25 20:36:41.178720
-2015-08-25 20:36:41,207 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:36:41,244 - web2py.cron - INFO - Hard cron daemon started
-2015-08-25 20:37:00,004 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:38:00,031 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:38:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:38:00,046 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:39:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:39:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:39:00,068 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:40:00,031 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:41:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:41:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:41:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:42:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:42:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:42:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:43:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:43:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:43:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:44:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:44:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:44:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:45:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:45:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:45:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:46:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:46:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:46:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:47:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:47:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:47:00,070 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:48:00,031 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:49:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:49:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:49:00,078 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:50:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:50:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:50:00,078 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:51:00,044 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:51:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:51:00,070 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:52:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:52:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:52:00,081 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:53:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:54:00,038 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:54:00,041 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:54:00,060 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:55:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:55:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:55:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:56:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:56:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:56:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:57:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:57:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:57:00,047 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:58:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:58:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:58:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 20:59:00,032 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 20:59:00,036 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 20:59:00,047 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:00:00,060 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:00:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:00:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:01:00,043 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:02:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:02:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:02:00,068 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:03:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:04:00,060 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:04:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:04:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:05:00,037 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:06:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:06:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:06:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:07:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:07:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:07:00,070 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:08:00,070 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:08:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:08:00,085 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:09:00,059 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:10:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:10:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:10:00,046 - web2py.cron - INFO - WEB2PY CRON (hard): admin executing **applications/admin/cron/expire_sessions.py in /usr/local/web2py at 2015-08-25 21:10:00.045589
-2015-08-25 21:10:00,050 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:10:07,046 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
-
-2015-08-25 21:11:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:11:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:11:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:12:00,031 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:12:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:12:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:13:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:13:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:13:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:14:00,060 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:14:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:14:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:15:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:16:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:16:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:16:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:17:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:17:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:17:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:18:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:18:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:18:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:19:00,054 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:19:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:19:00,080 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:20:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:21:00,056 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:21:00,060 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:21:00,071 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:22:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:23:00,031 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:23:00,044 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:23:00,056 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:24:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:24:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:24:00,071 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:25:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:26:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:26:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:26:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:27:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:27:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:27:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:28:00,048 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:28:00,052 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:28:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:29:00,031 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:30:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:30:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:30:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:31:00,060 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:31:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:31:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:32:00,034 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:33:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:33:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:33:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:34:00,034 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:34:00,038 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:34:00,051 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:35:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:35:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:35:00,078 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:36:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:37:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:37:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:37:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:38:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:38:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:38:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:39:00,044 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:39:00,048 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:39:00,062 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:40:00,058 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:40:00,062 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:40:00,073 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:41:00,043 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:42:00,052 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:42:00,056 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:42:00,067 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:43:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:44:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:44:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:44:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:45:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:45:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:45:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:46:00,054 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:46:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:46:00,078 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:47:00,060 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:47:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:47:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:48:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:49:00,044 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:49:00,047 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:49:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:50:00,059 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:50:00,062 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:50:00,081 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:51:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:52:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:52:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:52:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:53:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:53:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:53:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:54:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:54:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:54:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:55:00,031 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:55:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:55:00,047 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:56:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:56:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:56:00,078 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:57:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:58:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:58:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:58:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 21:59:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 21:59:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 21:59:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:00:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:00:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:00:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:01:00,031 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:01:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:01:00,046 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:02:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:02:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:02:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:03:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:03:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:03:00,078 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:04:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:05:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:05:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:05:00,068 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:06:00,044 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:06:00,048 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:06:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:07:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:07:00,056 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:07:00,068 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:08:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:09:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:09:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:09:00,078 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:10:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:11:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:11:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:11:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:12:00,058 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:12:00,061 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:12:00,073 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:13:00,044 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:14:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:14:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:14:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:15:00,053 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:15:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:15:00,095 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:16:00,031 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:16:06,864 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+2015-08-26 19:00:58,566 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:00:58,575 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 19:00:58.574865
+2015-08-26 19:00:58,584 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:00:58,625 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 19:01:00,001 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:02:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:02:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:02:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:03:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:03:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:03:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:04:00,025 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:04:33,321 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
 applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
   GPIO.setup(LCD_D4, GPIO.OUT) # DB4
 applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
   GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
 
-2015-08-25 22:19:28,882 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:19:28,907 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-25 22:19:28.906978
-2015-08-25 22:19:28,916 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:19:28,936 - web2py.cron - INFO - Hard cron daemon started
-2015-08-25 22:20:00,031 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:20:04,242 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+2015-08-26 19:04:44,510 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:04:44,517 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 19:04:44.517144
+2015-08-26 19:04:44,541 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:04:44,577 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 19:05:00,016 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:06:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:06:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:06:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:06:11,961 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
+
+2015-08-26 19:06:23,760 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:06:23,783 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 19:06:23.782628
+2015-08-26 19:06:23,792 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:06:23,826 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 19:06:59,398 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
 Traceback (most recent call last):
   File "/usr/local/web2py/gluon/shell.py", line 261, in run
     execfile(startfile, _env)
-  File "applications/myapp/cron/tablebar.py", line 78, in <module>
+  File "applications/myapp/cron/tablebar.py", line 103, in <module>
     main()
-  File "applications/myapp/cron/tablebar.py", line 48, in main
+  File "applications/myapp/cron/tablebar.py", line 54, in main
     plines = getBaseballinfo()
-NameError: global name 'getBaseballinfo' is not defined
+  File "applications/myapp/modules/tablebar_baseball.py", line 49, in getBaseballinfo
+    baseballinfo[1] = str(team_1[1]) + " : " + str(team_2[1]) + " " +  convertState(play_state)
+TypeError: cannot concatenate 'str' and 'NoneType' objects
 
 
-2015-08-25 22:21:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:21:00,035 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:21:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:21:41,870 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:21:41,877 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-25 22:21:41.877418
-2015-08-25 22:21:41,887 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:21:41,906 - web2py.cron - INFO - Hard cron daemon started
-2015-08-25 22:22:00,013 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:23:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:23:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:23:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:24:00,031 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:24:00,035 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:24:00,047 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:25:00,030 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:25:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:25:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:26:00,040 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:26:00,044 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:26:00,056 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:27:00,031 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:27:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:27:00,046 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:28:00,044 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:28:00,047 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:28:00,061 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:29:00,060 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:29:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:29:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:30:00,054 - web2py.cron - DEBUG - hard cron invocation
-2015-08-25 22:30:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
-2015-08-25 22:30:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
-2015-08-25 22:30:05,568 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+2015-08-26 19:07:00,036 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:08:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:08:00,070 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:08:00,081 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:09:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:09:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:09:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:09:34,928 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:09:34,935 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 19:09:34.934927
+2015-08-26 19:09:34,944 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:09:34,976 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 19:10:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:10:10,785 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+Traceback (most recent call last):
+  File "/usr/local/web2py/gluon/shell.py", line 261, in run
+    execfile(startfile, _env)
+  File "applications/myapp/cron/tablebar.py", line 103, in <module>
+    main()
+  File "applications/myapp/cron/tablebar.py", line 54, in main
+    plines = getBaseballinfo()
+  File "applications/myapp/modules/tablebar_baseball.py", line 49, in getBaseballinfo
+    baseballinfo[1] = str(team_1[1]) + " : " + str(team_2[1]) + " " +  convertState(play_state)
+TypeError: cannot concatenate 'str' and 'NoneType' objects
+
+
+2015-08-26 19:11:00,015 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:11:00,019 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:11:00,030 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:11:47,277 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:11:47,284 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 19:11:47.284414
+2015-08-26 19:11:47,294 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:11:47,327 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 19:12:00,013 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:12:52,024 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+
+2015-08-26 19:13:05,343 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:13:05,350 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 19:13:05.350466
+2015-08-26 19:13:05,360 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:13:05,378 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 19:14:00,008 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:15:00,024 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:15:00,028 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:15:00,039 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:16:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:16:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:16:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:16:35,087 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
+
+2015-08-26 19:16:45,655 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:16:45,662 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 19:16:45.662430
+2015-08-26 19:16:45,672 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:16:45,706 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 19:17:00,014 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:18:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:18:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:18:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:19:00,025 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:20:00,056 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:20:00,060 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:20:00,071 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:20:43,125 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
+
+2015-08-26 19:20:54,493 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:20:54,500 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 19:20:54.499953
+2015-08-26 19:20:54,509 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:20:54,528 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 19:21:00,005 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:22:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:22:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:22:00,070 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:22:01,172 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
+
+2015-08-26 19:22:11,408 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:22:11,416 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 19:22:11.415621
+2015-08-26 19:22:11,425 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:22:11,456 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 19:23:00,005 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:24:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:24:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:24:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:25:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:25:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:25:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:26:00,019 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:27:00,050 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:27:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:27:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:28:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:28:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:28:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:29:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:29:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:29:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:30:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:30:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:30:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:31:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:31:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:31:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:32:00,045 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:33:00,045 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:33:00,049 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:33:00,060 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:33:58,198 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
+
+2015-08-26 19:34:09,317 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:34:09,326 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 19:34:09.325631
+2015-08-26 19:34:09,362 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:34:09,375 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 19:35:00,051 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:36:00,039 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:36:00,042 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:36:00,053 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:37:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:37:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:37:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:38:00,045 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:39:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:39:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:39:00,080 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:40:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:40:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:40:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:41:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:42:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:42:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:42:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:43:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:43:00,060 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:43:00,073 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:44:00,020 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:45:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:45:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:45:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:46:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:46:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:46:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:47:00,035 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:48:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:48:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:48:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:49:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:49:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:49:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:50:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:50:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:50:00,079 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:51:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:51:00,060 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:51:00,071 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:52:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:52:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:52:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:53:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:53:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:53:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:54:00,049 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:55:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:55:00,034 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:55:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:56:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:56:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:56:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:57:00,052 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:57:00,056 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:57:00,067 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:58:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 19:58:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 19:58:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 19:59:00,015 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:00:00,025 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:00:00,029 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:00:00,040 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:01:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:01:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:01:00,070 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:02:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:02:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:02:00,070 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:03:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:03:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:03:00,082 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:04:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:04:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:04:00,076 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:05:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:05:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:05:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:06:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:06:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:06:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:07:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:07:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:07:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:08:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:08:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:08:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:09:00,035 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:10:00,025 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:10:00,029 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:10:00,040 - web2py.cron - INFO - WEB2PY CRON (hard): admin executing **applications/admin/cron/expire_sessions.py in /usr/local/web2py at 2015-08-26 20:10:00.039975
+2015-08-26 20:10:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:10:07,069 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+
+2015-08-26 20:11:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:11:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:11:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:12:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:12:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:12:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:13:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:14:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:14:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:14:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:15:00,035 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:16:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:16:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:16:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:17:00,025 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:18:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:18:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:18:00,072 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:19:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:19:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:19:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:20:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:20:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:20:00,083 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:21:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:21:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:21:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:22:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:22:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:22:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:23:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:23:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:23:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:24:00,038 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:24:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:24:00,065 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:25:00,025 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:26:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:26:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:26:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:27:00,035 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:28:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:28:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:28:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:29:00,043 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:30:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:30:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:30:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:31:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:31:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:31:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:32:00,005 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:33:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:33:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:33:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:34:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:34:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:34:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:35:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:35:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:35:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:36:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:36:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:36:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:37:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:37:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:37:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:38:00,009 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:39:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:39:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:39:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:40:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:40:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:40:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:41:00,008 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:42:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:42:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:42:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:43:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:43:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:43:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:44:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:45:00,040 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:45:00,043 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:45:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:46:00,025 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:47:00,036 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:47:00,039 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:47:00,050 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:48:00,015 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:49:00,045 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:49:00,049 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:49:00,062 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:50:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:50:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:50:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:51:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:51:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:51:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:52:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:52:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:52:00,072 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:53:00,016 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:54:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:54:00,004 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:54:00,014 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:55:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:55:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:55:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:56:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:56:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:56:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:57:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:57:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:57:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:58:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 20:58:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 20:58:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 20:59:00,005 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:00:00,005 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:00:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:00:00,019 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:01:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:01:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:01:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:02:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:02:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:02:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:03:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:04:00,045 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:04:00,048 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:04:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:05:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:05:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:05:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:06:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:06:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:06:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:07:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:07:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:07:00,079 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:08:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:08:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:08:00,081 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:09:00,045 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:10:00,039 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:10:00,042 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:10:00,053 - web2py.cron - INFO - WEB2PY CRON (hard): admin executing **applications/admin/cron/expire_sessions.py in /usr/local/web2py at 2015-08-26 21:10:00.053073
+2015-08-26 21:10:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:10:07,252 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+
+2015-08-26 21:11:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:11:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:11:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:12:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:12:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:12:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:13:00,027 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:14:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:14:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:14:00,022 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:15:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:15:00,071 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:15:00,083 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:16:00,057 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:17:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:17:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:17:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:18:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:18:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:18:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:19:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:19:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:19:00,072 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:20:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:20:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:20:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:21:00,052 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:21:00,056 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:21:00,068 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:22:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:22:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:22:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:23:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:23:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:23:00,072 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:24:00,059 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:24:00,062 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:24:00,073 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:25:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:25:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:25:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:26:00,017 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:27:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:27:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:27:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:28:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:28:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:28:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:29:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:29:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:29:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:30:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:30:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:30:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:31:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:31:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:31:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:32:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:32:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:32:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:33:00,058 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:33:00,062 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:33:00,073 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:34:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:34:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:34:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:35:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:35:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:35:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:36:00,015 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:37:00,035 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:37:00,038 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:37:00,051 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:38:00,019 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:39:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:39:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:39:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:40:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:40:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:40:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:41:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:41:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:41:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:42:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:42:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:42:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:43:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:43:00,068 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:43:00,079 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:44:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:44:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:44:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:45:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:45:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:45:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:46:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:46:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:46:00,080 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:47:00,035 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:48:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:48:00,071 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:48:00,082 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:49:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:49:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:49:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:50:00,015 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:51:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:51:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:51:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:52:00,035 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:53:00,029 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:53:00,032 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:53:00,049 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:54:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:55:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:55:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:55:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:56:00,029 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:57:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:57:00,004 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:57:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:58:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:58:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:58:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 21:59:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 21:59:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 21:59:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:00:00,045 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:01:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:01:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:01:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:02:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:02:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:02:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:03:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:03:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:03:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:04:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:04:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:04:00,070 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:05:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:05:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:05:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:06:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:06:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:06:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:07:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:07:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:07:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:08:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:08:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:08:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:09:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:09:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:09:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:10:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:10:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:10:00,074 - web2py.cron - INFO - WEB2PY CRON (hard): admin executing **applications/admin/cron/expire_sessions.py in /usr/local/web2py at 2015-08-26 22:10:00.074339
+2015-08-26 22:10:00,079 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:10:07,312 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+
+2015-08-26 22:11:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:12:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:12:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:12:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:13:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:13:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:13:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:14:00,026 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:15:00,025 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:15:00,035 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:15:00,047 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:16:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:16:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:16:00,072 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:17:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:17:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:17:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:18:00,036 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:19:00,005 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:19:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:19:00,019 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:20:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:20:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:20:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:21:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:21:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:21:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:22:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:22:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:22:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:23:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:23:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:23:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:24:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:24:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:24:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:25:00,034 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:26:00,042 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:26:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:26:00,056 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:27:00,045 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:27:00,049 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:27:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:28:00,047 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:28:00,051 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:28:00,062 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:29:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:29:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:29:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:30:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:30:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:30:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:31:00,058 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:31:00,061 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:31:00,072 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:32:00,035 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:33:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:33:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:33:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:34:00,061 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:34:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:34:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:35:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:35:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:35:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:36:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:36:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:36:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:37:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:37:00,068 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:37:00,079 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:38:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:38:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:38:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:39:00,052 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:39:00,056 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:39:00,066 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:40:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:40:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:40:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:41:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:41:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:41:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:42:00,035 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:43:00,005 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:43:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:43:00,027 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:44:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:44:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:44:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:45:00,030 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:46:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:46:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:46:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:47:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:47:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:47:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:48:00,027 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:49:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:49:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:49:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:50:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:50:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:50:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:51:00,057 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:51:00,060 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:51:00,110 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:52:00,005 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:52:28,303 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
+
+2015-08-26 22:52:38,033 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:52:38,058 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-26 22:52:38.058304
+2015-08-26 22:52:38,068 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:52:38,089 - web2py.cron - INFO - Hard cron daemon started
+2015-08-26 22:53:00,022 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:54:00,046 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:54:00,049 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:54:00,060 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:55:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:55:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:55:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:56:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:56:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:56:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:57:00,019 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:58:00,045 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:58:00,049 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:58:00,060 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 22:59:00,051 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 22:59:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 22:59:00,065 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 23:00:00,057 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:00:00,060 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 23:00:00,078 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 23:01:00,045 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:02:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:02:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 23:02:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 23:03:00,059 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:03:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 23:03:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 23:04:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:04:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 23:04:00,080 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 23:05:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:05:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 23:05:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 23:06:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:06:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 23:06:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 23:07:00,055 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:07:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 23:07:00,069 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 23:08:00,005 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:09:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:09:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 23:09:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 23:10:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:11:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:11:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 23:11:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 23:12:00,026 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:13:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:13:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 23:13:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 23:14:00,000 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:15:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-26 23:15:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-26 23:15:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-26 23:15:40,928 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
 

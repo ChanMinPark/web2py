@@ -42,11 +42,11 @@ def getBaseballinfo():
     team_2=["name2","score2"]
     team_1[0] = myTeamInfo.split('alt="')[1].split('" title=')[0]
     team_2[0] = myTeamInfo.split('alt="')[2].split('" title=')[0]
-    team_1[1] = myTeamInfo.split('<strong class="vs_num">')[1].split('>')[0]
-    team_2[1] = myTeamInfo.split('<strong class="vs_num">')[2].split('>')[0]
+    team_1[1] = myTeamInfo.split('<strong class="vs_num">')[1].split('<')[0]
+    team_2[1] = myTeamInfo.split('<strong class="vs_num">')[2].split('<')[0]
     
-    baseballinfo[0] = team_1[0] + " vs " + team_2[0]
-    baseballinfo[1] = team_1[1] + " : " + team_2[1] + convertState(play_state)
+    baseballinfo[0] = teamName(team_1[0],1) + " vs " + teamName(team_2[0],1)
+    baseballinfo[1] = team_1[1] + " : " + team_2[1] + " " +  convertState(play_state)
     
     return baseballinfo
 
@@ -81,7 +81,7 @@ def teamName(teamcode, code):    #code - 0:searching , 1:printing
             return "HT"
         elif code == 1:
             return "KIA"
-    elif teamcode == "LT":
+    elif teamcode == "롯데":
         return "LT"
     elif teamcode == "LG":
         return "LG"
@@ -94,7 +94,7 @@ def convertState(state):
     if state in ['종료']:
         return 'end'
     else:
-        if state[-1:] == '초':
-            return state[:-2]+'TOP'
-        elif state[-1:] == '말':
-            return state[:-2]+'BOT'
+        if '초' in state:
+            return '%sTOP'%state[:state.find('회초')]
+        else:
+            return '%sBOT'%state[:state.find('회말')]

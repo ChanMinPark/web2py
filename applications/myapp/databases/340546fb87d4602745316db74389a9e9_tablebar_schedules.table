@@ -39,7 +39,7 @@ I00
 sg10
 S'string'
 p15
-ssS'location'
+ssS'isalarm'
 p16
 (dp17
 g4
@@ -47,7 +47,7 @@ I512
 sg5
 I00
 sg6
-I3
+I5
 sg7
 S'CHAR(512)'
 p18
@@ -55,7 +55,7 @@ sg9
 I00
 sg10
 g15
-ssS'isalarm'
+ssS'location'
 p19
 (dp20
 g4
@@ -63,7 +63,7 @@ I512
 sg5
 I00
 sg6
-I5
+I3
 sg7
 S'CHAR(512)'
 p21

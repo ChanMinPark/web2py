@@ -518,3 +518,7 @@
 [2015-08-28 12:58:51] EDIT myapp/modules/tablebar_baseball.py: 4
 [2015-08-28 12:58:54] EDIT myapp/modules/tablebar_baseball.py: 0
 [2015-08-28 13:17:58] EDIT myapp/modules/tablebar_baseball.py: 1
+[2015-08-28 13:23:53] EDIT myapp/views/default/index.html: 0
+[2015-08-28 13:24:03] EDIT myapp/controllers/default.py: -1
+[2015-08-28 14:33:11] CREATE tablebar_LCDlogging.py: 0
+[2015-08-28 14:51:37] EDIT myapp/modules/tablebar_LCDlogging.py: 12

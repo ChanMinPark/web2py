@@ -7,7 +7,7 @@
 ## - user is required for authentication and authorization
 ## - download is for downloading files uploaded in the db (does streaming)
 #########################################################################
-from temp_humi_co2 import *
+#from temp_humi_co2 import *
 from tablebar_globals_modules import *
 
 def index():
@@ -44,9 +44,9 @@ def project_temp_humi_co2():
     #r_temp = reading(1)
     #r_humi = reading(2)
     #r_value = calc(r_temp, r_humi)
-    r_co2 = getCO2()
+    #r_co2 = getCO2()
     #return dict(temp = "%.7s"%(r_value[0]), humi = "%.7s"%(r_value[1]), co2 = r_co2)
-    return dict(temp = "0", humi = "0", co2 = r_co2)
+    return dict(temp = "0", humi = "0", co2 = "0")
 
 def project_tablebar_setting():
     form = SQLFORM(db.tablebar_schedules, deletable=True)

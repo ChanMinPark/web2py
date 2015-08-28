@@ -62,7 +62,7 @@ def getBaseballinfo():
     team_2[1] = myTeamInfo.split('<strong class="vs_num">')[2].split('<')[0]
     
     if (g_Score_1 != int(team_1[1])) or (g_Score_2 != int(team_2[1])):
-        printAlarm_game_score
+        printAlarm_game_score()
         g_Score_1 = int(team_1[1])
         g_Score_2 = int(team_2[1])
     

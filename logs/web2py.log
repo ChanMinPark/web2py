@@ -4396,3 +4396,60 @@ applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in
 applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
   GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
 
+2015-08-28 13:07:49,153 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 13:07:49,160 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-28 13:07:49.160338
+2015-08-28 13:07:49,170 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 13:07:49,189 - web2py.cron - INFO - Hard cron daemon started
+2015-08-28 13:08:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 13:08:33,425 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+None
+None
+None
+Traceback (most recent call last):
+  File "/usr/local/web2py/gluon/shell.py", line 261, in run
+    execfile(startfile, _env)
+  File "applications/myapp/cron/tablebar.py", line 103, in <module>
+    main()
+  File "applications/myapp/cron/tablebar.py", line 54, in main
+    plines = getBaseballinfo()
+  File "applications/myapp/modules/tablebar_baseball.py", line 41, in getBaseballinfo
+    if g_playState == "init":
+UnboundLocalError: local variable 'g_playState' referenced before assignment
+
+
+2015-08-28 13:09:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 13:09:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 13:09:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 13:10:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 13:10:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 13:10:00,075 - web2py.cron - INFO - WEB2PY CRON (hard): admin executing **applications/admin/cron/expire_sessions.py in /usr/local/web2py at 2015-08-28 13:10:00.074988
+2015-08-28 13:10:00,080 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 13:10:06,825 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+
+2015-08-28 13:11:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 13:11:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 13:11:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 13:12:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 13:12:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 13:12:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 13:13:00,044 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 13:14:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 13:14:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 13:14:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 13:15:00,024 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 13:16:00,044 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 13:16:00,048 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 13:16:00,059 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 13:17:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 13:17:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 13:17:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 13:18:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 13:18:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 13:18:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 13:18:25,676 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 13:18:25,693 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-28 13:18:25.693051
+2015-08-28 13:18:25,703 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 13:18:25,736 - web2py.cron - INFO - Hard cron daemon started
+2015-08-28 13:19:00,034 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 13:19:19,868 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+

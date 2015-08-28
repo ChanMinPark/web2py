@@ -10,6 +10,7 @@ g_Score_2 = 0
 g_playState = "init"
 
 def getBaseballinfo():
+    global g_myScore, g_otScore, g_playState
     baseballinfo = ["Baseball","Information"]
     
     try:

@@ -4739,3 +4739,2319 @@ applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in
 applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
   GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
 
+2015-08-28 15:03:06,915 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:03:06,936 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-28 15:03:06.935937
+2015-08-28 15:03:06,946 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:03:06,983 - web2py.cron - INFO - Hard cron daemon started
+2015-08-28 15:03:18,167 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:03:18,171 - pcmlogger - INFO - 15:03
+2015-08-28 15:03:18,174 - pcmlogger - INFO - ================
+2015-08-28 15:03:19,464 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:03:19,469 - pcmlogger - INFO - 15:03
+2015-08-28 15:03:19,473 - pcmlogger - INFO - ================
+2015-08-28 15:03:20,743 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:03:20,748 - pcmlogger - INFO - 15:03
+2015-08-28 15:03:20,753 - pcmlogger - INFO - ================
+2015-08-28 15:03:22,019 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:03:22,026 - pcmlogger - INFO - 15:03
+2015-08-28 15:03:22,032 - pcmlogger - INFO - ================
+2015-08-28 15:03:23,302 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:03:23,310 - pcmlogger - INFO - 15:03
+2015-08-28 15:03:23,317 - pcmlogger - INFO - ================
+2015-08-28 15:03:24,589 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:03:24,597 - pcmlogger - INFO - 15:03
+2015-08-28 15:03:24,605 - pcmlogger - INFO - ================
+2015-08-28 15:03:25,865 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:03:25,874 - pcmlogger - INFO - 15:03
+2015-08-28 15:03:25,883 - pcmlogger - INFO - ================
+2015-08-28 15:03:27,157 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:03:27,169 - pcmlogger - INFO - 15:03
+2015-08-28 15:03:27,179 - pcmlogger - INFO - ================
+2015-08-28 15:03:28,458 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:03:28,469 - pcmlogger - INFO - 15:03
+2015-08-28 15:03:28,480 - pcmlogger - INFO - ================
+2015-08-28 15:03:29,750 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:03:29,762 - pcmlogger - INFO - 15:03
+2015-08-28 15:03:29,774 - pcmlogger - INFO - ================
+2015-08-28 15:03:32,137 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:03:32,160 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:03:32,183 - pcmlogger - INFO - ================
+2015-08-28 15:03:34,366 - pcmlogger - INFO - Aug#The Wed Thu Fri Sat Sun 
+2015-08-28 15:03:34,390 - pcmlogger - INFO - 28 # 25  26  27 *28  29  30 
+2015-08-28 15:03:34,434 - pcmlogger - INFO - ================
+2015-08-28 15:03:36,614 - pcmlogger - INFO - Aug#Wed Thu Fri Sat Sun 
+2015-08-28 15:03:36,639 - pcmlogger - INFO - 28 # 26  27 *28  29  30 
+2015-08-28 15:03:36,663 - pcmlogger - INFO - ================
+2015-08-28 15:03:38,837 - pcmlogger - INFO - Aug#Thu Fri Sat Sun 
+2015-08-28 15:03:38,853 - pcmlogger - INFO - 28 # 27 *28  29  30 
+2015-08-28 15:03:38,869 - pcmlogger - INFO - ================
+2015-08-28 15:03:41,024 - pcmlogger - INFO - Aug#Fri Sat Sun 
+2015-08-28 15:03:41,040 - pcmlogger - INFO - 28 #*28  29  30 
+2015-08-28 15:03:41,057 - pcmlogger - INFO - ================
+2015-08-28 15:03:49,517 - pcmlogger - INFO - Sorry,
+2015-08-28 15:03:49,534 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:03:49,552 - pcmlogger - INFO - ================
+2015-08-28 15:03:50,708 - pcmlogger - INFO - Sorry,
+2015-08-28 15:03:50,727 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:03:50,746 - pcmlogger - INFO - ================
+2015-08-28 15:03:51,908 - pcmlogger - INFO - Sorry,
+2015-08-28 15:03:51,928 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:03:51,948 - pcmlogger - INFO - ================
+2015-08-28 15:03:53,105 - pcmlogger - INFO - Sorry,
+2015-08-28 15:03:53,125 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:03:53,146 - pcmlogger - INFO - ================
+2015-08-28 15:03:54,305 - pcmlogger - INFO - Sorry,
+2015-08-28 15:03:54,326 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:03:54,348 - pcmlogger - INFO - ================
+2015-08-28 15:03:58,914 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:03:58,938 - pcmlogger - INFO - 15:03
+2015-08-28 15:03:58,960 - pcmlogger - INFO - ================
+2015-08-28 15:04:00,044 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:04:00,248 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:00,271 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:00,294 - pcmlogger - INFO - ================
+2015-08-28 15:04:01,579 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:01,603 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:01,629 - pcmlogger - INFO - ================
+2015-08-28 15:04:02,902 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:02,928 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:02,953 - pcmlogger - INFO - ================
+2015-08-28 15:04:04,235 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:04,262 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:04,287 - pcmlogger - INFO - ================
+2015-08-28 15:04:05,578 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:05,605 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:05,634 - pcmlogger - INFO - ================
+2015-08-28 15:04:06,921 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:06,950 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:06,978 - pcmlogger - INFO - ================
+2015-08-28 15:04:08,258 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:08,287 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:08,315 - pcmlogger - INFO - ================
+2015-08-28 15:04:09,600 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:09,632 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:09,663 - pcmlogger - INFO - ================
+2015-08-28 15:04:10,955 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:10,986 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:11,017 - pcmlogger - INFO - ================
+2015-08-28 15:04:13,393 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:04:13,425 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:04:13,456 - pcmlogger - INFO - ================
+2015-08-28 15:04:15,627 - pcmlogger - INFO - Aug#The Wed Thu Fri Sat Sun 
+2015-08-28 15:04:15,661 - pcmlogger - INFO - 28 # 25  26  27 *28  29  30 
+2015-08-28 15:04:15,693 - pcmlogger - INFO - ================
+2015-08-28 15:04:17,866 - pcmlogger - INFO - Aug#Wed Thu Fri Sat Sun 
+2015-08-28 15:04:18,089 - pcmlogger - INFO - 28 # 26  27 *28  29  30 
+2015-08-28 15:04:18,123 - pcmlogger - INFO - ================
+2015-08-28 15:04:20,297 - pcmlogger - INFO - Aug#Thu Fri Sat Sun 
+2015-08-28 15:04:20,332 - pcmlogger - INFO - 28 # 27 *28  29  30 
+2015-08-28 15:04:20,366 - pcmlogger - INFO - ================
+2015-08-28 15:04:22,540 - pcmlogger - INFO - Aug#Fri Sat Sun 
+2015-08-28 15:04:22,576 - pcmlogger - INFO - 28 #*28  29  30 
+2015-08-28 15:04:22,611 - pcmlogger - INFO - ================
+2015-08-28 15:04:25,545 - pcmlogger - INFO - Sorry,
+2015-08-28 15:04:25,583 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:04:25,620 - pcmlogger - INFO - ================
+2015-08-28 15:04:26,796 - pcmlogger - INFO - Sorry,
+2015-08-28 15:04:26,834 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:04:26,871 - pcmlogger - INFO - ================
+2015-08-28 15:04:28,046 - pcmlogger - INFO - Sorry,
+2015-08-28 15:04:28,084 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:04:28,123 - pcmlogger - INFO - ================
+2015-08-28 15:04:29,300 - pcmlogger - INFO - Sorry,
+2015-08-28 15:04:29,340 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:04:29,379 - pcmlogger - INFO - ================
+2015-08-28 15:04:30,556 - pcmlogger - INFO - Sorry,
+2015-08-28 15:04:30,612 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:04:30,652 - pcmlogger - INFO - ================
+2015-08-28 15:04:35,244 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:35,288 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:35,331 - pcmlogger - INFO - ================
+2015-08-28 15:04:36,635 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:36,679 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:36,721 - pcmlogger - INFO - ================
+2015-08-28 15:04:38,019 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:38,062 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:38,105 - pcmlogger - INFO - ================
+2015-08-28 15:04:39,403 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:39,447 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:39,492 - pcmlogger - INFO - ================
+2015-08-28 15:04:40,793 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:40,839 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:40,884 - pcmlogger - INFO - ================
+2015-08-28 15:04:42,188 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:42,234 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:42,279 - pcmlogger - INFO - ================
+2015-08-28 15:04:43,592 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:43,638 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:43,684 - pcmlogger - INFO - ================
+2015-08-28 15:04:44,989 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:45,038 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:45,086 - pcmlogger - INFO - ================
+2015-08-28 15:04:46,394 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:46,443 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:46,492 - pcmlogger - INFO - ================
+2015-08-28 15:04:47,802 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:04:47,852 - pcmlogger - INFO - 15:04
+2015-08-28 15:04:47,904 - pcmlogger - INFO - ================
+2015-08-28 15:04:50,588 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:04:50,639 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:04:50,690 - pcmlogger - INFO - ================
+2015-08-28 15:04:52,881 - pcmlogger - INFO - Aug#The Wed Thu Fri Sat Sun 
+2015-08-28 15:04:52,933 - pcmlogger - INFO - 28 # 25  26  27 *28  29  30 
+2015-08-28 15:04:52,985 - pcmlogger - INFO - ================
+2015-08-28 15:04:55,177 - pcmlogger - INFO - Aug#Wed Thu Fri Sat Sun 
+2015-08-28 15:04:55,229 - pcmlogger - INFO - 28 # 26  27 *28  29  30 
+2015-08-28 15:04:55,282 - pcmlogger - INFO - ================
+2015-08-28 15:04:57,476 - pcmlogger - INFO - Aug#Thu Fri Sat Sun 
+2015-08-28 15:04:57,531 - pcmlogger - INFO - 28 # 27 *28  29  30 
+2015-08-28 15:04:57,585 - pcmlogger - INFO - ================
+2015-08-28 15:04:59,779 - pcmlogger - INFO - Aug#Fri Sat Sun 
+2015-08-28 15:04:59,834 - pcmlogger - INFO - 28 #*28  29  30 
+2015-08-28 15:04:59,890 - pcmlogger - INFO - ================
+2015-08-28 15:05:00,050 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:05:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:05:00,065 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:05:02,701 - pcmlogger - INFO - Sorry,
+2015-08-28 15:05:02,758 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:05:02,815 - pcmlogger - INFO - ================
+2015-08-28 15:05:04,011 - pcmlogger - INFO - Sorry,
+2015-08-28 15:05:04,068 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:05:04,124 - pcmlogger - INFO - ================
+2015-08-28 15:05:05,320 - pcmlogger - INFO - Sorry,
+2015-08-28 15:05:05,379 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:05:05,437 - pcmlogger - INFO - ================
+2015-08-28 15:05:06,633 - pcmlogger - INFO - Sorry,
+2015-08-28 15:05:06,690 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:05:06,750 - pcmlogger - INFO - ================
+2015-08-28 15:05:07,954 - pcmlogger - INFO - Sorry,
+2015-08-28 15:05:08,023 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:05:08,082 - pcmlogger - INFO - ================
+2015-08-28 15:05:12,670 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:12,733 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:12,796 - pcmlogger - INFO - ================
+2015-08-28 15:05:14,111 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:14,172 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:14,232 - pcmlogger - INFO - ================
+2015-08-28 15:05:15,551 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:15,613 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:15,675 - pcmlogger - INFO - ================
+2015-08-28 15:05:17,001 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:17,064 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:17,126 - pcmlogger - INFO - ================
+2015-08-28 15:05:18,448 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:18,512 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:18,576 - pcmlogger - INFO - ================
+2015-08-28 15:05:19,898 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:19,962 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:20,026 - pcmlogger - INFO - ================
+2015-08-28 15:05:21,348 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:21,413 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:21,481 - pcmlogger - INFO - ================
+2015-08-28 15:05:22,807 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:22,873 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:22,940 - pcmlogger - INFO - ================
+2015-08-28 15:05:24,272 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:24,339 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:24,406 - pcmlogger - INFO - ================
+2015-08-28 15:05:25,728 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:25,799 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:25,870 - pcmlogger - INFO - ================
+2015-08-28 15:05:28,308 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:05:28,377 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:05:28,448 - pcmlogger - INFO - ================
+2015-08-28 15:05:30,656 - pcmlogger - INFO - Aug#The Wed Thu Fri Sat Sun 
+2015-08-28 15:05:30,726 - pcmlogger - INFO - 28 # 25  26  27 *28  29  30 
+2015-08-28 15:05:30,798 - pcmlogger - INFO - ================
+2015-08-28 15:05:33,012 - pcmlogger - INFO - Aug#Wed Thu Fri Sat Sun 
+2015-08-28 15:05:33,158 - pcmlogger - INFO - 28 # 26  27 *28  29  30 
+2015-08-28 15:05:33,307 - pcmlogger - INFO - ================
+2015-08-28 15:05:35,589 - pcmlogger - INFO - Aug#Thu Fri Sat Sun 
+2015-08-28 15:05:35,661 - pcmlogger - INFO - 28 # 27 *28  29  30 
+2015-08-28 15:05:35,733 - pcmlogger - INFO - ================
+2015-08-28 15:05:37,948 - pcmlogger - INFO - Aug#Fri Sat Sun 
+2015-08-28 15:05:38,035 - pcmlogger - INFO - 28 #*28  29  30 
+2015-08-28 15:05:38,109 - pcmlogger - INFO - ================
+2015-08-28 15:05:41,037 - pcmlogger - INFO - Sorry,
+2015-08-28 15:05:41,111 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:05:41,186 - pcmlogger - INFO - ================
+2015-08-28 15:05:42,400 - pcmlogger - INFO - Sorry,
+2015-08-28 15:05:42,475 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:05:42,551 - pcmlogger - INFO - ================
+2015-08-28 15:05:43,764 - pcmlogger - INFO - Sorry,
+2015-08-28 15:05:43,842 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:05:43,923 - pcmlogger - INFO - ================
+2015-08-28 15:05:45,169 - pcmlogger - INFO - Sorry,
+2015-08-28 15:05:45,246 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:05:45,322 - pcmlogger - INFO - ================
+2015-08-28 15:05:46,541 - pcmlogger - INFO - Sorry,
+2015-08-28 15:05:46,619 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:05:46,697 - pcmlogger - INFO - ================
+2015-08-28 15:05:51,298 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:51,380 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:51,464 - pcmlogger - INFO - ================
+2015-08-28 15:05:52,803 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:52,885 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:52,964 - pcmlogger - INFO - ================
+2015-08-28 15:05:54,301 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:54,381 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:54,491 - pcmlogger - INFO - ================
+2015-08-28 15:05:55,938 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:56,124 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:56,308 - pcmlogger - INFO - ================
+2015-08-28 15:05:57,755 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:57,945 - pcmlogger - INFO - 15:05
+2015-08-28 15:05:58,131 - pcmlogger - INFO - ================
+2015-08-28 15:05:59,574 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:05:59,763 - pcmlogger - INFO - 15:05
+2015-08-28 15:06:00,054 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:06:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:06:00,082 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:05:59,955 - pcmlogger - INFO - ================
+2015-08-28 15:06:01,417 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:06:01,610 - pcmlogger - INFO - 15:06
+2015-08-28 15:06:01,801 - pcmlogger - INFO - ================
+2015-08-28 15:06:03,256 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:06:03,449 - pcmlogger - INFO - 15:06
+2015-08-28 15:06:03,645 - pcmlogger - INFO - ================
+2015-08-28 15:06:05,104 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:06:05,300 - pcmlogger - INFO - 15:06
+2015-08-28 15:06:05,495 - pcmlogger - INFO - ================
+2015-08-28 15:06:06,969 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:06:07,168 - pcmlogger - INFO - 15:06
+2015-08-28 15:06:07,365 - pcmlogger - INFO - ================
+2015-08-28 15:06:09,911 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:06:10,110 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:06:10,310 - pcmlogger - INFO - ================
+2015-08-28 15:06:12,656 - pcmlogger - INFO - Aug#The Wed Thu Fri Sat Sun 
+2015-08-28 15:06:12,836 - pcmlogger - INFO - 28 # 25  26  27 *28  29  30 
+2015-08-28 15:06:13,012 - pcmlogger - INFO - ================
+2015-08-28 15:06:15,344 - pcmlogger - INFO - Aug#Wed Thu Fri Sat Sun 
+2015-08-28 15:06:15,433 - pcmlogger - INFO - 28 # 26  27 *28  29  30 
+2015-08-28 15:06:15,522 - pcmlogger - INFO - ================
+2015-08-28 15:06:17,754 - pcmlogger - INFO - Aug#Thu Fri Sat Sun 
+2015-08-28 15:06:17,846 - pcmlogger - INFO - 28 # 27 *28  29  30 
+2015-08-28 15:06:17,941 - pcmlogger - INFO - ================
+2015-08-28 15:06:20,170 - pcmlogger - INFO - Aug#Fri Sat Sun 
+2015-08-28 15:06:20,262 - pcmlogger - INFO - 28 #*28  29  30 
+2015-08-28 15:06:20,358 - pcmlogger - INFO - ================
+2015-08-28 15:06:22,829 - pcmlogger - INFO - Sorry,
+2015-08-28 15:06:22,924 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:06:23,016 - pcmlogger - INFO - ================
+2015-08-28 15:06:24,247 - pcmlogger - INFO - Sorry,
+2015-08-28 15:06:24,341 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:06:24,434 - pcmlogger - INFO - ================
+2015-08-28 15:06:25,666 - pcmlogger - INFO - Sorry,
+2015-08-28 15:06:25,759 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:06:25,864 - pcmlogger - INFO - ================
+2015-08-28 15:06:27,096 - pcmlogger - INFO - Sorry,
+2015-08-28 15:06:27,191 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:06:27,286 - pcmlogger - INFO - ================
+2015-08-28 15:06:28,519 - pcmlogger - INFO - Sorry,
+2015-08-28 15:06:28,615 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:06:28,713 - pcmlogger - INFO - ================
+2015-08-28 15:06:31,009 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
+
+2015-08-28 15:09:52,265 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:09:52,286 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-28 15:09:52.286110
+2015-08-28 15:09:52,310 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:09:52,344 - web2py.cron - INFO - Hard cron daemon started
+2015-08-28 15:10:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:10:00,479 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:10:00,483 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:10:00,487 - pcmlogger - INFO - ================
+2015-08-28 15:10:03,705 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:10:03,710 - pcmlogger - INFO - 15:10
+2015-08-28 15:10:03,714 - pcmlogger - INFO - ================
+2015-08-28 15:10:17,816 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:10:17,825 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:10:17,834 - pcmlogger - INFO - ================
+2015-08-28 15:10:28,786 - pcmlogger - INFO - Sorry,
+2015-08-28 15:10:28,797 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:10:28,808 - pcmlogger - INFO - ================
+2015-08-28 15:10:34,905 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:10:34,936 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:10:34,950 - pcmlogger - INFO - ================
+2015-08-28 15:10:38,195 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:10:38,203 - pcmlogger - INFO - 15:10
+2015-08-28 15:10:38,211 - pcmlogger - INFO - ================
+2015-08-28 15:10:39,185 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
+
+2015-08-28 15:11:55,386 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:11:55,393 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-28 15:11:55.393455
+2015-08-28 15:11:55,403 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:11:55,455 - web2py.cron - INFO - Hard cron daemon started
+2015-08-28 15:12:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:12:04,006 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:12:04,011 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:12:04,014 - pcmlogger - INFO - ================
+2015-08-28 15:12:07,230 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:12:07,233 - pcmlogger - INFO - 15:12
+2015-08-28 15:12:07,237 - pcmlogger - INFO - ================
+2015-08-28 15:12:21,380 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:12:21,384 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:12:21,389 - pcmlogger - INFO - ================
+2015-08-28 15:12:37,168 - pcmlogger - INFO - Sorry,
+2015-08-28 15:12:37,172 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:12:37,177 - pcmlogger - INFO - ================
+2015-08-28 15:12:43,116 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:12:43,122 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:12:43,126 - pcmlogger - INFO - ================
+2015-08-28 15:12:46,343 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:12:46,347 - pcmlogger - INFO - 15:12
+2015-08-28 15:12:46,352 - pcmlogger - INFO - ================
+2015-08-28 15:13:00,005 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:13:00,009 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:13:00,014 - pcmlogger - INFO - ================
+2015-08-28 15:13:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:13:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:13:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:13:12,181 - pcmlogger - INFO - Sorry,
+2015-08-28 15:13:12,185 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:13:12,190 - pcmlogger - INFO - ================
+2015-08-28 15:13:18,137 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:13:18,143 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:13:18,148 - pcmlogger - INFO - ================
+2015-08-28 15:13:21,365 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:13:21,370 - pcmlogger - INFO - 15:13
+2015-08-28 15:13:21,375 - pcmlogger - INFO - ================
+2015-08-28 15:13:35,108 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:13:35,112 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:13:35,117 - pcmlogger - INFO - ================
+2015-08-28 15:13:46,800 - pcmlogger - INFO - Sorry,
+2015-08-28 15:13:46,805 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:13:46,810 - pcmlogger - INFO - ================
+2015-08-28 15:13:52,757 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:13:52,762 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:13:52,767 - pcmlogger - INFO - ================
+2015-08-28 15:13:55,987 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:13:55,992 - pcmlogger - INFO - 15:13
+2015-08-28 15:13:55,996 - pcmlogger - INFO - ================
+2015-08-28 15:14:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:14:09,658 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:14:09,663 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:14:09,668 - pcmlogger - INFO - ================
+2015-08-28 15:14:20,902 - pcmlogger - INFO - Sorry,
+2015-08-28 15:14:20,906 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:14:20,911 - pcmlogger - INFO - ================
+2015-08-28 15:14:26,915 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:14:26,920 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:14:26,925 - pcmlogger - INFO - ================
+2015-08-28 15:14:30,438 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:14:30,442 - pcmlogger - INFO - 15:14
+2015-08-28 15:14:30,447 - pcmlogger - INFO - ================
+2015-08-28 15:14:44,191 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:14:44,195 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:14:44,200 - pcmlogger - INFO - ================
+2015-08-28 15:14:54,858 - pcmlogger - INFO - Sorry,
+2015-08-28 15:14:54,863 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:14:54,868 - pcmlogger - INFO - ================
+2015-08-28 15:15:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:15:00,014 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:15:00,025 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:15:00,815 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:15:00,820 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:15:00,826 - pcmlogger - INFO - ================
+2015-08-28 15:15:04,039 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:15:04,044 - pcmlogger - INFO - 15:15
+2015-08-28 15:15:04,048 - pcmlogger - INFO - ================
+2015-08-28 15:15:18,132 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:15:18,136 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:15:18,141 - pcmlogger - INFO - ================
+2015-08-28 15:15:28,998 - pcmlogger - INFO - Sorry,
+2015-08-28 15:15:29,002 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:15:29,008 - pcmlogger - INFO - ================
+2015-08-28 15:15:34,951 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:15:34,957 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:15:34,961 - pcmlogger - INFO - ================
+2015-08-28 15:15:38,175 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:15:38,179 - pcmlogger - INFO - 15:15
+2015-08-28 15:15:38,184 - pcmlogger - INFO - ================
+2015-08-28 15:15:52,049 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:15:52,053 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:15:52,058 - pcmlogger - INFO - ================
+2015-08-28 15:16:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:16:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:16:00,019 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:16:02,833 - pcmlogger - INFO - Sorry,
+2015-08-28 15:16:02,837 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:16:02,842 - pcmlogger - INFO - ================
+2015-08-28 15:16:08,789 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:16:08,795 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:16:08,799 - pcmlogger - INFO - ================
+2015-08-28 15:16:12,014 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:16:12,018 - pcmlogger - INFO - 15:16
+2015-08-28 15:16:12,023 - pcmlogger - INFO - ================
+2015-08-28 15:16:26,060 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:16:26,065 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:16:26,069 - pcmlogger - INFO - ================
+2015-08-28 15:16:37,090 - pcmlogger - INFO - Sorry,
+2015-08-28 15:16:37,095 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:16:37,099 - pcmlogger - INFO - ================
+2015-08-28 15:16:43,034 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:16:43,039 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:16:43,044 - pcmlogger - INFO - ================
+2015-08-28 15:16:46,262 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:16:46,266 - pcmlogger - INFO - 15:16
+2015-08-28 15:16:46,271 - pcmlogger - INFO - ================
+2015-08-28 15:17:00,006 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:17:00,011 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:17:00,016 - pcmlogger - INFO - ================
+2015-08-28 15:17:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:17:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:17:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:17:11,032 - pcmlogger - INFO - Sorry,
+2015-08-28 15:17:11,037 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:17:11,042 - pcmlogger - INFO - ================
+2015-08-28 15:17:17,004 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:17:17,009 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:17:17,014 - pcmlogger - INFO - ================
+2015-08-28 15:17:20,229 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:17:20,234 - pcmlogger - INFO - 15:17
+2015-08-28 15:17:20,238 - pcmlogger - INFO - ================
+2015-08-28 15:17:34,386 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:17:34,391 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:17:34,406 - pcmlogger - INFO - ================
+2015-08-28 15:17:45,732 - pcmlogger - INFO - Sorry,
+2015-08-28 15:17:45,737 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:17:45,741 - pcmlogger - INFO - ================
+2015-08-28 15:17:51,676 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:17:51,681 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:17:51,686 - pcmlogger - INFO - ================
+2015-08-28 15:17:54,903 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:17:54,907 - pcmlogger - INFO - 15:17
+2015-08-28 15:17:54,912 - pcmlogger - INFO - ================
+2015-08-28 15:18:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:18:08,893 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:18:08,898 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:18:08,903 - pcmlogger - INFO - ================
+2015-08-28 15:18:20,172 - pcmlogger - INFO - Sorry,
+2015-08-28 15:18:20,176 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:18:20,181 - pcmlogger - INFO - ================
+2015-08-28 15:18:26,120 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:18:26,126 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:18:26,131 - pcmlogger - INFO - ================
+2015-08-28 15:18:29,342 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:18:29,347 - pcmlogger - INFO - 15:18
+2015-08-28 15:18:29,351 - pcmlogger - INFO - ================
+2015-08-28 15:18:43,534 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:18:43,538 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:18:43,543 - pcmlogger - INFO - ================
+2015-08-28 15:18:55,049 - pcmlogger - INFO - Sorry,
+2015-08-28 15:18:55,053 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:18:55,058 - pcmlogger - INFO - ================
+2015-08-28 15:19:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:19:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:19:00,085 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:19:00,998 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:19:01,004 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:19:01,009 - pcmlogger - INFO - ================
+2015-08-28 15:19:04,220 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:19:04,225 - pcmlogger - INFO - 15:19
+2015-08-28 15:19:04,230 - pcmlogger - INFO - ================
+2015-08-28 15:19:18,021 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:19:18,026 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:19:18,031 - pcmlogger - INFO - ================
+2015-08-28 15:19:28,986 - pcmlogger - INFO - Sorry,
+2015-08-28 15:19:28,991 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:19:28,995 - pcmlogger - INFO - ================
+2015-08-28 15:19:34,975 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:19:34,980 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:19:34,986 - pcmlogger - INFO - ================
+2015-08-28 15:19:38,204 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:19:38,209 - pcmlogger - INFO - 15:19
+2015-08-28 15:19:38,213 - pcmlogger - INFO - ================
+2015-08-28 15:19:52,368 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:19:52,372 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:19:52,377 - pcmlogger - INFO - ================
+2015-08-28 15:20:00,031 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:20:03,953 - pcmlogger - INFO - Sorry,
+2015-08-28 15:20:03,958 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:20:03,962 - pcmlogger - INFO - ================
+2015-08-28 15:20:09,905 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:20:09,911 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:20:09,916 - pcmlogger - INFO - ================
+2015-08-28 15:20:13,131 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:20:13,135 - pcmlogger - INFO - 15:20
+2015-08-28 15:20:13,140 - pcmlogger - INFO - ================
+2015-08-28 15:20:27,111 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:20:27,115 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:20:27,120 - pcmlogger - INFO - ================
+2015-08-28 15:20:38,106 - pcmlogger - INFO - Sorry,
+2015-08-28 15:20:38,111 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:20:38,116 - pcmlogger - INFO - ================
+2015-08-28 15:20:44,058 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:20:44,063 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:20:44,068 - pcmlogger - INFO - ================
+2015-08-28 15:20:47,289 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:20:47,293 - pcmlogger - INFO - 15:20
+2015-08-28 15:20:47,298 - pcmlogger - INFO - ================
+2015-08-28 15:21:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:21:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:21:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:21:01,521 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:21:01,525 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:21:01,530 - pcmlogger - INFO - ================
+2015-08-28 15:21:12,797 - pcmlogger - INFO - Sorry,
+2015-08-28 15:21:12,802 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:21:12,806 - pcmlogger - INFO - ================
+2015-08-28 15:21:18,756 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:21:18,761 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:21:18,766 - pcmlogger - INFO - ================
+2015-08-28 15:21:21,984 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:21:21,989 - pcmlogger - INFO - 15:21
+2015-08-28 15:21:21,993 - pcmlogger - INFO - ================
+2015-08-28 15:21:35,784 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:21:35,788 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:21:35,793 - pcmlogger - INFO - ================
+2015-08-28 15:21:51,108 - pcmlogger - INFO - Sorry,
+2015-08-28 15:21:51,113 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:21:51,118 - pcmlogger - INFO - ================
+2015-08-28 15:21:57,060 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:21:57,066 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:21:57,070 - pcmlogger - INFO - ================
+2015-08-28 15:22:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:22:00,007 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:22:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:22:00,286 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:22:00,290 - pcmlogger - INFO - 15:22
+2015-08-28 15:22:00,295 - pcmlogger - INFO - ================
+2015-08-28 15:22:14,006 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:22:14,011 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:22:14,015 - pcmlogger - INFO - ================
+2015-08-28 15:22:28,719 - pcmlogger - INFO - Sorry,
+2015-08-28 15:22:28,723 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:22:28,728 - pcmlogger - INFO - ================
+2015-08-28 15:22:34,771 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:22:34,786 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:22:34,791 - pcmlogger - INFO - ================
+2015-08-28 15:22:38,030 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:22:38,035 - pcmlogger - INFO - 15:22
+2015-08-28 15:22:38,039 - pcmlogger - INFO - ================
+2015-08-28 15:22:52,132 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:22:52,137 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:22:52,141 - pcmlogger - INFO - ================
+2015-08-28 15:23:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:23:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:23:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:23:04,412 - pcmlogger - INFO - Sorry,
+2015-08-28 15:23:04,416 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:23:04,421 - pcmlogger - INFO - ================
+2015-08-28 15:23:10,371 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:23:10,377 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:23:10,381 - pcmlogger - INFO - ================
+2015-08-28 15:23:13,600 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:23:13,605 - pcmlogger - INFO - 15:23
+2015-08-28 15:23:13,609 - pcmlogger - INFO - ================
+2015-08-28 15:23:27,642 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:23:27,647 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:23:27,651 - pcmlogger - INFO - ================
+2015-08-28 15:23:38,888 - pcmlogger - INFO - Sorry,
+2015-08-28 15:23:38,892 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:23:38,897 - pcmlogger - INFO - ================
+2015-08-28 15:23:44,830 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:23:44,837 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:23:44,842 - pcmlogger - INFO - ================
+2015-08-28 15:23:48,056 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:23:48,061 - pcmlogger - INFO - 15:23
+2015-08-28 15:23:48,065 - pcmlogger - INFO - ================
+2015-08-28 15:24:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:24:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:24:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:24:02,045 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:24:02,050 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:24:02,055 - pcmlogger - INFO - ================
+2015-08-28 15:24:13,034 - pcmlogger - INFO - Sorry,
+2015-08-28 15:24:13,038 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:24:13,043 - pcmlogger - INFO - ================
+2015-08-28 15:24:18,985 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:24:18,990 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:24:18,995 - pcmlogger - INFO - ================
+2015-08-28 15:24:20,063 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
+
+2015-08-28 15:25:31,142 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:25:31,149 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-28 15:25:31.149412
+2015-08-28 15:25:31,159 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:25:31,179 - web2py.cron - INFO - Hard cron daemon started
+2015-08-28 15:25:44,865 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:25:44,870 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:25:44,875 - pcmlogger - INFO - ================
+2015-08-28 15:25:48,098 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:25:48,103 - pcmlogger - INFO - 15:25
+2015-08-28 15:25:48,108 - pcmlogger - INFO - ================
+2015-08-28 15:26:00,027 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:26:02,173 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:26:02,178 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:26:02,183 - pcmlogger - INFO - ================
+2015-08-28 15:26:13,011 - pcmlogger - INFO - Sorry,
+2015-08-28 15:26:13,016 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:26:13,022 - pcmlogger - INFO - ================
+2015-08-28 15:26:18,965 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:26:18,970 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:26:18,976 - pcmlogger - INFO - ================
+2015-08-28 15:26:22,196 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:26:22,201 - pcmlogger - INFO - 15:26
+2015-08-28 15:26:22,207 - pcmlogger - INFO - ================
+2015-08-28 15:26:35,968 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:26:35,974 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:26:35,979 - pcmlogger - INFO - ================
+2015-08-28 15:26:50,952 - pcmlogger - INFO - Sorry,
+2015-08-28 15:26:50,957 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:26:50,962 - pcmlogger - INFO - ================
+2015-08-28 15:26:56,910 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:26:56,916 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:26:56,921 - pcmlogger - INFO - ================
+2015-08-28 15:27:00,025 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:27:00,028 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:27:00,042 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:27:00,151 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:27:00,156 - pcmlogger - INFO - 15:27
+2015-08-28 15:27:00,161 - pcmlogger - INFO - ================
+2015-08-28 15:27:14,078 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:27:14,083 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:27:14,089 - pcmlogger - INFO - ================
+2015-08-28 15:27:25,275 - pcmlogger - INFO - Sorry,
+2015-08-28 15:27:25,280 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:27:25,285 - pcmlogger - INFO - ================
+2015-08-28 15:27:31,226 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:27:31,232 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:27:31,238 - pcmlogger - INFO - ================
+2015-08-28 15:27:34,486 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:27:34,491 - pcmlogger - INFO - 15:27
+2015-08-28 15:27:34,506 - pcmlogger - INFO - ================
+2015-08-28 15:27:48,693 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:27:48,699 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:27:48,704 - pcmlogger - INFO - ================
+2015-08-28 15:28:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:28:04,815 - pcmlogger - INFO - Sorry,
+2015-08-28 15:28:04,821 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:28:04,826 - pcmlogger - INFO - ================
+2015-08-28 15:28:10,803 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:28:10,809 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:28:10,815 - pcmlogger - INFO - ================
+2015-08-28 15:28:14,033 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:28:14,039 - pcmlogger - INFO - 15:28
+2015-08-28 15:28:14,044 - pcmlogger - INFO - ================
+2015-08-28 15:28:28,075 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:28:28,080 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:28:28,086 - pcmlogger - INFO - ================
+2015-08-28 15:28:39,138 - pcmlogger - INFO - Sorry,
+2015-08-28 15:28:39,143 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:28:39,149 - pcmlogger - INFO - ================
+2015-08-28 15:28:45,093 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:28:45,099 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:28:45,104 - pcmlogger - INFO - ================
+2015-08-28 15:28:48,325 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:28:48,330 - pcmlogger - INFO - 15:28
+2015-08-28 15:28:48,335 - pcmlogger - INFO - ================
+2015-08-28 15:29:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:29:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:29:00,019 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:29:02,048 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:29:02,053 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:29:02,058 - pcmlogger - INFO - ================
+2015-08-28 15:29:12,972 - pcmlogger - INFO - Sorry,
+2015-08-28 15:29:12,977 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:29:12,983 - pcmlogger - INFO - ================
+2015-08-28 15:29:18,925 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:29:18,931 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:29:18,936 - pcmlogger - INFO - ================
+2015-08-28 15:29:22,158 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:29:22,163 - pcmlogger - INFO - 15:29
+2015-08-28 15:29:22,168 - pcmlogger - INFO - ================
+2015-08-28 15:29:36,434 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:29:36,439 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:29:36,445 - pcmlogger - INFO - ================
+2015-08-28 15:29:48,310 - pcmlogger - INFO - Sorry,
+2015-08-28 15:29:48,315 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:29:48,320 - pcmlogger - INFO - ================
+2015-08-28 15:29:54,280 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:29:54,286 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:29:54,291 - pcmlogger - INFO - ================
+2015-08-28 15:29:57,511 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:29:57,516 - pcmlogger - INFO - 15:29
+2015-08-28 15:29:57,522 - pcmlogger - INFO - ================
+2015-08-28 15:30:00,015 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:30:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:30:00,032 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:30:11,651 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:30:11,657 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:30:11,662 - pcmlogger - INFO - ================
+2015-08-28 15:30:22,928 - pcmlogger - INFO - Sorry,
+2015-08-28 15:30:22,933 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:30:22,939 - pcmlogger - INFO - ================
+2015-08-28 15:30:28,881 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:30:28,887 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:30:28,892 - pcmlogger - INFO - ================
+2015-08-28 15:30:32,113 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:30:32,126 - pcmlogger - INFO - 15:30
+2015-08-28 15:30:32,131 - pcmlogger - INFO - ================
+2015-08-28 15:30:46,287 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:30:46,292 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:30:46,297 - pcmlogger - INFO - ================
+2015-08-28 15:30:58,187 - pcmlogger - INFO - Sorry,
+2015-08-28 15:30:58,192 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:30:58,197 - pcmlogger - INFO - ================
+2015-08-28 15:31:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:31:04,146 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:31:04,152 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:31:04,157 - pcmlogger - INFO - ================
+2015-08-28 15:31:07,376 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:31:07,381 - pcmlogger - INFO - 15:31
+2015-08-28 15:31:07,386 - pcmlogger - INFO - ================
+2015-08-28 15:31:21,437 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:31:21,443 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:31:21,448 - pcmlogger - INFO - ================
+2015-08-28 15:31:32,935 - pcmlogger - INFO - Sorry,
+2015-08-28 15:31:32,941 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:31:32,950 - pcmlogger - INFO - ================
+2015-08-28 15:31:38,908 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:31:38,914 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:31:38,919 - pcmlogger - INFO - ================
+2015-08-28 15:31:42,138 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:31:42,143 - pcmlogger - INFO - 15:31
+2015-08-28 15:31:42,149 - pcmlogger - INFO - ================
+2015-08-28 15:31:55,888 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:31:55,894 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:31:55,899 - pcmlogger - INFO - ================
+2015-08-28 15:32:00,049 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:32:00,062 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:32:00,079 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:32:06,814 - pcmlogger - INFO - Sorry,
+2015-08-28 15:32:06,819 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:32:06,824 - pcmlogger - INFO - ================
+2015-08-28 15:32:12,775 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:32:12,781 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:32:12,786 - pcmlogger - INFO - ================
+2015-08-28 15:32:16,005 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:32:16,011 - pcmlogger - INFO - 15:32
+2015-08-28 15:32:16,016 - pcmlogger - INFO - ================
+2015-08-28 15:32:30,144 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:32:30,149 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:32:30,155 - pcmlogger - INFO - ================
+2015-08-28 15:32:41,222 - pcmlogger - INFO - Sorry,
+2015-08-28 15:32:41,228 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:32:41,233 - pcmlogger - INFO - ================
+2015-08-28 15:32:47,187 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:32:47,193 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:32:47,199 - pcmlogger - INFO - ================
+2015-08-28 15:32:50,410 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:32:50,416 - pcmlogger - INFO - 15:32
+2015-08-28 15:32:50,422 - pcmlogger - INFO - ================
+2015-08-28 15:33:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:33:04,331 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:33:04,337 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:33:04,342 - pcmlogger - INFO - ================
+2015-08-28 15:33:15,071 - pcmlogger - INFO - Sorry,
+2015-08-28 15:33:15,076 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:33:15,081 - pcmlogger - INFO - ================
+2015-08-28 15:33:21,023 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:33:21,029 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:33:21,035 - pcmlogger - INFO - ================
+2015-08-28 15:33:24,273 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:33:24,278 - pcmlogger - INFO - 15:33
+2015-08-28 15:33:24,284 - pcmlogger - INFO - ================
+2015-08-28 15:33:38,507 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:33:38,512 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:33:38,517 - pcmlogger - INFO - ================
+2015-08-28 15:33:49,832 - pcmlogger - INFO - Sorry,
+2015-08-28 15:33:49,838 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:33:49,843 - pcmlogger - INFO - ================
+2015-08-28 15:33:55,783 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:33:55,789 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:33:55,795 - pcmlogger - INFO - ================
+2015-08-28 15:33:59,007 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:33:59,012 - pcmlogger - INFO - 15:33
+2015-08-28 15:33:59,017 - pcmlogger - INFO - ================
+2015-08-28 15:34:00,023 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:34:00,027 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:34:00,046 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:34:12,678 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:34:12,683 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:34:12,689 - pcmlogger - INFO - ================
+2015-08-28 15:34:27,144 - pcmlogger - INFO - Sorry,
+2015-08-28 15:34:27,149 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:34:27,154 - pcmlogger - INFO - ================
+2015-08-28 15:34:33,104 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:34:33,110 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:34:33,126 - pcmlogger - INFO - ================
+2015-08-28 15:34:36,346 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:34:36,351 - pcmlogger - INFO - 15:34
+2015-08-28 15:34:36,356 - pcmlogger - INFO - ================
+2015-08-28 15:34:50,063 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:34:50,068 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:34:50,073 - pcmlogger - INFO - ================
+2015-08-28 15:35:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:35:02,858 - pcmlogger - INFO - Sorry,
+2015-08-28 15:35:02,863 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:35:02,869 - pcmlogger - INFO - ================
+2015-08-28 15:35:08,809 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:35:08,815 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:35:08,821 - pcmlogger - INFO - ================
+2015-08-28 15:35:12,040 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:35:12,045 - pcmlogger - INFO - 15:35
+2015-08-28 15:35:12,051 - pcmlogger - INFO - ================
+2015-08-28 15:35:25,755 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:35:25,760 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:35:25,765 - pcmlogger - INFO - ================
+2015-08-28 15:35:37,167 - pcmlogger - INFO - Sorry,
+2015-08-28 15:35:37,172 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:35:37,178 - pcmlogger - INFO - ================
+2015-08-28 15:35:43,121 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:35:43,127 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:35:43,132 - pcmlogger - INFO - ================
+2015-08-28 15:35:46,349 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:35:46,354 - pcmlogger - INFO - 15:35
+2015-08-28 15:35:46,359 - pcmlogger - INFO - ================
+2015-08-28 15:36:00,054 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:36:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:36:00,072 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:36:00,088 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:36:00,093 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:36:00,099 - pcmlogger - INFO - ================
+2015-08-28 15:36:11,761 - pcmlogger - INFO - Sorry,
+2015-08-28 15:36:11,766 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:36:11,773 - pcmlogger - INFO - ================
+2015-08-28 15:36:17,711 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:36:17,717 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:36:17,722 - pcmlogger - INFO - ================
+2015-08-28 15:36:20,939 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:36:20,944 - pcmlogger - INFO - 15:36
+2015-08-28 15:36:20,950 - pcmlogger - INFO - ================
+2015-08-28 15:36:34,714 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:36:34,719 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:36:34,724 - pcmlogger - INFO - ================
+2015-08-28 15:36:47,831 - pcmlogger - INFO - Sorry,
+2015-08-28 15:36:47,836 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:36:47,841 - pcmlogger - INFO - ================
+2015-08-28 15:36:53,778 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:36:53,784 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:36:53,789 - pcmlogger - INFO - ================
+2015-08-28 15:36:57,004 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:36:57,009 - pcmlogger - INFO - 15:36
+2015-08-28 15:36:57,015 - pcmlogger - INFO - ================
+2015-08-28 15:37:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:37:10,710 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:37:10,715 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:37:10,721 - pcmlogger - INFO - ================
+2015-08-28 15:37:24,539 - pcmlogger - INFO - Sorry,
+2015-08-28 15:37:24,545 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:37:24,550 - pcmlogger - INFO - ================
+2015-08-28 15:37:30,782 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:37:30,788 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:37:30,793 - pcmlogger - INFO - ================
+2015-08-28 15:37:34,042 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:37:34,056 - pcmlogger - INFO - 15:37
+2015-08-28 15:37:34,061 - pcmlogger - INFO - ================
+2015-08-28 15:37:47,784 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:37:47,789 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:37:47,795 - pcmlogger - INFO - ================
+2015-08-28 15:37:58,756 - pcmlogger - INFO - Sorry,
+2015-08-28 15:37:58,761 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:37:58,767 - pcmlogger - INFO - ================
+2015-08-28 15:38:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:38:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:38:00,019 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:38:04,716 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:38:04,722 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:38:04,727 - pcmlogger - INFO - ================
+2015-08-28 15:38:08,314 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:38:08,319 - pcmlogger - INFO - 15:38
+2015-08-28 15:38:08,324 - pcmlogger - INFO - ================
+2015-08-28 15:38:21,997 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:38:22,002 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:38:22,008 - pcmlogger - INFO - ================
+2015-08-28 15:38:33,867 - pcmlogger - INFO - Sorry,
+2015-08-28 15:38:33,873 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:38:33,900 - pcmlogger - INFO - ================
+2015-08-28 15:38:39,847 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:38:39,853 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:38:39,861 - pcmlogger - INFO - ================
+2015-08-28 15:38:43,074 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:38:43,079 - pcmlogger - INFO - 15:38
+2015-08-28 15:38:43,085 - pcmlogger - INFO - ================
+2015-08-28 15:38:57,149 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:38:57,154 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:38:57,159 - pcmlogger - INFO - ================
+2015-08-28 15:39:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:39:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:39:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:39:08,779 - pcmlogger - INFO - Sorry,
+2015-08-28 15:39:08,784 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:39:08,789 - pcmlogger - INFO - ================
+2015-08-28 15:39:14,739 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:39:14,745 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:39:14,750 - pcmlogger - INFO - ================
+2015-08-28 15:39:17,967 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:39:17,972 - pcmlogger - INFO - 15:39
+2015-08-28 15:39:17,977 - pcmlogger - INFO - ================
+2015-08-28 15:39:31,952 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:39:31,958 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:39:31,963 - pcmlogger - INFO - ================
+2015-08-28 15:39:42,841 - pcmlogger - INFO - Sorry,
+2015-08-28 15:39:42,846 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:39:42,851 - pcmlogger - INFO - ================
+2015-08-28 15:39:48,815 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:39:48,821 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:39:48,827 - pcmlogger - INFO - ================
+2015-08-28 15:39:52,048 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:39:52,053 - pcmlogger - INFO - 15:39
+2015-08-28 15:39:52,059 - pcmlogger - INFO - ================
+2015-08-28 15:40:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:40:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:40:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:40:05,760 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:40:05,765 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:40:05,770 - pcmlogger - INFO - ================
+2015-08-28 15:40:18,361 - pcmlogger - INFO - Sorry,
+2015-08-28 15:40:18,366 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:40:18,371 - pcmlogger - INFO - ================
+2015-08-28 15:40:24,333 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:40:24,339 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:40:24,345 - pcmlogger - INFO - ================
+2015-08-28 15:40:27,567 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:40:27,572 - pcmlogger - INFO - 15:40
+2015-08-28 15:40:27,577 - pcmlogger - INFO - ================
+2015-08-28 15:40:41,635 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:40:41,640 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:40:41,646 - pcmlogger - INFO - ================
+2015-08-28 15:40:52,846 - pcmlogger - INFO - Sorry,
+2015-08-28 15:40:52,851 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:40:52,857 - pcmlogger - INFO - ================
+2015-08-28 15:40:58,808 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:40:58,814 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:40:58,820 - pcmlogger - INFO - ================
+2015-08-28 15:41:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:41:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:41:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:41:02,043 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:41:02,048 - pcmlogger - INFO - 15:41
+2015-08-28 15:41:02,053 - pcmlogger - INFO - ================
+2015-08-28 15:41:16,169 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:41:16,174 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:41:16,180 - pcmlogger - INFO - ================
+2015-08-28 15:41:27,116 - pcmlogger - INFO - Sorry,
+2015-08-28 15:41:27,121 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:41:27,127 - pcmlogger - INFO - ================
+2015-08-28 15:41:33,077 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:41:33,083 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:41:33,088 - pcmlogger - INFO - ================
+2015-08-28 15:41:36,305 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:41:36,310 - pcmlogger - INFO - 15:41
+2015-08-28 15:41:36,316 - pcmlogger - INFO - ================
+2015-08-28 15:41:50,268 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:41:50,274 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:41:50,279 - pcmlogger - INFO - ================
+2015-08-28 15:42:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:42:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:42:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:42:01,250 - pcmlogger - INFO - Sorry,
+2015-08-28 15:42:01,255 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:42:01,260 - pcmlogger - INFO - ================
+2015-08-28 15:42:07,211 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:42:07,217 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:42:07,222 - pcmlogger - INFO - ================
+2015-08-28 15:42:10,437 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:42:10,443 - pcmlogger - INFO - 15:42
+2015-08-28 15:42:10,448 - pcmlogger - INFO - ================
+2015-08-28 15:42:24,471 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:42:24,476 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:42:24,481 - pcmlogger - INFO - ================
+2015-08-28 15:42:35,913 - pcmlogger - INFO - Sorry,
+2015-08-28 15:42:35,919 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:42:35,936 - pcmlogger - INFO - ================
+2015-08-28 15:42:41,878 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:42:41,885 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:42:41,891 - pcmlogger - INFO - ================
+2015-08-28 15:42:45,112 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:42:45,117 - pcmlogger - INFO - 15:42
+2015-08-28 15:42:45,122 - pcmlogger - INFO - ================
+2015-08-28 15:42:58,866 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:42:58,871 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:42:58,876 - pcmlogger - INFO - ================
+2015-08-28 15:43:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:43:10,222 - pcmlogger - INFO - Sorry,
+2015-08-28 15:43:10,228 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:43:10,233 - pcmlogger - INFO - ================
+2015-08-28 15:43:16,195 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:43:16,201 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:43:16,207 - pcmlogger - INFO - ================
+2015-08-28 15:43:19,428 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:43:19,434 - pcmlogger - INFO - 15:43
+2015-08-28 15:43:19,439 - pcmlogger - INFO - ================
+2015-08-28 15:43:33,176 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:43:33,182 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:43:33,197 - pcmlogger - INFO - ================
+2015-08-28 15:43:43,870 - pcmlogger - INFO - Sorry,
+2015-08-28 15:43:43,885 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:43:43,890 - pcmlogger - INFO - ================
+2015-08-28 15:43:49,797 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:43:49,803 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:43:49,808 - pcmlogger - INFO - ================
+2015-08-28 15:43:53,215 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:43:53,220 - pcmlogger - INFO - 15:43
+2015-08-28 15:43:53,226 - pcmlogger - INFO - ================
+2015-08-28 15:44:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:44:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:44:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:44:06,941 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:44:06,947 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:44:06,952 - pcmlogger - INFO - ================
+2015-08-28 15:44:17,828 - pcmlogger - INFO - Sorry,
+2015-08-28 15:44:17,833 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:44:17,839 - pcmlogger - INFO - ================
+2015-08-28 15:44:23,779 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:44:23,785 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:44:23,791 - pcmlogger - INFO - ================
+2015-08-28 15:44:27,007 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:44:27,012 - pcmlogger - INFO - 15:44
+2015-08-28 15:44:27,017 - pcmlogger - INFO - ================
+2015-08-28 15:44:40,961 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:44:40,966 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:44:40,972 - pcmlogger - INFO - ================
+2015-08-28 15:44:52,197 - pcmlogger - INFO - Sorry,
+2015-08-28 15:44:52,202 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:44:52,207 - pcmlogger - INFO - ================
+2015-08-28 15:44:58,149 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:44:58,155 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:44:58,160 - pcmlogger - INFO - ================
+2015-08-28 15:45:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:45:01,378 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:45:01,383 - pcmlogger - INFO - 15:45
+2015-08-28 15:45:01,388 - pcmlogger - INFO - ================
+2015-08-28 15:45:15,323 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:45:15,329 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:45:15,336 - pcmlogger - INFO - ================
+2015-08-28 15:45:27,370 - pcmlogger - INFO - Sorry,
+2015-08-28 15:45:27,375 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:45:27,380 - pcmlogger - INFO - ================
+2015-08-28 15:45:33,411 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:45:33,417 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:45:33,436 - pcmlogger - INFO - ================
+2015-08-28 15:45:36,669 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:45:36,675 - pcmlogger - INFO - 15:45
+2015-08-28 15:45:36,680 - pcmlogger - INFO - ================
+2015-08-28 15:45:50,659 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:45:50,665 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:45:50,671 - pcmlogger - INFO - ================
+2015-08-28 15:46:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:46:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:46:00,019 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:46:02,285 - pcmlogger - INFO - Sorry,
+2015-08-28 15:46:02,290 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:46:02,295 - pcmlogger - INFO - ================
+2015-08-28 15:46:08,238 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:46:08,244 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:46:08,249 - pcmlogger - INFO - ================
+2015-08-28 15:46:11,469 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:46:11,474 - pcmlogger - INFO - 15:46
+2015-08-28 15:46:11,479 - pcmlogger - INFO - ================
+2015-08-28 15:46:25,279 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:46:25,284 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:46:25,289 - pcmlogger - INFO - ================
+2015-08-28 15:46:36,416 - pcmlogger - INFO - Sorry,
+2015-08-28 15:46:36,421 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:46:36,426 - pcmlogger - INFO - ================
+2015-08-28 15:46:42,344 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:46:42,350 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:46:42,355 - pcmlogger - INFO - ================
+2015-08-28 15:46:45,554 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:46:45,559 - pcmlogger - INFO - 15:46
+2015-08-28 15:46:45,564 - pcmlogger - INFO - ================
+2015-08-28 15:46:59,453 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:46:59,458 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:46:59,464 - pcmlogger - INFO - ================
+2015-08-28 15:47:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:47:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:47:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:47:10,806 - pcmlogger - INFO - Sorry,
+2015-08-28 15:47:10,811 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:47:10,817 - pcmlogger - INFO - ================
+2015-08-28 15:47:16,765 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:47:16,771 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:47:16,776 - pcmlogger - INFO - ================
+2015-08-28 15:47:19,994 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:47:19,999 - pcmlogger - INFO - 15:47
+2015-08-28 15:47:20,005 - pcmlogger - INFO - ================
+2015-08-28 15:47:34,055 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:47:34,060 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:47:34,076 - pcmlogger - INFO - ================
+2015-08-28 15:47:44,781 - pcmlogger - INFO - Sorry,
+2015-08-28 15:47:44,786 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:47:44,792 - pcmlogger - INFO - ================
+2015-08-28 15:47:50,748 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:47:50,754 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:47:50,759 - pcmlogger - INFO - ================
+2015-08-28 15:47:53,986 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:47:53,991 - pcmlogger - INFO - 15:47
+2015-08-28 15:47:53,997 - pcmlogger - INFO - ================
+2015-08-28 15:48:00,038 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:48:00,042 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:48:00,061 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:48:08,060 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:48:08,065 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:48:08,071 - pcmlogger - INFO - ================
+2015-08-28 15:48:19,286 - pcmlogger - INFO - Sorry,
+2015-08-28 15:48:19,291 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:48:19,297 - pcmlogger - INFO - ================
+2015-08-28 15:48:25,252 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:48:25,258 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:48:25,264 - pcmlogger - INFO - ================
+2015-08-28 15:48:28,480 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:48:28,486 - pcmlogger - INFO - 15:48
+2015-08-28 15:48:28,491 - pcmlogger - INFO - ================
+2015-08-28 15:48:42,693 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:48:42,698 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:48:42,704 - pcmlogger - INFO - ================
+2015-08-28 15:48:54,295 - pcmlogger - INFO - Sorry,
+2015-08-28 15:48:54,301 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:48:54,306 - pcmlogger - INFO - ================
+2015-08-28 15:49:00,025 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:49:00,285 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:49:00,291 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:49:00,296 - pcmlogger - INFO - ================
+2015-08-28 15:49:03,518 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:49:03,525 - pcmlogger - INFO - 15:49
+2015-08-28 15:49:03,530 - pcmlogger - INFO - ================
+2015-08-28 15:49:17,625 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:49:17,630 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:49:17,635 - pcmlogger - INFO - ================
+2015-08-28 15:49:29,198 - pcmlogger - INFO - Sorry,
+2015-08-28 15:49:29,204 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:49:29,209 - pcmlogger - INFO - ================
+2015-08-28 15:49:35,158 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:49:35,165 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:49:35,170 - pcmlogger - INFO - ================
+2015-08-28 15:49:38,394 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:49:38,399 - pcmlogger - INFO - 15:49
+2015-08-28 15:49:38,404 - pcmlogger - INFO - ================
+2015-08-28 15:49:52,468 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:49:52,474 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:49:52,479 - pcmlogger - INFO - ================
+2015-08-28 15:50:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:50:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:50:00,019 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:50:04,026 - pcmlogger - INFO - Sorry,
+2015-08-28 15:50:04,031 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:50:04,042 - pcmlogger - INFO - ================
+2015-08-28 15:50:09,997 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:50:10,003 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:50:10,009 - pcmlogger - INFO - ================
+2015-08-28 15:50:13,225 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:50:13,230 - pcmlogger - INFO - 15:50
+2015-08-28 15:50:13,235 - pcmlogger - INFO - ================
+2015-08-28 15:50:27,291 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:50:27,296 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:50:27,301 - pcmlogger - INFO - ================
+2015-08-28 15:50:39,477 - pcmlogger - INFO - Sorry,
+2015-08-28 15:50:39,483 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:50:39,489 - pcmlogger - INFO - ================
+2015-08-28 15:50:45,443 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:50:45,449 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:50:45,454 - pcmlogger - INFO - ================
+2015-08-28 15:50:48,671 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:50:48,676 - pcmlogger - INFO - 15:50
+2015-08-28 15:50:48,681 - pcmlogger - INFO - ================
+2015-08-28 15:51:00,036 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:51:00,040 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:51:00,055 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:51:02,422 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:51:02,428 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:51:02,433 - pcmlogger - INFO - ================
+2015-08-28 15:51:13,402 - pcmlogger - INFO - Sorry,
+2015-08-28 15:51:13,408 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:51:13,413 - pcmlogger - INFO - ================
+2015-08-28 15:51:19,372 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:51:19,380 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:51:19,386 - pcmlogger - INFO - ================
+2015-08-28 15:51:22,605 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:51:22,610 - pcmlogger - INFO - 15:51
+2015-08-28 15:51:22,615 - pcmlogger - INFO - ================
+2015-08-28 15:51:36,672 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:51:36,678 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:51:36,683 - pcmlogger - INFO - ================
+2015-08-28 15:51:47,801 - pcmlogger - INFO - Sorry,
+2015-08-28 15:51:47,806 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:51:47,811 - pcmlogger - INFO - ================
+2015-08-28 15:51:53,753 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:51:53,759 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:51:53,765 - pcmlogger - INFO - ================
+2015-08-28 15:51:56,981 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:51:56,987 - pcmlogger - INFO - 15:51
+2015-08-28 15:51:56,992 - pcmlogger - INFO - ================
+2015-08-28 15:52:00,052 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:52:00,055 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:52:00,067 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:52:11,069 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:52:11,074 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:52:11,079 - pcmlogger - INFO - ================
+2015-08-28 15:52:22,206 - pcmlogger - INFO - Sorry,
+2015-08-28 15:52:22,211 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:52:22,216 - pcmlogger - INFO - ================
+2015-08-28 15:52:28,167 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:52:28,173 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:52:28,179 - pcmlogger - INFO - ================
+2015-08-28 15:52:31,387 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:52:31,393 - pcmlogger - INFO - 15:52
+2015-08-28 15:52:31,399 - pcmlogger - INFO - ================
+2015-08-28 15:52:45,276 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:52:45,282 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:52:45,287 - pcmlogger - INFO - ================
+2015-08-28 15:52:56,000 - pcmlogger - INFO - Sorry,
+2015-08-28 15:52:56,006 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:52:56,011 - pcmlogger - INFO - ================
+2015-08-28 15:53:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:53:01,975 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:53:01,981 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:53:01,987 - pcmlogger - INFO - ================
+2015-08-28 15:53:05,204 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:53:05,209 - pcmlogger - INFO - 15:53
+2015-08-28 15:53:05,215 - pcmlogger - INFO - ================
+2015-08-28 15:53:18,860 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:53:18,866 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:53:18,871 - pcmlogger - INFO - ================
+2015-08-28 15:53:30,890 - pcmlogger - INFO - Sorry,
+2015-08-28 15:53:30,895 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:53:30,902 - pcmlogger - INFO - ================
+2015-08-28 15:53:36,869 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:53:36,875 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:53:36,880 - pcmlogger - INFO - ================
+2015-08-28 15:53:40,097 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:53:40,102 - pcmlogger - INFO - 15:53
+2015-08-28 15:53:40,108 - pcmlogger - INFO - ================
+2015-08-28 15:53:53,806 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:53:53,811 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:53:53,817 - pcmlogger - INFO - ================
+2015-08-28 15:54:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:54:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:54:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:54:04,919 - pcmlogger - INFO - Sorry,
+2015-08-28 15:54:04,924 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:54:04,930 - pcmlogger - INFO - ================
+2015-08-28 15:54:10,882 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:54:10,888 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:54:10,893 - pcmlogger - INFO - ================
+2015-08-28 15:54:14,119 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:54:14,124 - pcmlogger - INFO - 15:54
+2015-08-28 15:54:14,130 - pcmlogger - INFO - ================
+2015-08-28 15:54:28,349 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:54:28,354 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:54:28,359 - pcmlogger - INFO - ================
+2015-08-28 15:54:40,010 - pcmlogger - INFO - Sorry,
+2015-08-28 15:54:40,016 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:54:40,022 - pcmlogger - INFO - ================
+2015-08-28 15:54:45,966 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:54:45,974 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:54:45,980 - pcmlogger - INFO - ================
+2015-08-28 15:54:49,194 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:54:49,199 - pcmlogger - INFO - 15:54
+2015-08-28 15:54:49,205 - pcmlogger - INFO - ================
+2015-08-28 15:55:00,054 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:55:00,057 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:55:00,068 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:55:03,305 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:55:03,310 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:55:03,316 - pcmlogger - INFO - ================
+2015-08-28 15:55:14,483 - pcmlogger - INFO - Sorry,
+2015-08-28 15:55:14,489 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:55:14,494 - pcmlogger - INFO - ================
+2015-08-28 15:55:20,455 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:55:20,460 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:55:20,466 - pcmlogger - INFO - ================
+2015-08-28 15:55:23,679 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:55:23,685 - pcmlogger - INFO - 15:55
+2015-08-28 15:55:23,690 - pcmlogger - INFO - ================
+2015-08-28 15:55:37,605 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:55:37,610 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:55:37,616 - pcmlogger - INFO - ================
+2015-08-28 15:55:48,937 - pcmlogger - INFO - Sorry,
+2015-08-28 15:55:48,942 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:55:48,948 - pcmlogger - INFO - ================
+2015-08-28 15:55:54,897 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:55:54,903 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:55:54,909 - pcmlogger - INFO - ================
+2015-08-28 15:55:58,121 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:55:58,127 - pcmlogger - INFO - 15:55
+2015-08-28 15:55:58,132 - pcmlogger - INFO - ================
+2015-08-28 15:56:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:56:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:56:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:56:12,150 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:56:12,155 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:56:12,161 - pcmlogger - INFO - ================
+2015-08-28 15:56:22,996 - pcmlogger - INFO - Sorry,
+2015-08-28 15:56:23,001 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:56:23,007 - pcmlogger - INFO - ================
+2015-08-28 15:56:28,947 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:56:28,953 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:56:28,958 - pcmlogger - INFO - ================
+2015-08-28 15:56:32,172 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:56:32,177 - pcmlogger - INFO - 15:56
+2015-08-28 15:56:32,182 - pcmlogger - INFO - ================
+2015-08-28 15:56:46,452 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:56:46,458 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:56:46,463 - pcmlogger - INFO - ================
+2015-08-28 15:56:58,238 - pcmlogger - INFO - Sorry,
+2015-08-28 15:56:58,243 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:56:58,249 - pcmlogger - INFO - ================
+2015-08-28 15:57:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:57:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:57:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:57:04,212 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:57:04,219 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:57:04,224 - pcmlogger - INFO - ================
+2015-08-28 15:57:07,443 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:57:07,449 - pcmlogger - INFO - 15:57
+2015-08-28 15:57:07,454 - pcmlogger - INFO - ================
+2015-08-28 15:57:21,146 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:57:21,151 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:57:21,157 - pcmlogger - INFO - ================
+2015-08-28 15:57:32,776 - pcmlogger - INFO - Sorry,
+2015-08-28 15:57:32,781 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:57:32,787 - pcmlogger - INFO - ================
+2015-08-28 15:57:38,752 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:57:38,758 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:57:38,764 - pcmlogger - INFO - ================
+2015-08-28 15:57:41,983 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:57:41,988 - pcmlogger - INFO - 15:57
+2015-08-28 15:57:41,993 - pcmlogger - INFO - ================
+2015-08-28 15:57:55,698 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:57:55,703 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:57:55,709 - pcmlogger - INFO - ================
+2015-08-28 15:58:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:58:07,418 - pcmlogger - INFO - Sorry,
+2015-08-28 15:58:07,423 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:58:07,428 - pcmlogger - INFO - ================
+2015-08-28 15:58:13,390 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:58:13,396 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:58:13,402 - pcmlogger - INFO - ================
+2015-08-28 15:58:16,618 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:58:16,623 - pcmlogger - INFO - 15:58
+2015-08-28 15:58:16,629 - pcmlogger - INFO - ================
+2015-08-28 15:58:30,300 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:58:30,305 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:58:30,310 - pcmlogger - INFO - ================
+2015-08-28 15:58:42,753 - pcmlogger - INFO - Sorry,
+2015-08-28 15:58:42,759 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:58:42,765 - pcmlogger - INFO - ================
+2015-08-28 15:58:48,903 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:58:48,910 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:58:48,915 - pcmlogger - INFO - ================
+2015-08-28 15:58:52,130 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:58:52,135 - pcmlogger - INFO - 15:58
+2015-08-28 15:58:52,140 - pcmlogger - INFO - ================
+2015-08-28 15:59:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 15:59:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 15:59:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 15:59:05,857 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:59:05,862 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:59:05,867 - pcmlogger - INFO - ================
+2015-08-28 15:59:19,521 - pcmlogger - INFO - Sorry,
+2015-08-28 15:59:19,526 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:59:19,531 - pcmlogger - INFO - ================
+2015-08-28 15:59:25,797 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 15:59:25,803 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 15:59:25,809 - pcmlogger - INFO - ================
+2015-08-28 15:59:29,023 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 15:59:29,029 - pcmlogger - INFO - 15:59
+2015-08-28 15:59:29,034 - pcmlogger - INFO - ================
+2015-08-28 15:59:42,820 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 15:59:42,828 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 15:59:42,834 - pcmlogger - INFO - ================
+2015-08-28 15:59:54,591 - pcmlogger - INFO - Sorry,
+2015-08-28 15:59:54,596 - pcmlogger - INFO - Not Game Time.
+2015-08-28 15:59:54,601 - pcmlogger - INFO - ================
+2015-08-28 16:00:00,024 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:00:00,037 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:00:00,049 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:00:00,810 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:00:00,816 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:00:00,821 - pcmlogger - INFO - ================
+2015-08-28 16:00:04,047 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:00:04,052 - pcmlogger - INFO - 16:00
+2015-08-28 16:00:04,058 - pcmlogger - INFO - ================
+2015-08-28 16:00:17,732 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:00:17,738 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:00:17,743 - pcmlogger - INFO - ================
+2015-08-28 16:00:29,479 - pcmlogger - INFO - Sorry,
+2015-08-28 16:00:29,485 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:00:29,490 - pcmlogger - INFO - ================
+2015-08-28 16:00:35,520 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:00:35,526 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:00:35,532 - pcmlogger - INFO - ================
+2015-08-28 16:00:38,761 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:00:38,767 - pcmlogger - INFO - 16:00
+2015-08-28 16:00:38,772 - pcmlogger - INFO - ================
+2015-08-28 16:00:52,461 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:00:52,466 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:00:52,471 - pcmlogger - INFO - ================
+2015-08-28 16:01:00,059 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:01:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:01:00,073 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:01:04,488 - pcmlogger - INFO - Sorry,
+2015-08-28 16:01:04,493 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:01:04,498 - pcmlogger - INFO - ================
+2015-08-28 16:01:10,649 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:01:10,655 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:01:10,661 - pcmlogger - INFO - ================
+2015-08-28 16:01:14,077 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:01:14,082 - pcmlogger - INFO - 16:01
+2015-08-28 16:01:14,087 - pcmlogger - INFO - ================
+2015-08-28 16:01:27,764 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:01:27,769 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:01:27,774 - pcmlogger - INFO - ================
+2015-08-28 16:01:39,264 - pcmlogger - INFO - Sorry,
+2015-08-28 16:01:39,269 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:01:39,275 - pcmlogger - INFO - ================
+2015-08-28 16:01:45,259 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:01:45,266 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:01:45,271 - pcmlogger - INFO - ================
+2015-08-28 16:01:48,489 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:01:48,494 - pcmlogger - INFO - 16:01
+2015-08-28 16:01:48,500 - pcmlogger - INFO - ================
+2015-08-28 16:02:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:02:02,152 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:02:02,158 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:02:02,163 - pcmlogger - INFO - ================
+2015-08-28 16:02:12,932 - pcmlogger - INFO - Sorry,
+2015-08-28 16:02:12,937 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:02:12,943 - pcmlogger - INFO - ================
+2015-08-28 16:02:18,891 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:02:18,898 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:02:18,903 - pcmlogger - INFO - ================
+2015-08-28 16:02:22,115 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:02:22,121 - pcmlogger - INFO - 16:02
+2015-08-28 16:02:22,126 - pcmlogger - INFO - ================
+2015-08-28 16:02:36,215 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:02:36,220 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:02:36,225 - pcmlogger - INFO - ================
+2015-08-28 16:02:47,357 - pcmlogger - INFO - Sorry,
+2015-08-28 16:02:47,362 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:02:47,368 - pcmlogger - INFO - ================
+2015-08-28 16:02:53,332 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:02:53,339 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:02:53,344 - pcmlogger - INFO - ================
+2015-08-28 16:02:56,562 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:02:56,567 - pcmlogger - INFO - 16:02
+2015-08-28 16:02:56,572 - pcmlogger - INFO - ================
+2015-08-28 16:03:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:03:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:03:00,019 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:03:10,678 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:03:10,684 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:03:10,689 - pcmlogger - INFO - ================
+2015-08-28 16:03:21,882 - pcmlogger - INFO - Sorry,
+2015-08-28 16:03:21,888 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:03:21,894 - pcmlogger - INFO - ================
+2015-08-28 16:03:27,835 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:03:27,841 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:03:27,847 - pcmlogger - INFO - ================
+2015-08-28 16:03:31,061 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:03:31,067 - pcmlogger - INFO - 16:03
+2015-08-28 16:03:31,072 - pcmlogger - INFO - ================
+2015-08-28 16:03:45,117 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:03:45,122 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:03:45,129 - pcmlogger - INFO - ================
+2015-08-28 16:03:56,027 - pcmlogger - INFO - Sorry,
+2015-08-28 16:03:56,032 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:03:56,038 - pcmlogger - INFO - ================
+2015-08-28 16:04:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:04:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:04:00,075 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:04:01,986 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:04:01,992 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:04:01,997 - pcmlogger - INFO - ================
+2015-08-28 16:04:05,215 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:04:05,220 - pcmlogger - INFO - 16:04
+2015-08-28 16:04:05,226 - pcmlogger - INFO - ================
+2015-08-28 16:04:19,377 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:04:19,383 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:04:19,388 - pcmlogger - INFO - ================
+2015-08-28 16:04:31,529 - pcmlogger - INFO - Sorry,
+2015-08-28 16:04:31,535 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:04:31,540 - pcmlogger - INFO - ================
+2015-08-28 16:04:37,500 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:04:37,507 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:04:37,512 - pcmlogger - INFO - ================
+2015-08-28 16:04:40,733 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:04:40,738 - pcmlogger - INFO - 16:04
+2015-08-28 16:04:40,744 - pcmlogger - INFO - ================
+2015-08-28 16:04:54,338 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:04:54,344 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:04:54,349 - pcmlogger - INFO - ================
+2015-08-28 16:05:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:05:06,238 - pcmlogger - INFO - Sorry,
+2015-08-28 16:05:06,243 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:05:06,248 - pcmlogger - INFO - ================
+2015-08-28 16:05:12,166 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:05:12,172 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:05:12,177 - pcmlogger - INFO - ================
+2015-08-28 16:05:15,503 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:05:15,508 - pcmlogger - INFO - 16:05
+2015-08-28 16:05:15,513 - pcmlogger - INFO - ================
+2015-08-28 16:05:29,417 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:05:29,423 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:05:29,428 - pcmlogger - INFO - ================
+2015-08-28 16:05:40,803 - pcmlogger - INFO - Sorry,
+2015-08-28 16:05:40,808 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:05:40,813 - pcmlogger - INFO - ================
+2015-08-28 16:05:46,763 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:05:46,769 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:05:46,774 - pcmlogger - INFO - ================
+2015-08-28 16:05:49,995 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:05:50,000 - pcmlogger - INFO - 16:05
+2015-08-28 16:05:50,006 - pcmlogger - INFO - ================
+2015-08-28 16:06:00,026 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:06:00,030 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:06:00,041 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:06:04,080 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:06:04,085 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:06:04,091 - pcmlogger - INFO - ================
+2015-08-28 16:06:15,084 - pcmlogger - INFO - Sorry,
+2015-08-28 16:06:15,089 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:06:15,102 - pcmlogger - INFO - ================
+2015-08-28 16:06:21,040 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:06:21,047 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:06:21,052 - pcmlogger - INFO - ================
+2015-08-28 16:06:24,266 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:06:24,271 - pcmlogger - INFO - 16:06
+2015-08-28 16:06:24,276 - pcmlogger - INFO - ================
+2015-08-28 16:06:38,387 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:06:38,393 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:06:38,398 - pcmlogger - INFO - ================
+2015-08-28 16:06:49,371 - pcmlogger - INFO - Sorry,
+2015-08-28 16:06:49,376 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:06:49,381 - pcmlogger - INFO - ================
+2015-08-28 16:06:55,344 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:06:55,350 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:06:55,356 - pcmlogger - INFO - ================
+2015-08-28 16:06:58,569 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:06:58,574 - pcmlogger - INFO - 16:06
+2015-08-28 16:06:58,579 - pcmlogger - INFO - ================
+2015-08-28 16:07:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:07:12,669 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:07:12,674 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:07:12,680 - pcmlogger - INFO - ================
+2015-08-28 16:07:23,842 - pcmlogger - INFO - Sorry,
+2015-08-28 16:07:23,847 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:07:23,853 - pcmlogger - INFO - ================
+2015-08-28 16:07:29,806 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:07:29,812 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:07:29,818 - pcmlogger - INFO - ================
+2015-08-28 16:07:33,039 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:07:33,045 - pcmlogger - INFO - 16:07
+2015-08-28 16:07:33,050 - pcmlogger - INFO - ================
+2015-08-28 16:07:46,869 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:07:46,874 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:07:46,879 - pcmlogger - INFO - ================
+2015-08-28 16:07:57,888 - pcmlogger - INFO - Sorry,
+2015-08-28 16:07:57,893 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:07:57,898 - pcmlogger - INFO - ================
+2015-08-28 16:08:00,042 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:08:00,045 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:08:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:08:03,880 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:08:03,886 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:08:03,892 - pcmlogger - INFO - ================
+2015-08-28 16:08:07,106 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:08:07,111 - pcmlogger - INFO - 16:08
+2015-08-28 16:08:07,117 - pcmlogger - INFO - ================
+2015-08-28 16:08:21,197 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:08:21,202 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:08:21,207 - pcmlogger - INFO - ================
+2015-08-28 16:08:32,085 - pcmlogger - INFO - Sorry,
+2015-08-28 16:08:32,090 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:08:32,095 - pcmlogger - INFO - ================
+2015-08-28 16:08:38,053 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:08:38,059 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:08:38,065 - pcmlogger - INFO - ================
+2015-08-28 16:08:41,280 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:08:41,286 - pcmlogger - INFO - 16:08
+2015-08-28 16:08:41,291 - pcmlogger - INFO - ================
+2015-08-28 16:08:55,172 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:08:55,178 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:08:55,183 - pcmlogger - INFO - ================
+2015-08-28 16:09:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:09:06,131 - pcmlogger - INFO - Sorry,
+2015-08-28 16:09:06,136 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:09:06,141 - pcmlogger - INFO - ================
+2015-08-28 16:09:12,087 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:09:12,093 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:09:12,098 - pcmlogger - INFO - ================
+2015-08-28 16:09:15,310 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:09:15,316 - pcmlogger - INFO - 16:09
+2015-08-28 16:09:15,321 - pcmlogger - INFO - ================
+2015-08-28 16:09:29,378 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:09:29,383 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:09:29,388 - pcmlogger - INFO - ================
+2015-08-28 16:09:40,846 - pcmlogger - INFO - Sorry,
+2015-08-28 16:09:40,851 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:09:40,856 - pcmlogger - INFO - ================
+2015-08-28 16:09:46,798 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:09:46,804 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:09:46,809 - pcmlogger - INFO - ================
+2015-08-28 16:09:50,026 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:09:50,031 - pcmlogger - INFO - 16:09
+2015-08-28 16:09:50,036 - pcmlogger - INFO - ================
+2015-08-28 16:10:00,024 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:10:00,028 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:10:00,042 - web2py.cron - INFO - WEB2PY CRON (hard): admin executing **applications/admin/cron/expire_sessions.py in /usr/local/web2py at 2015-08-28 16:10:00.042186
+2015-08-28 16:10:00,049 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:10:03,914 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:10:03,919 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:10:03,936 - pcmlogger - INFO - ================
+2015-08-28 16:10:06,978 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+
+2015-08-28 16:10:14,835 - pcmlogger - INFO - Sorry,
+2015-08-28 16:10:14,840 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:10:14,845 - pcmlogger - INFO - ================
+2015-08-28 16:10:21,056 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:10:21,062 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:10:21,068 - pcmlogger - INFO - ================
+2015-08-28 16:10:24,286 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:10:24,291 - pcmlogger - INFO - 16:10
+2015-08-28 16:10:24,296 - pcmlogger - INFO - ================
+2015-08-28 16:10:38,046 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:10:38,051 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:10:38,057 - pcmlogger - INFO - ================
+2015-08-28 16:10:49,114 - pcmlogger - INFO - Sorry,
+2015-08-28 16:10:49,119 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:10:49,124 - pcmlogger - INFO - ================
+2015-08-28 16:10:55,078 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:10:55,085 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:10:55,090 - pcmlogger - INFO - ================
+2015-08-28 16:10:58,556 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:10:58,561 - pcmlogger - INFO - 16:10
+2015-08-28 16:10:58,566 - pcmlogger - INFO - ================
+2015-08-28 16:11:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:11:12,248 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:11:12,254 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:11:12,259 - pcmlogger - INFO - ================
+2015-08-28 16:11:23,179 - pcmlogger - INFO - Sorry,
+2015-08-28 16:11:23,184 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:11:23,190 - pcmlogger - INFO - ================
+2015-08-28 16:11:29,130 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:11:29,136 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:11:29,141 - pcmlogger - INFO - ================
+2015-08-28 16:11:32,355 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:11:32,360 - pcmlogger - INFO - 16:11
+2015-08-28 16:11:32,365 - pcmlogger - INFO - ================
+2015-08-28 16:11:46,149 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:11:46,154 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:11:46,160 - pcmlogger - INFO - ================
+2015-08-28 16:11:57,161 - pcmlogger - INFO - Sorry,
+2015-08-28 16:11:57,166 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:11:57,171 - pcmlogger - INFO - ================
+2015-08-28 16:12:00,024 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:12:00,027 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:12:00,038 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:12:03,120 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:12:03,126 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:12:03,132 - pcmlogger - INFO - ================
+2015-08-28 16:12:06,345 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:12:06,350 - pcmlogger - INFO - 16:12
+2015-08-28 16:12:06,356 - pcmlogger - INFO - ================
+2015-08-28 16:12:20,396 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:12:20,401 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:12:20,407 - pcmlogger - INFO - ================
+2015-08-28 16:12:31,858 - pcmlogger - INFO - Sorry,
+2015-08-28 16:12:31,863 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:12:31,869 - pcmlogger - INFO - ================
+2015-08-28 16:12:37,819 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:12:37,825 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:12:37,831 - pcmlogger - INFO - ================
+2015-08-28 16:12:41,049 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:12:41,055 - pcmlogger - INFO - 16:12
+2015-08-28 16:12:41,060 - pcmlogger - INFO - ================
+2015-08-28 16:12:55,122 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:12:55,127 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:12:55,132 - pcmlogger - INFO - ================
+2015-08-28 16:13:00,024 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:13:00,028 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:13:00,038 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:13:07,046 - pcmlogger - INFO - Sorry,
+2015-08-28 16:13:07,051 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:13:07,056 - pcmlogger - INFO - ================
+2015-08-28 16:13:12,999 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:13:13,005 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:13:13,010 - pcmlogger - INFO - ================
+2015-08-28 16:13:16,232 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:13:16,238 - pcmlogger - INFO - 16:13
+2015-08-28 16:13:16,243 - pcmlogger - INFO - ================
+2015-08-28 16:13:30,326 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:13:30,331 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:13:30,337 - pcmlogger - INFO - ================
+2015-08-28 16:13:41,792 - pcmlogger - INFO - Sorry,
+2015-08-28 16:13:41,798 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:13:41,803 - pcmlogger - INFO - ================
+2015-08-28 16:13:47,749 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:13:47,755 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:13:47,760 - pcmlogger - INFO - ================
+2015-08-28 16:13:50,977 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:13:50,982 - pcmlogger - INFO - 16:13
+2015-08-28 16:13:50,987 - pcmlogger - INFO - ================
+2015-08-28 16:14:00,024 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:14:00,028 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:14:00,038 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:14:04,849 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:14:04,854 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:14:04,860 - pcmlogger - INFO - ================
+2015-08-28 16:14:15,919 - pcmlogger - INFO - Sorry,
+2015-08-28 16:14:15,924 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:14:15,930 - pcmlogger - INFO - ================
+2015-08-28 16:14:21,882 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:14:21,888 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:14:21,894 - pcmlogger - INFO - ================
+2015-08-28 16:14:25,111 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:14:25,116 - pcmlogger - INFO - 16:14
+2015-08-28 16:14:25,121 - pcmlogger - INFO - ================
+2015-08-28 16:14:39,060 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:14:39,065 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:14:39,070 - pcmlogger - INFO - ================
+2015-08-28 16:14:51,661 - pcmlogger - INFO - Sorry,
+2015-08-28 16:14:51,667 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:14:51,672 - pcmlogger - INFO - ================
+2015-08-28 16:14:57,648 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:14:57,654 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:14:57,659 - pcmlogger - INFO - ================
+2015-08-28 16:15:00,005 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:15:00,877 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:15:00,882 - pcmlogger - INFO - 16:15
+2015-08-28 16:15:00,888 - pcmlogger - INFO - ================
+2015-08-28 16:15:14,925 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:15:14,930 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:15:14,935 - pcmlogger - INFO - ================
+2015-08-28 16:15:26,210 - pcmlogger - INFO - Sorry,
+2015-08-28 16:15:26,215 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:15:26,220 - pcmlogger - INFO - ================
+2015-08-28 16:15:32,166 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:15:32,172 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:15:32,178 - pcmlogger - INFO - ================
+2015-08-28 16:15:35,406 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:15:35,412 - pcmlogger - INFO - 16:15
+2015-08-28 16:15:35,427 - pcmlogger - INFO - ================
+2015-08-28 16:15:49,488 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:15:49,493 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:15:49,499 - pcmlogger - INFO - ================
+2015-08-28 16:16:00,054 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:16:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:16:00,076 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:16:01,317 - pcmlogger - INFO - Sorry,
+2015-08-28 16:16:01,322 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:16:01,327 - pcmlogger - INFO - ================
+2015-08-28 16:16:07,271 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:16:07,277 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:16:07,282 - pcmlogger - INFO - ================
+2015-08-28 16:16:10,499 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:16:10,504 - pcmlogger - INFO - 16:16
+2015-08-28 16:16:10,509 - pcmlogger - INFO - ================
+2015-08-28 16:16:24,692 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:16:24,697 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:16:24,703 - pcmlogger - INFO - ================
+2015-08-28 16:16:36,387 - pcmlogger - INFO - Sorry,
+2015-08-28 16:16:36,392 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:16:36,397 - pcmlogger - INFO - ================
+2015-08-28 16:16:42,339 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:16:42,345 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:16:42,350 - pcmlogger - INFO - ================
+2015-08-28 16:16:45,564 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:16:45,569 - pcmlogger - INFO - 16:16
+2015-08-28 16:16:45,574 - pcmlogger - INFO - ================
+2015-08-28 16:16:59,600 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:16:59,606 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:16:59,611 - pcmlogger - INFO - ================
+2015-08-28 16:17:00,034 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:17:10,814 - pcmlogger - INFO - Sorry,
+2015-08-28 16:17:10,819 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:17:10,825 - pcmlogger - INFO - ================
+2015-08-28 16:17:16,782 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:17:16,788 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:17:16,793 - pcmlogger - INFO - ================
+2015-08-28 16:17:20,014 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:17:20,019 - pcmlogger - INFO - 16:17
+2015-08-28 16:17:20,024 - pcmlogger - INFO - ================
+2015-08-28 16:17:33,786 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:17:33,791 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:17:33,806 - pcmlogger - INFO - ================
+2015-08-28 16:17:44,891 - pcmlogger - INFO - Sorry,
+2015-08-28 16:17:44,897 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:17:44,902 - pcmlogger - INFO - ================
+2015-08-28 16:17:50,851 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:17:50,857 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:17:50,862 - pcmlogger - INFO - ================
+2015-08-28 16:17:54,085 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:17:54,090 - pcmlogger - INFO - 16:17
+2015-08-28 16:17:54,095 - pcmlogger - INFO - ================
+2015-08-28 16:18:00,034 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:18:00,037 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:18:00,049 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:18:08,159 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:18:08,164 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:18:08,170 - pcmlogger - INFO - ================
+2015-08-28 16:18:19,238 - pcmlogger - INFO - Sorry,
+2015-08-28 16:18:19,244 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:18:19,250 - pcmlogger - INFO - ================
+2015-08-28 16:18:25,212 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:18:25,218 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:18:25,223 - pcmlogger - INFO - ================
+2015-08-28 16:18:28,434 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:18:28,440 - pcmlogger - INFO - 16:18
+2015-08-28 16:18:28,445 - pcmlogger - INFO - ================
+2015-08-28 16:18:42,589 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:18:42,595 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:18:42,600 - pcmlogger - INFO - ================
+2015-08-28 16:18:54,462 - pcmlogger - INFO - Sorry,
+2015-08-28 16:18:54,467 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:18:54,472 - pcmlogger - INFO - ================
+2015-08-28 16:19:00,036 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:19:00,047 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:19:00,061 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:19:00,446 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:19:00,452 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:19:00,458 - pcmlogger - INFO - ================
+2015-08-28 16:19:03,671 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:19:03,676 - pcmlogger - INFO - 16:19
+2015-08-28 16:19:03,682 - pcmlogger - INFO - ================
+2015-08-28 16:19:17,377 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:19:17,382 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:19:17,388 - pcmlogger - INFO - ================
+2015-08-28 16:19:29,175 - pcmlogger - INFO - Sorry,
+2015-08-28 16:19:29,180 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:19:29,186 - pcmlogger - INFO - ================
+2015-08-28 16:19:35,137 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:19:35,144 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:19:35,149 - pcmlogger - INFO - ================
+2015-08-28 16:19:38,371 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:19:38,377 - pcmlogger - INFO - 16:19
+2015-08-28 16:19:38,382 - pcmlogger - INFO - ================
+2015-08-28 16:19:52,074 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:19:52,079 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:19:52,084 - pcmlogger - INFO - ================
+2015-08-28 16:20:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:20:03,362 - pcmlogger - INFO - Sorry,
+2015-08-28 16:20:03,369 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:20:03,375 - pcmlogger - INFO - ================
+2015-08-28 16:20:09,333 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:20:09,339 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:20:09,345 - pcmlogger - INFO - ================
+2015-08-28 16:20:12,563 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:20:12,568 - pcmlogger - INFO - 16:20
+2015-08-28 16:20:12,573 - pcmlogger - INFO - ================
+2015-08-28 16:20:26,246 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:20:26,251 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:20:26,257 - pcmlogger - INFO - ================
+2015-08-28 16:20:38,415 - pcmlogger - INFO - Sorry,
+2015-08-28 16:20:38,420 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:20:38,425 - pcmlogger - INFO - ================
+2015-08-28 16:20:44,753 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:20:44,759 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:20:44,765 - pcmlogger - INFO - ================
+2015-08-28 16:20:47,979 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:20:47,985 - pcmlogger - INFO - 16:20
+2015-08-28 16:20:47,990 - pcmlogger - INFO - ================
+2015-08-28 16:21:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:21:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:21:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:21:01,656 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:21:01,661 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:21:01,666 - pcmlogger - INFO - ================
+2015-08-28 16:21:12,840 - pcmlogger - INFO - Sorry,
+2015-08-28 16:21:12,845 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:21:12,850 - pcmlogger - INFO - ================
+2015-08-28 16:21:18,805 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:21:18,811 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:21:18,816 - pcmlogger - INFO - ================
+2015-08-28 16:21:22,073 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:21:22,078 - pcmlogger - INFO - 16:21
+2015-08-28 16:21:22,083 - pcmlogger - INFO - ================
+2015-08-28 16:21:36,159 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:21:36,165 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:21:36,170 - pcmlogger - INFO - ================
+2015-08-28 16:21:46,895 - pcmlogger - INFO - Sorry,
+2015-08-28 16:21:46,900 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:21:46,906 - pcmlogger - INFO - ================
+2015-08-28 16:21:52,874 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:21:52,880 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:21:52,886 - pcmlogger - INFO - ================
+2015-08-28 16:21:56,102 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:21:56,107 - pcmlogger - INFO - 16:21
+2015-08-28 16:21:56,113 - pcmlogger - INFO - ================
+2015-08-28 16:22:00,054 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:22:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:22:00,083 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:22:10,181 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:22:10,187 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:22:10,192 - pcmlogger - INFO - ================
+2015-08-28 16:22:21,375 - pcmlogger - INFO - Sorry,
+2015-08-28 16:22:21,380 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:22:21,386 - pcmlogger - INFO - ================
+2015-08-28 16:22:27,414 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:22:27,421 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:22:27,426 - pcmlogger - INFO - ================
+2015-08-28 16:22:30,640 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:22:30,645 - pcmlogger - INFO - 16:22
+2015-08-28 16:22:30,650 - pcmlogger - INFO - ================
+2015-08-28 16:22:44,772 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:22:44,777 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:22:44,782 - pcmlogger - INFO - ================
+2015-08-28 16:22:55,910 - pcmlogger - INFO - Sorry,
+2015-08-28 16:22:55,916 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:22:55,921 - pcmlogger - INFO - ================
+2015-08-28 16:23:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:23:00,064 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:23:00,074 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:23:01,867 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:23:01,873 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:23:01,882 - pcmlogger - INFO - ================
+2015-08-28 16:23:05,095 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:23:05,101 - pcmlogger - INFO - 16:23
+2015-08-28 16:23:05,106 - pcmlogger - INFO - ================
+2015-08-28 16:23:19,166 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:23:19,171 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:23:19,177 - pcmlogger - INFO - ================
+2015-08-28 16:23:30,081 - pcmlogger - INFO - Sorry,
+2015-08-28 16:23:30,086 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:23:30,091 - pcmlogger - INFO - ================
+2015-08-28 16:23:36,161 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:23:36,167 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:23:36,176 - pcmlogger - INFO - ================
+2015-08-28 16:23:39,401 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:23:39,407 - pcmlogger - INFO - 16:23
+2015-08-28 16:23:39,412 - pcmlogger - INFO - ================
+2015-08-28 16:23:53,178 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:23:53,183 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:23:53,189 - pcmlogger - INFO - ================
+2015-08-28 16:24:00,045 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:24:04,046 - pcmlogger - INFO - Sorry,
+2015-08-28 16:24:04,051 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:24:04,059 - pcmlogger - INFO - ================
+2015-08-28 16:24:10,006 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:24:10,012 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:24:10,018 - pcmlogger - INFO - ================
+2015-08-28 16:24:13,240 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:24:13,246 - pcmlogger - INFO - 16:24
+2015-08-28 16:24:13,251 - pcmlogger - INFO - ================
+2015-08-28 16:24:27,211 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:24:27,217 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:24:27,222 - pcmlogger - INFO - ================
+2015-08-28 16:24:38,842 - pcmlogger - INFO - Sorry,
+2015-08-28 16:24:38,847 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:24:38,853 - pcmlogger - INFO - ================
+2015-08-28 16:24:44,800 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:24:44,806 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:24:44,811 - pcmlogger - INFO - ================
+2015-08-28 16:24:48,029 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:24:48,034 - pcmlogger - INFO - 16:24
+2015-08-28 16:24:48,039 - pcmlogger - INFO - ================
+2015-08-28 16:25:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:25:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:25:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:25:02,263 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:25:02,268 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:25:02,274 - pcmlogger - INFO - ================
+2015-08-28 16:25:13,435 - pcmlogger - INFO - Sorry,
+2015-08-28 16:25:13,440 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:25:13,445 - pcmlogger - INFO - ================
+2015-08-28 16:25:19,566 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:25:19,572 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:25:19,578 - pcmlogger - INFO - ================
+2015-08-28 16:25:22,922 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:25:22,928 - pcmlogger - INFO - 16:25
+2015-08-28 16:25:22,933 - pcmlogger - INFO - ================
+2015-08-28 16:25:36,735 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:25:36,741 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:25:36,746 - pcmlogger - INFO - ================
+2015-08-28 16:25:48,835 - pcmlogger - INFO - Sorry,
+2015-08-28 16:25:48,840 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:25:48,845 - pcmlogger - INFO - ================
+2015-08-28 16:25:54,794 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:25:54,800 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:25:54,806 - pcmlogger - INFO - ================
+2015-08-28 16:25:58,375 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:25:58,380 - pcmlogger - INFO - 16:25
+2015-08-28 16:25:58,385 - pcmlogger - INFO - ================
+2015-08-28 16:26:00,034 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:26:00,038 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:26:00,048 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:26:12,111 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:26:12,117 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:26:12,122 - pcmlogger - INFO - ================
+2015-08-28 16:26:23,138 - pcmlogger - INFO - Sorry,
+2015-08-28 16:26:23,144 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:26:23,149 - pcmlogger - INFO - ================
+2015-08-28 16:26:29,097 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:26:29,103 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:26:29,109 - pcmlogger - INFO - ================
+2015-08-28 16:26:32,328 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:26:32,333 - pcmlogger - INFO - 16:26
+2015-08-28 16:26:32,339 - pcmlogger - INFO - ================
+2015-08-28 16:26:46,136 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:26:46,142 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:26:46,147 - pcmlogger - INFO - ================
+2015-08-28 16:26:56,946 - pcmlogger - INFO - Sorry,
+2015-08-28 16:26:56,951 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:26:56,956 - pcmlogger - INFO - ================
+2015-08-28 16:27:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:27:02,921 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:27:02,927 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:27:02,933 - pcmlogger - INFO - ================
+2015-08-28 16:27:06,151 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:27:06,156 - pcmlogger - INFO - 16:27
+2015-08-28 16:27:06,162 - pcmlogger - INFO - ================
+2015-08-28 16:27:19,703 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:27:19,708 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:27:19,713 - pcmlogger - INFO - ================
+2015-08-28 16:27:30,941 - pcmlogger - INFO - Sorry,
+2015-08-28 16:27:30,947 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:27:30,952 - pcmlogger - INFO - ================
+2015-08-28 16:27:36,904 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:27:36,910 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:27:36,916 - pcmlogger - INFO - ================
+2015-08-28 16:27:40,125 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:27:40,130 - pcmlogger - INFO - 16:27
+2015-08-28 16:27:40,135 - pcmlogger - INFO - ================
+2015-08-28 16:27:53,684 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:27:53,689 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:27:53,694 - pcmlogger - INFO - ================
+2015-08-28 16:28:00,035 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:28:00,038 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:28:00,052 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:28:04,806 - pcmlogger - INFO - Sorry,
+2015-08-28 16:28:04,811 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:28:04,816 - pcmlogger - INFO - ================
+2015-08-28 16:28:10,801 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:28:10,807 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:28:10,812 - pcmlogger - INFO - ================
+2015-08-28 16:28:14,029 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:28:14,034 - pcmlogger - INFO - 16:28
+2015-08-28 16:28:14,039 - pcmlogger - INFO - ================
+2015-08-28 16:28:28,106 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:28:28,112 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:28:28,117 - pcmlogger - INFO - ================
+2015-08-28 16:28:39,099 - pcmlogger - INFO - Sorry,
+2015-08-28 16:28:39,104 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:28:39,109 - pcmlogger - INFO - ================
+2015-08-28 16:28:45,050 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:28:45,056 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:28:45,061 - pcmlogger - INFO - ================
+2015-08-28 16:28:48,273 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:28:48,278 - pcmlogger - INFO - 16:28
+2015-08-28 16:28:48,283 - pcmlogger - INFO - ================
+2015-08-28 16:29:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:29:01,947 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:29:01,952 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:29:01,958 - pcmlogger - INFO - ================
+2015-08-28 16:29:13,066 - pcmlogger - INFO - Sorry,
+2015-08-28 16:29:13,071 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:29:13,077 - pcmlogger - INFO - ================
+2015-08-28 16:29:18,987 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:29:18,993 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:29:18,999 - pcmlogger - INFO - ================
+2015-08-28 16:29:22,199 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:29:22,205 - pcmlogger - INFO - 16:29
+2015-08-28 16:29:22,210 - pcmlogger - INFO - ================
+2015-08-28 16:29:36,223 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:29:36,229 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:29:36,234 - pcmlogger - INFO - ================
+2015-08-28 16:29:52,577 - pcmlogger - INFO - Sorry,
+2015-08-28 16:29:52,582 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:29:52,588 - pcmlogger - INFO - ================
+2015-08-28 16:29:58,545 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:29:58,552 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:29:58,557 - pcmlogger - INFO - ================
+2015-08-28 16:30:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:30:00,008 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:30:00,018 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:30:01,772 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:30:01,777 - pcmlogger - INFO - 16:30
+2015-08-28 16:30:01,783 - pcmlogger - INFO - ================
+2015-08-28 16:30:15,838 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:30:15,844 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:30:15,849 - pcmlogger - INFO - ================
+2015-08-28 16:30:27,000 - pcmlogger - INFO - Sorry,
+2015-08-28 16:30:27,006 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:30:27,012 - pcmlogger - INFO - ================
+2015-08-28 16:30:32,957 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:30:32,963 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:30:32,969 - pcmlogger - INFO - ================
+2015-08-28 16:30:36,217 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:30:36,222 - pcmlogger - INFO - 16:30
+2015-08-28 16:30:36,227 - pcmlogger - INFO - ================
+2015-08-28 16:30:50,270 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:30:50,276 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:30:50,281 - pcmlogger - INFO - ================
+2015-08-28 16:31:00,054 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:31:00,058 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:31:00,071 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:31:02,127 - pcmlogger - INFO - Sorry,
+2015-08-28 16:31:02,132 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:31:02,137 - pcmlogger - INFO - ================
+2015-08-28 16:31:08,094 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:31:08,100 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:31:08,105 - pcmlogger - INFO - ================
+2015-08-28 16:31:11,324 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:31:11,330 - pcmlogger - INFO - 16:31
+2015-08-28 16:31:11,335 - pcmlogger - INFO - ================
+2015-08-28 16:31:25,386 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:31:25,391 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:31:25,396 - pcmlogger - INFO - ================
+2015-08-28 16:31:37,673 - pcmlogger - INFO - Sorry,
+2015-08-28 16:31:37,678 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:31:37,684 - pcmlogger - INFO - ================
+2015-08-28 16:31:43,636 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:31:43,641 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:31:43,647 - pcmlogger - INFO - ================
+2015-08-28 16:31:46,865 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:31:46,870 - pcmlogger - INFO - 16:31
+2015-08-28 16:31:46,875 - pcmlogger - INFO - ================
+2015-08-28 16:32:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:32:00,602 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:32:00,607 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:32:00,613 - pcmlogger - INFO - ================
+2015-08-28 16:32:11,871 - pcmlogger - INFO - Sorry,
+2015-08-28 16:32:11,877 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:32:11,882 - pcmlogger - INFO - ================
+2015-08-28 16:32:17,815 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:32:17,821 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:32:17,827 - pcmlogger - INFO - ================
+2015-08-28 16:32:21,040 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:32:21,045 - pcmlogger - INFO - 16:32
+2015-08-28 16:32:21,051 - pcmlogger - INFO - ================
+2015-08-28 16:32:35,371 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:32:35,377 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:32:35,382 - pcmlogger - INFO - ================
+2015-08-28 16:32:47,018 - pcmlogger - INFO - Sorry,
+2015-08-28 16:32:47,023 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:32:47,029 - pcmlogger - INFO - ================
+2015-08-28 16:32:52,973 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:32:52,979 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:32:52,985 - pcmlogger - INFO - ================
+2015-08-28 16:32:56,198 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:32:56,204 - pcmlogger - INFO - 16:32
+2015-08-28 16:32:56,209 - pcmlogger - INFO - ================
+2015-08-28 16:33:00,034 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:33:00,038 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:33:00,048 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:33:10,267 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:33:10,273 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:33:10,278 - pcmlogger - INFO - ================
+2015-08-28 16:33:21,175 - pcmlogger - INFO - Sorry,
+2015-08-28 16:33:21,180 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:33:21,185 - pcmlogger - INFO - ================
+2015-08-28 16:33:27,126 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:33:27,132 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:33:27,137 - pcmlogger - INFO - ================
+2015-08-28 16:33:30,353 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:33:30,358 - pcmlogger - INFO - 16:33
+2015-08-28 16:33:30,363 - pcmlogger - INFO - ================
+2015-08-28 16:33:44,454 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:33:44,459 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:33:44,465 - pcmlogger - INFO - ================
+2015-08-28 16:33:55,907 - pcmlogger - INFO - Sorry,
+2015-08-28 16:33:55,912 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:33:55,917 - pcmlogger - INFO - ================
+2015-08-28 16:34:00,034 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:34:00,037 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 16:34:00,048 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 16:34:01,866 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:34:01,872 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:34:01,877 - pcmlogger - INFO - ================
+2015-08-28 16:34:05,095 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:34:05,101 - pcmlogger - INFO - 16:34
+2015-08-28 16:34:05,106 - pcmlogger - INFO - ================
+2015-08-28 16:34:18,846 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:34:18,851 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:34:18,856 - pcmlogger - INFO - ================
+2015-08-28 16:34:29,918 - pcmlogger - INFO - Sorry,
+2015-08-28 16:34:29,924 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:34:29,929 - pcmlogger - INFO - ================
+2015-08-28 16:34:35,987 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:34:35,993 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:34:35,998 - pcmlogger - INFO - ================
+2015-08-28 16:34:39,228 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 16:34:39,233 - pcmlogger - INFO - 16:34
+2015-08-28 16:34:39,239 - pcmlogger - INFO - ================
+2015-08-28 16:34:53,223 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 16:34:53,228 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 16:34:53,233 - pcmlogger - INFO - ================
+2015-08-28 16:35:00,004 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 16:35:04,038 - pcmlogger - INFO - Sorry,
+2015-08-28 16:35:04,043 - pcmlogger - INFO - Not Game Time.
+2015-08-28 16:35:04,049 - pcmlogger - INFO - ================
+2015-08-28 16:35:09,997 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 16:35:10,005 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 16:35:10,011 - pcmlogger - INFO - ================
+2015-08-28 16:35:11,640 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
+

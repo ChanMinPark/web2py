@@ -1,16 +1,15 @@
 import request
 
 def main():
-    requests.post("https://api.mailgun.net/v2/DOMAIN/messages",
-              auth=("api", "key-SECRET"),
+    requests.post("https://api.mailgun.net/v3/sandbox54f98034843b4141b17c7334201d0628.mailgun.org/messages",
+              auth=("api", "key-e5a9135df9910d5b8c14dad503d8c5e6"),
               files={
-                  "attachment[0]": ("FileName1.ext", open(FILE_PATH_1, 'rb')),
-                  "attachment[1]": ("FileName2.ext", open(FILE_PATH_2, 'rb'))
+                  "attachment[0]": ("/usr/local/web2py/logs/pcm_LCD.log", open(FILE_PATH_1, 'rb'))
               },
-              data={"from": "FROM_EMAIL",
-                    "to": [TO_EMAIL],
-                    "subject": SUBJECT,
-                    "html": HTML_CONTENT
+              data={"from": "ChanMinPark <walkinpcm@gmail.com>",
+                    "to": ["walkinpcm@gmail.com"],
+                    "subject": "pcmWall LCD log",
+                    "text": "pcmWall LCD log"
               })
 
 

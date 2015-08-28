@@ -4,6 +4,11 @@ from gluon import *
 from gluon import current
 import urllib2
 
+global g_myScore, g_otScore, g_playState
+g_Score_1 = 0
+g_Score_2 = 0
+g_playState = "init"
+
 def getBaseballinfo():
     baseballinfo = ["Baseball","Information"]
     
@@ -33,6 +38,17 @@ def getBaseballinfo():
                 return baseballinfo
     
     play_state = myTeamInfo.split('<em class="state">')[1].split('</em>')[0].strip()
+    if g_playState == "init":
+        g_playState = play_state
+    if g_playState in ['18:30']:
+        if play_state not in ['18:30','종료']:
+            printAlarm_game_start_end()
+            g_playState = play_state
+    if g_playState not in ['18:30','종료']:
+        if play_state in ['종료']:
+            printAlarm_game_start_end()
+            g_playState = 'init'
+    
     if play_state in ['18:30']:
         baseballinfo[0] = "Sorry,"
         baseballinfo[1] = "Not Game Time."
@@ -44,6 +60,11 @@ def getBaseballinfo():
     team_2[0] = myTeamInfo.split('alt="')[2].split('" title=')[0]
     team_1[1] = myTeamInfo.split('<strong class="vs_num">')[1].split('<')[0]
     team_2[1] = myTeamInfo.split('<strong class="vs_num">')[2].split('<')[0]
+    
+    if (g_Score_1 != int(team_1[1])) or (g_Score_2 != int(team_2[1])):
+        printAlarm_game_score()
+        g_Score_1 = int(team_1[1])
+        g_Score_2 = int(team_2[1])
     
     baseballinfo[0] = teamName(team_1[0],1) + " vs " + teamName(team_2[0],1)
     baseballinfo[1] = team_1[1] + " : " + team_2[1] + " " +  convertState(play_state)
@@ -98,3 +119,21 @@ def convertState(state):
             return '%sTOP'%state[:state.find('회초')]
         else:
             return '%sBOT'%state[:state.find('회말')]
+
+def printAlarm_game_start_end():
+    for i in range(0,10):
+        redLCDon()
+        time.sleep(0.2)
+        whiteLCDon()
+        time.sleep(0.2)
+
+def printAlarm_game_score():
+    for i in range(0,3):
+        redLCDon()
+        time.sleep(0.2)
+        yellowLCDon()
+        time.sleep(0.2)
+        pinkLCDon()
+        time.sleep(0.2)
+        whiteLCDon()
+        time.sleep(0.2)

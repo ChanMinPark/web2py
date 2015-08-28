@@ -1,6 +1,12 @@
 import time
 import urllib2
+import threading
+from time import mktime
+from datetime import datetime
+from lcd import *
 from gluon import current
+
+lcd_init()
 
 def getWeek():
     now = time.localtime()
@@ -95,7 +101,24 @@ def getSchedules():
         data['location'] = record.location
         data['content'] = record.content
         data['isAlarm'] = record.isAlarm
+        print data['isAlarm']
         schedules.append(data)
+        if data['date'] < datetime.fromtimestamp(mktime(time.localtime())):
+            if data['isAlarm'] == "on":
+                db(db.tablebar_schedules.id == record.id).update(isAlarm='None')
+                th = threading.Thread(target=printAlarm, args=())
+                th.start()
+    """
+    now = time.localtime()
+    today = {}
+    today['year'] = now.tm_year
+    today['month']= now.tm_mon
+    today['day'] = now.tm_mday
+    today['hour'] = now.tm_hour
+    today['min'] = now.tm_min
+    today['sec'] = now.tm_sec
+    """
+    
     
     schedules_day = []
     for i in schedules:
@@ -126,3 +149,10 @@ def getSchedulesviaWeb():
         schedules_day.append(i['date'].split(' ')[0].split('-')[2])
 	
     return schedules_day
+
+def printAlarm():
+    for i in range(0,10):
+        greenLCDon()
+        time.sleep(0.2)
+        whiteLCDon()
+        time.sleep(0.2)

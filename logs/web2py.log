@@ -3861,3 +3861,20 @@
 2015-08-28 10:04:00,045 - web2py.cron - DEBUG - hard cron invocation
 2015-08-28 10:04:00,049 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
 2015-08-28 10:04:00,061 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 10:05:00,052 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 10:05:00,055 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 10:05:00,076 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 10:06:00,011 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 10:07:00,011 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 10:07:00,014 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 10:07:00,025 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 10:08:00,051 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 10:08:00,054 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 10:08:00,065 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 10:09:00,011 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 10:10:00,060 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 10:10:00,063 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 10:10:00,074 - web2py.cron - INFO - WEB2PY CRON (hard): admin executing **applications/admin/cron/expire_sessions.py in /usr/local/web2py at 2015-08-28 10:10:00.074221
+2015-08-28 10:10:00,079 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 10:10:07,982 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+

@@ -7055,3 +7055,94 @@ applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in
 applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
   GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
 
+2015-08-28 17:09:23,610 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 17:09:23,630 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-28 17:09:23.630375
+2015-08-28 17:09:23,639 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 17:09:23,659 - web2py.cron - INFO - Hard cron daemon started
+2015-08-28 17:09:31,678 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 17:09:31,684 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 17:09:31,688 - pcmlogger - INFO - ================
+2015-08-28 17:09:34,900 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 17:09:34,905 - pcmlogger - INFO - 17:09
+2015-08-28 17:09:34,908 - pcmlogger - INFO - ================
+2015-08-28 17:09:48,974 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 17:09:48,978 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 17:09:48,982 - pcmlogger - INFO - ================
+2015-08-28 17:10:00,014 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 17:10:04,888 - pcmlogger - INFO - Sorry,
+2015-08-28 17:10:04,892 - pcmlogger - INFO - Not Game Time.
+2015-08-28 17:10:04,896 - pcmlogger - INFO - ================
+2015-08-28 17:10:09,477 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
+
+2015-08-28 17:10:45,197 - web2py.cron - DEBUG - WEB2PY CRON: Acquiring lock
+2015-08-28 17:10:45,205 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/tablebar.py in /usr/local/web2py at 2015-08-28 17:10:45.204963
+2015-08-28 17:10:45,212 - web2py.cron - INFO - WEB2PY CRON (hard): myapp executing *applications/myapp/cron/sendpcmlog.py in /usr/local/web2py at 2015-08-28 17:10:45.212512
+2015-08-28 17:10:45,287 - web2py.cron - INFO - WEB2PY CRON (hard): admin executing **applications/admin/cron/expire_sessions.py in /usr/local/web2py at 2015-08-28 17:10:45.286902
+2015-08-28 17:10:45,327 - web2py.cron - DEBUG - WEB2PY CRON: Releasing cron lock
+2015-08-28 17:10:45,386 - web2py.cron - INFO - Hard cron daemon started
+2015-08-28 17:11:00,014 - web2py.cron - DEBUG - hard cron invocation
+2015-08-28 17:11:06,425 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+
+2015-08-28 17:11:07,962 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 17:11:07,968 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 17:11:07,972 - pcmlogger - INFO - ================
+2015-08-28 17:11:08,088 - web2py.cron - DEBUG - WEB2PY CRON Call returned success:
+Traceback (most recent call last):
+  File "/usr/local/web2py/gluon/shell.py", line 261, in run
+    execfile(startfile, _env)
+IOError: [Errno 2] No such file or directory: 'applications/myapp/cron/sendpcmlog.py'
+
+
+2015-08-28 17:11:11,194 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 17:11:11,198 - pcmlogger - INFO - 17:11
+2015-08-28 17:11:11,202 - pcmlogger - INFO - ================
+2015-08-28 17:11:25,425 - pcmlogger - INFO - Aug#Mon The Wed Thu Fri Sat Sun 
+2015-08-28 17:11:25,429 - pcmlogger - INFO - 28 # 24  25  26  27 *28  29  30 
+2015-08-28 17:11:25,432 - pcmlogger - INFO - ================
+2015-08-28 17:11:36,527 - pcmlogger - INFO - Sorry,
+2015-08-28 17:11:36,531 - pcmlogger - INFO - Not Game Time.
+2015-08-28 17:11:36,535 - pcmlogger - INFO - ================
+2015-08-28 17:11:42,495 - pcmlogger - INFO - Wlan IP Addr
+2015-08-28 17:11:42,500 - pcmlogger - INFO - 10.255.253.66
+2015-08-28 17:11:42,504 - pcmlogger - INFO - ================
+2015-08-28 17:11:45,713 - pcmlogger - INFO - 2015-08-28 Fri
+2015-08-28 17:11:45,717 - pcmlogger - INFO - 17:11
+2015-08-28 17:11:45,720 - pcmlogger - INFO - ================
+2015-08-28 17:11:52,966 - web2py.cron - WARNING - WEB2PY CRON Call returned code -15:
+applications/myapp/modules/lcd.py:26: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_E, GPIO.OUT)  # E
+applications/myapp/modules/lcd.py:27: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RS, GPIO.OUT) # RS
+applications/myapp/modules/lcd.py:28: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D4, GPIO.OUT) # DB4
+applications/myapp/modules/lcd.py:29: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D5, GPIO.OUT) # DB5
+applications/myapp/modules/lcd.py:30: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D6, GPIO.OUT) # DB6
+applications/myapp/modules/lcd.py:31: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_D7, GPIO.OUT) # DB7
+applications/myapp/modules/lcd.py:33: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_RED, GPIO.OUT) # RED Backlight enable
+applications/myapp/modules/lcd.py:34: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_GREEN, GPIO.OUT) # GREEN Backlight enable
+applications/myapp/modules/lcd.py:35: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(LCD_BLUE, GPIO.OUT) # BLUEBacklight enable
+

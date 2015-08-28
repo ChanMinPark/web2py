@@ -526,3 +526,7 @@
 [2015-08-28 15:11:10] EDIT myapp/modules/tablebar_LCDlogging.py: 0
 [2015-08-28 15:11:38] EDIT myapp/modules/tablebar_LCDlogging.py: 0
 [2015-08-28 15:24:31] EDIT myapp/modules/tablebar_LCDlogging.py: 1
+[2015-08-28 17:08:25] EDIT myapp/cron/crontab: 1
+[2015-08-28 17:08:45] EDIT myapp/cron/crontab: 0
+[2015-08-28 17:09:06] EDIT myapp/cron/crontab: -1
+[2015-08-28 17:10:28] EDIT myapp/cron/crontab: 1

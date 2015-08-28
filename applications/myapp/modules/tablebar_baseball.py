@@ -43,11 +43,13 @@ def getBaseballinfo():
         g_playState = play_state
     if g_playState in ['18:30']:
         if play_state not in ['18:30','종료']:
-            printAlarm_game_start_end()
+            th = threading.Thread(target=printAlarm_game_start_end, args=())
+            th.start()
             g_playState = play_state
     if g_playState not in ['18:30','종료']:
         if play_state in ['종료']:
-            printAlarm_game_start_end()
+            th = threading.Thread(target=printAlarm_game_start_end, args=())
+            th.start()
             g_playState = 'init'
     
     if play_state in ['18:30']:
@@ -63,7 +65,8 @@ def getBaseballinfo():
     team_2[1] = myTeamInfo.split('<strong class="vs_num">')[2].split('<')[0]
     
     if (g_Score_1 != int(team_1[1])) or (g_Score_2 != int(team_2[1])):
-        printAlarm_game_score()
+        th = threading.Thread(target=printAlarm_game_score, args=())
+        th.start()
         g_Score_1 = int(team_1[1])
         g_Score_2 = int(team_2[1])
     

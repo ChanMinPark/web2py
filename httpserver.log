@@ -10443,3 +10443,6 @@
 169.254.150.167, 2015-08-28 14:51:34, GET, /admin/default/todolist.load, HTTP/1.1, 200, 0.732387
 169.254.150.167, 2015-08-28 14:51:36, GET, /myapp/appadmin/hooks, HTTP/1.1, 200, 5.032335
 169.254.150.167, 2015-08-28 14:51:37, POST, /admin/default/edit/myapp/modules/tablebar_LCDlogging.py, HTTP/1.1, 200, 0.802898
+169.254.150.167, 2015-08-28 14:57:27, POST, /admin/default/edit/myapp/modules/tablebar_baseball.py, HTTP/1.1, 200, 4.503407
+169.254.150.167, 2015-08-28 14:57:32, GET, /myapp/appadmin/hooks, HTTP/1.1, 200, 2.116955
+169.254.150.167, 2015-08-28 14:57:33, GET, /admin/default/todolist.load, HTTP/1.1, 200, 0.582796

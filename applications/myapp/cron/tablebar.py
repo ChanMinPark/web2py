@@ -13,6 +13,7 @@ def main():
     # Display wlan ip address
     lcd_string("Wlan IP Addr", LCD_LINE_1, 2)
     lcd_string(wip_chk()[:-1], LCD_LINE_2, 2)
+    LCDlog2file("Wlan IP Addr", wip_chk()[:-1])
     time.sleep(3)
 	
     # Display time information
@@ -26,7 +27,8 @@ def main():
     	    # Display date & time
     	    lcd_string(getData(), LCD_LINE_1, 2)
     	    lcd_string(getTime(), LCD_LINE_2, 2)
-    	    LCDlog2file(getData(), getTime())
+    	    if cycle == 10:
+    	    	LCDlog2file(getData(), getTime())
     	    cycle = cycle - 1
     	    time.sleep(1)
     	    setLock("False")
@@ -42,7 +44,8 @@ def main():
                 time.sleep(1)
                 lcd_string(plines[0], LCD_LINE_1, 1)
                 lcd_string(plines[1], LCD_LINE_2, 1)
-                LCDlog2file(plines[0], plines[1])
+                if cycle == 5:
+                	LCDlog2file(plines[0], plines[1])
                 plines[0] = plines[0][:4]+plines[0][8:]
                 plines[1] = plines[1][:4]+plines[1][8:]
                 cycle = cycle - 1
@@ -61,7 +64,8 @@ def main():
     	    while cycle > 0:
     	    	lcd_string(plines[0], LCD_LINE_1, 2)
     	    	lcd_string(plines[1], LCD_LINE_2, 2)
-    	    	LCDlog2file(plines[0], plines[1])
+    	    	if cycle == 5:
+    	    		LCDlog2file(plines[0], plines[1])
     	    	cycle = cycle - 1
     	    	time.sleep(1)
     	    setLock("False")

@@ -5,6 +5,7 @@ from tablebar_calender import *
 from tablebar_weather import *
 from tablebar_globals_modules import *
 from tablebar_baseball import *
+from tablebar_LCDlogging import *
 #from gluon import current
 
 
@@ -25,6 +26,7 @@ def main():
     	    # Display date & time
     	    lcd_string(getData(), LCD_LINE_1, 2)
     	    lcd_string(getTime(), LCD_LINE_2, 2)
+    	    LCDlog2file(getData(), getTime())
     	    cycle = cycle - 1
     	    time.sleep(1)
     	    setLock("False")
@@ -40,6 +42,7 @@ def main():
                 time.sleep(1)
                 lcd_string(plines[0], LCD_LINE_1, 1)
                 lcd_string(plines[1], LCD_LINE_2, 1)
+                LCDlog2file(plines[0], plines[1])
                 plines[0] = plines[0][:4]+plines[0][8:]
                 plines[1] = plines[1][:4]+plines[1][8:]
                 cycle = cycle - 1
@@ -58,6 +61,7 @@ def main():
     	    while cycle > 0:
     	    	lcd_string(plines[0], LCD_LINE_1, 2)
     	    	lcd_string(plines[1], LCD_LINE_2, 2)
+    	    	LCDlog2file(plines[0], plines[1])
     	    	cycle = cycle - 1
     	    	time.sleep(1)
     	    setLock("False")

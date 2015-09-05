@@ -36,19 +36,19 @@ def getWeek():
     #print sche_day
   
     for dd in weekdays:
+    	if now.tm_mon in [1,3,5,7,8,10,12]:
+            if dd > 31:
+                dd = dd-31
+        else:
+            if dd > 30:
+                dd = dd-30
+    	
         if (now.tm_mon-1) in [1,3,5,7,8,10,12]:
             if dd < 1:
                 dd = 31-dd
         else:
             if dd < 1:
                 dd = 30-dd
-        
-        if now.tm_mon in [1,3,5,7,8,10,12]:
-            if dd > 31:
-                dd = dd-31
-        else:
-            if dd > 30:
-                dd = dd-30
     
         #print dd
         if dd in sche_day:

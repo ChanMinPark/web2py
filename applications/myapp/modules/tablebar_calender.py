@@ -101,7 +101,7 @@ def getSchedules():
         data['location'] = record.location
         data['content'] = record.content
         data['isAlarm'] = record.isAlarm
-        print data['isAlarm']
+        #print data['isAlarm']
         schedules.append(data)
         if data['date'] < datetime.fromtimestamp(mktime(time.localtime())):
             if data['isAlarm'] == "on":

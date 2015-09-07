@@ -69,6 +69,7 @@ https://coggle.it/diagram/Vb69jbF6k29HmWtm/3a53c5c49a01a4adf0150bce7358cc725d32e
     : 윗줄-요일표시, 아랫줄 - 날짜표시  
     : 두자리 수의 날짜가 있는 주에는 칸이 부족. 그래서 길게 흐르는 문자열로 구현.  
     : 달의 경계가 있는 주에는 날짜 주의(ex. 30,31,1,2,3)  
+      (1일 쪽 처리를 먼저, 31일 쪽 처리를 나중에 한다. 31일 쪽을 먼저 처리하면 31일로 변환된 날짜가 1일 쪽에서 다시 처리되면서 잘못된 값이 출력된다.)  
     : web2py로 구현한 웹서버에서 일정을 받아와서 일정이 있는 날에는 표시(*).  
 ![](https://github.com/ChanMinPark/DailyStudy/blob/master/RefImage/TableBar_1.jpg)
 - 달력 모듈 전에 달력에 '일정있음'표시를 위하여 web2py의 DB를 먼저 구현.  
@@ -104,17 +105,36 @@ https://coggle.it/diagram/Vb69jbF6k29HmWtm/3a53c5c49a01a4adf0150bce7358cc725d32e
     : 관심 야구팀의 경기가 끝나면 최종 스코어를 출력하며 동시에 알림.  
 ![](https://github.com/ChanMinPark/DailyStudy/blob/master/RefImage/TableBar_4.jpg)
 
-####**6. 개발 계획**  
-[8월 28일 이전까지 개발할 계획]
+- Raspberry Pi 가 부팅 될때 web2py도 같이 실행하기.  
 
-- log 파일 e-mail전송하기
-    : 전에 확인해보니 외부망에서 KETI망으로 못 들어오더라.
-    : 그래서 log파일을 e-mail로 보내서 지속적으로 확인가능하게하고 관리한다.
+
+      #####################################################################  
+      # Run web2py with TableBar  
+      #####################################################################  
+      echo "Run web2py with TableBar"  
+      cd /usr/local/web2py  
+      echo ip addr show wlan0 | grep inet | awk '{print $2}' | cut -d/ -f1  
+      _WIP=$(ip addr show wlan0 | grep inet | awk '{print $2}' | cut -d/ -f1)  
+      printf "%s\n" "$_WIP"  
+      sudo python web2py.py -i "$_WIP" -p 8000 -a 'tinyos' -c server.crt -k server.key -Y &  
+      cd  
 
 - 알림.  
     : 알림을 주는 상황에 따라 각각 다른 알림을 구현.  
-    : 알림은 LED를 이용하고 알림 내용을 LCD로 출력.  
     : 알림을 주는 상황  
-      (1) 등록된 일정의 시간이 되었을 때  
-      (2) 날씨 상태가 변경되었을 때  
-      (3) 야구팀이 경기를 시작할때, 스코어가 변경될 때, 경기가 종료 될 때  
+      (1) 등록된 일정의 시간이 되었을 때: 초록불이 깜박인다.  
+      (2) 야구팀이 경기를 시작할때, 스코어가 변경될 때, 경기가 종료 될 때**(경기시간에 확인필요)**  
+          (2-1) 경기 시작, 끝 : 빨간불이 깜박인다.  
+          (2-2) 스코어 변경 : 빨강, 노랑, 분홍 불이 깜박인다.  
+
+- LCD에 출력되는 문장을 파일에 출력하도록 함. 추후 이 파일을 메일로 주기적으로 보내게 하여 상태확인에 사용할 예정.  
+![](https://github.com/ChanMinPark/DailyStudy/blob/master/RefImage/TableBar_5.jpg)
+
+- 무선랜 절전모드 해제
+    : KETI에서는 안그랬는데 학교 연구실에서는 iptime N100 mini 무선랜 모듈이 자꾸 절전모드로 빠져서 ssh 접속할때마다 usb를 뺏다가 다시 끼워야했다. 단지 무선랜 모듈 고장인줄 알았는데 인터넷에 찾아보니 절전모드라고 했다. 절전모드인지 확인해보니 절전모드여서 해제하는 방법을 수행했더니 무선랜이 꺼지지 않고 잘 유지됐다. 아래 링크에 절전모드 확인 및 해결방법을 정리하였다.  
+[iptime N100 mini 절전모드 확인 및 해제](http://walkinpcm.blogspot.kr/2015/09/3-raspberrypi.html)  
+
+####**6. 추후 개발 계획**  
+
+log파일을 메일로 보내게 하기 위해서 mailgun에 대하여 알아본다.
+

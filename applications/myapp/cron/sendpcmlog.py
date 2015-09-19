@@ -1,4 +1,10 @@
 import requests
+import time
+
+def getTime():
+    now = time.localtime()
+    r_time = "%02d:%02d:%02d"%(now.tm_hour, now.tm_min, now.tm_sec)
+    return r_time
 
 def run_cmd(cmd):
     p = Popen(cmd, shell=True, stdout=subprocess.PIPE)

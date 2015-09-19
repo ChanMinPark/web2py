@@ -23,7 +23,7 @@ def print_tail():
     #printTail = run_cmd(cmd)
     f = open('/usr/local/web2py/logs/pcm_LCD.log', 'r')
     lines = f.readlines()
-    pstr = lines[-10:]
+    pstr = lines[-30:]
     logger.info(pstr)
     return pstr
 

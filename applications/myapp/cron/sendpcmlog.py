@@ -19,10 +19,13 @@ def run_cmd(cmd):
     return output
 
 def print_tail():
-    cmd = "tail -n 10 /usr/local/web2py/logs/pcm_LCD.log"
-    printTail = run_cmd(cmd)
-    logger.info(printTail)
-    return printTail
+    #cmd = "tail -n 10 /usr/local/web2py/logs/pcm_LCD.log"
+    #printTail = run_cmd(cmd)
+    f = open('/usr/local/web2py/logs/pcm_LCD.log', 'r')
+    lines = f.readlines()
+    pstr = lines[-10]+"\n"+lines[-9]+"\n"+lines[-8]+"\n"+lines[-7]+"\n"+lines[-6]+"\n"+lines[-5]+"\n"+lines[-4]+"\n"+lines[-3]+"\n"+lines[-2]+"\n"+lines[-1]
+    logger.info(psr)
+    return pstr
 
 def main():
     """
@@ -35,7 +38,7 @@ def main():
               "text": print_tail()})
     """
     logger.info(print_tail())
-    send_email()
+    send_email(print_tail())
     return "Send E-mail : Okay"
 
 

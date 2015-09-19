@@ -7,8 +7,22 @@
 ## - user is required for authentication and authorization
 ## - download is for downloading files uploaded in the db (does streaming)
 #########################################################################
-from temp_humi_co2 import *
+#from temp_humi_co2 import *
 from tablebar_globals_modules import *
+import requests
+
+def send_email_with_Attachment():
+    requests.post(
+        "https://api.mailgun.net/v3/sandbox54f98034843b4141b17c7334201d0628.mailgun.org/messages",
+        auth=("api", "key-e5a9135df9910d5b8c14dad503d8c5e6"),
+        files={
+                  "attachment[0]": ("pcm_LCD.log", open('/usr/local/web2py/logs/pcm_LCD.log', 'rb'))
+              },
+        data={"from": "Excited User <mailgun@sandbox54f98034843b4141b17c7334201d0628.mailgun.org>",
+              "to": ["walkinpcm@gmail.com"],
+              "subject": "TableBar Log with Attachment",
+              "text": "log file"})
+    return "Send E-mail : Okay with Attachment"
 
 def index():
     """
@@ -44,9 +58,9 @@ def project_temp_humi_co2():
     #r_temp = reading(1)
     #r_humi = reading(2)
     #r_value = calc(r_temp, r_humi)
-    r_co2 = getCO2()
+    #r_co2 = getCO2()
     #return dict(temp = "%.7s"%(r_value[0]), humi = "%.7s"%(r_value[1]), co2 = r_co2)
-    return dict(temp = "0", humi = "0", co2 = r_co2)
+    return dict(temp = "0", humi = "0", co2 = "0")
 
 def project_tablebar_setting():
     form = SQLFORM(db.tablebar_schedules, deletable=True)

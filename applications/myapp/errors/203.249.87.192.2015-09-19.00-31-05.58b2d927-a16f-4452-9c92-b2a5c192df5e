@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.NameError'> global name 'requests' is not defined"
+p3
+sS'layer'
+p4
+S'/usr/local/web2py/applications/myapp/controllers/tablebar_globals.py'
+p5
+sS'code'
+p6
+S'#!/usr/bin/env python\n# -*- coding: utf-8 -*-\n# try something like\n\nfrom gluon import *\n\nglobal g_wtask\nglobal g_lock\ng_wtask = "0"\ng_lock = "False"\n\ndef setTask():\n    global g_wtask\n    g_wtask = request.args(0)\n    return "setTask ok : %s"%g_wtask\n    \ndef getTask():\n    global g_wtask\n    return g_wtask\n\ndef setLock():\n    global g_lock\n    g_lock = request.args(0)\n    return "setLock ok : %s"%g_lock\n    \ndef getLock():\n    global g_lock\n    return g_lock\n\ndef send_simple_message():\n    return requests.post(\n        "https://api.mailgun.net/v3/sandbox54f98034843b4141b17c7334201d0628.mailgun.org/messages",\n        auth=("api", "key-e5a9135df9910d5b8c14dad503d8c5e6"),\n        data={"from": "Excited User <mailgun@sandbox54f98034843b4141b17c7334201d0628.mailgun.org>",\n              "to": ["bar@example.com", "walkinpcm@gmail.com"],\n              "subject": "Hello",\n              "text": "Testing some Mailgun awesomness!"})\n\nresponse._vars=response._caller(send_simple_message)\n'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/usr/local/web2py/gluon/restricted.py", line 227, in restricted\n    exec ccode in environment\n  File "/usr/local/web2py/applications/myapp/controllers/tablebar_globals.py", line 39, in <module>\n  File "/usr/local/web2py/gluon/globals.py", line 412, in <lambda>\n    self._caller = lambda f: f()\n  File "/usr/local/web2py/applications/myapp/controllers/tablebar_globals.py", line 31, in send_simple_message\n    return requests.post(\nNameError: global name \'requests\' is not defined\n'
+p11
+s.

@@ -138,7 +138,7 @@ https://coggle.it/diagram/Vb69jbF6k29HmWtm/3a53c5c49a01a4adf0150bce7358cc725d32e
     : log를 주기적으로 확인하기 위하여 로그를 메일로 보내는 코드를 추가.  
     : mailgun을 이용하면 한달 1만건의 이메일 전송이 무료.  
     : 첨부파일 추가 가능.  
-    : 본 코드에서는 첨부파일을 받기 위해서는 웹브라우저 주소창에 [주소/myapp/send_email/send_email_with_Attach]를 입력  
+    : 본 코드에서는 첨부파일을 받기 위해서는 웹브라우저 주소창에 [주소/myapp/tablebar_email/send_email_with_Attach]를 입력  
     : 매일 9시30분 로그파일의 마지막 30줄이 메일로 전송되어오게 함.  
 
 ####**6. 추후 개발 계획**  

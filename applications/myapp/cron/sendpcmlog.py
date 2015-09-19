@@ -11,13 +11,13 @@ def print_tail():
     return printTail
 
 def main():
-     requests.post(
+    requests.post(
         "https://api.mailgun.net/v3/sandbox54f98034843b4141b17c7334201d0628.mailgun.org/messages",
         auth=("api", "key-e5a9135df9910d5b8c14dad503d8c5e6"),
         data={"from": "Excited User <mailgun@sandbox54f98034843b4141b17c7334201d0628.mailgun.org>",
               "to": ["walkinpcm@gmail.com"],
               "subject": "TableBar Log",
-              "text": "test"})
+              "text": print_tail()})
     return "Send E-mail : Okay"
 
 

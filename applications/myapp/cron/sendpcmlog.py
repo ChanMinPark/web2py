@@ -1,6 +1,6 @@
-import requests
+#import requests
 import sys
-#from tablebar_send_email import *
+from tablebar_send_email import *
 
 def run_cmd(cmd):
     p = Popen(cmd, shell=True, stdout=subprocess.PIPE)
@@ -13,7 +13,7 @@ def print_tail():
     return printTail
 
 def main():
-    
+    """
     requests.post(
         "https://api.mailgun.net/v3/sandbox54f98034843b4141b17c7334201d0628.mailgun.org/messages",
         auth=("api", "key-e5a9135df9910d5b8c14dad503d8c5e6"),
@@ -21,8 +21,8 @@ def main():
               "to": ["walkinpcm@gmail.com"],
               "subject": "TableBar Log",
               "text": print_tail()})
-    
-    #send_email(print_tail())
+    """
+    send_email(print_tail())
     return "Send E-mail : Okay"
 
 

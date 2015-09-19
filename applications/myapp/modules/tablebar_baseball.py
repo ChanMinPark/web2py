@@ -4,13 +4,13 @@ from gluon import *
 from gluon import current
 import urllib2
 
-global g_myScore, g_otScore, g_playState
-g_Score_1 = 0
-g_Score_2 = 0
-g_playState = "init"
+global g_playState #g_myScore, g_otScore, g_playState
+#g_Score_1 = 0
+#g_Score_2 = 0
+#g_playState = "init"
 
 def getBaseballinfo():
-    global g_myScore, g_otScore, g_playState
+    global g_playState #g_myScore, g_otScore, g_playState
     baseballinfo = ["Baseball","Information"]
     
     try:
@@ -63,13 +63,13 @@ def getBaseballinfo():
     team_2[0] = myTeamInfo.split('alt="')[2].split('" title=')[0]
     team_1[1] = myTeamInfo.split('<strong class="vs_num">')[1].split('<')[0]
     team_2[1] = myTeamInfo.split('<strong class="vs_num">')[2].split('<')[0]
-    
+    """
     if (g_Score_1 != int(team_1[1])) or (g_Score_2 != int(team_2[1])):
         th = threading.Thread(target=printAlarm_game_score, args=())
         th.start()
         g_Score_1 = int(team_1[1])
         g_Score_2 = int(team_2[1])
-    
+    """
     baseballinfo[0] = teamName(team_1[0],1) + " vs " + teamName(team_2[0],1)
     baseballinfo[1] = team_1[1] + " : " + team_2[1] + " " +  convertState(play_state)
     

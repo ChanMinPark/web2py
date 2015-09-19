@@ -4,3 +4,1353 @@
 [INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:00:54,502 > 2015-09-19 Sat
 [INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:00:54,508 > 16:00
 [INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:00:54,513 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:04:24,069 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:04:24,075 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:04:24,079 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:04:27,298 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:04:27,302 > 16:04
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:04:27,306 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:04:41,480 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:04:41,484 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:04:41,488 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:04:51,453 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:04:51,458 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:04:51,462 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:04:54,673 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:04:54,677 > 16:04
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:04:54,681 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:05:08,777 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:05:08,781 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:05:08,785 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:05:18,753 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:05:18,758 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:05:18,763 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:05:21,978 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:05:21,982 > 16:05
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:05:21,986 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:05:36,090 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:05:36,094 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:05:36,104 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:05:46,196 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:05:46,200 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:05:46,204 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:05:49,462 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:05:49,466 > 16:05
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:05:49,470 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:06:03,647 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:06:03,651 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:06:03,655 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:06:13,842 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:06:13,857 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:06:13,861 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:06:17,223 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:06:17,227 > 16:06
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:06:17,241 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:06:31,526 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:06:31,530 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:06:31,534 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:06:41,601 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:06:41,606 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:06:41,610 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:06:44,866 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:06:44,870 > 16:06
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:06:44,881 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:06:58,970 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:06:58,974 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:06:58,988 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:07:08,965 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:07:08,970 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:07:08,974 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:07:12,194 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:07:12,198 > 16:07
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:07:12,202 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:07:26,536 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:07:26,540 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:07:26,544 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:07:36,620 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:07:36,625 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:07:36,629 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:07:39,878 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:07:39,883 > 16:07
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:07:39,897 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:07:54,329 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:07:54,333 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:07:54,348 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:08:04,326 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:08:04,330 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:08:04,334 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:08:07,585 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:08:07,589 > 16:08
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:08:07,593 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:08:22,252 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:08:22,257 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:08:22,269 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:08:32,352 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:08:32,358 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:08:32,362 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:08:35,624 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:08:35,628 > 16:08
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:08:35,632 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:08:49,791 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:08:49,805 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:08:49,809 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:08:59,876 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:08:59,881 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:08:59,884 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:09:03,160 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:09:03,164 > 16:09
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:09:03,178 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:09:17,366 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:09:17,370 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:09:17,373 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:09:27,531 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:09:27,546 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:09:27,550 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:09:30,795 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:09:30,799 > 16:09
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:09:30,803 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:09:45,351 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:09:45,366 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:09:45,370 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:09:55,432 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:09:55,437 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:09:55,441 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:09:58,695 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:09:58,700 > 16:09
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:09:58,703 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:10:13,098 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:10:13,102 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:10:13,125 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:10:23,388 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:10:23,393 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:10:23,397 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:10:26,956 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:10:26,960 > 16:10
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:10:26,964 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:10:40,920 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:10:40,924 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:10:40,928 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:10:50,886 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:10:50,891 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:10:50,895 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:10:54,116 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:10:54,120 > 16:10
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:10:54,124 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:11:08,241 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:11:08,247 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:11:08,251 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:11:43,761 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:11:43,766 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:11:43,770 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:11:46,989 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:11:46,993 > 16:11
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:11:46,997 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:12:00,733 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:12:00,737 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:12:00,741 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:12:10,706 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:12:10,711 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:12:10,715 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:12:13,935 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:12:13,939 > 16:12
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:12:13,943 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:12:28,294 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:12:28,298 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:12:28,302 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:12:38,259 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:12:38,264 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:12:38,268 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:12:41,486 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:12:41,490 > 16:12
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:12:41,494 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:14:25,273 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:14:25,279 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:14:25,283 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:14:28,516 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:14:28,520 > 16:14
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:14:28,523 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:14:42,682 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:14:42,686 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:14:42,690 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:14:52,651 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:14:52,656 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:14:52,660 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:14:55,876 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:14:55,880 > 16:14
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:14:55,883 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:15:10,060 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:15:10,064 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:15:10,068 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:15:20,100 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:15:20,105 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:15:20,119 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:15:23,343 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:15:23,347 > 16:15
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:15:23,351 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:15:37,545 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:15:37,549 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:15:37,553 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:15:47,531 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:15:47,536 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:15:47,540 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:15:50,761 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:15:50,765 > 16:15
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:15:50,769 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:16:04,605 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:16:04,609 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:16:04,613 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:16:14,566 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:16:14,571 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:16:14,575 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:16:17,793 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:16:17,797 > 16:16
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:16:17,801 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:17:08,428 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:17:08,434 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:17:08,438 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:17:11,656 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:17:11,660 > 16:17
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:17:11,664 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:17:26,081 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:17:26,085 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:17:26,090 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:17:36,046 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:17:36,051 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:17:36,055 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:17:39,269 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:17:39,273 > 16:17
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:17:39,277 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:17:53,241 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:17:53,246 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:17:53,249 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:18:03,204 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:18:03,209 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:18:03,213 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:18:06,435 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:18:06,439 > 16:18
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:18:06,443 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:18:20,149 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:18:20,153 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:18:20,158 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:18:30,117 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:18:30,122 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:18:30,127 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:18:33,338 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:18:33,342 > 16:18
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:18:33,346 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:18:47,467 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:18:47,471 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:18:47,476 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:19:29,304 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:19:29,310 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:19:29,314 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:19:32,540 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:19:32,544 > 16:19
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:19:32,548 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:19:46,235 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:19:46,239 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:19:46,243 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:19:56,273 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:19:56,278 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:19:56,283 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:19:59,626 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:19:59,630 > 16:19
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:19:59,634 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:20:13,645 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:20:13,650 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:20:13,653 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:20:23,705 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:20:23,711 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:20:23,715 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:20:26,940 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:20:26,944 > 16:20
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:20:26,948 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:20:40,997 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:20:41,001 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:20:41,005 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:20:50,965 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:20:50,970 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:20:50,974 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:20:54,189 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:20:54,193 > 16:20
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:20:54,197 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:21:08,218 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:21:08,222 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:21:08,226 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:21:18,176 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:21:18,180 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:21:18,184 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:21:21,435 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:21:21,439 > 16:21
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:21:21,443 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:21:35,259 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:21:35,263 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:21:35,267 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:22:12,302 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:22:12,308 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:22:12,311 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:22:15,534 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:22:15,539 > 16:22
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:22:15,542 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:22:29,940 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:22:29,944 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:22:29,948 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:22:39,907 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:22:39,912 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:22:39,917 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:22:43,163 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:22:43,167 > 16:22
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:22:43,171 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:27:53,728 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:27:53,734 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:27:53,748 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:27:56,971 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:27:56,975 > 16:27
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:27:56,979 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:28:11,100 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:28:11,104 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:28:11,108 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:28:21,252 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:28:21,257 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:28:21,260 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:28:24,514 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:28:24,519 > 16:28
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:28:24,522 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:28:38,362 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:28:38,366 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:28:38,371 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:28:48,333 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:28:48,339 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:28:48,342 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:28:51,559 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:28:51,563 > 16:28
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:28:51,567 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:29:05,612 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:29:05,617 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:29:05,621 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:29:15,570 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:29:15,577 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:29:15,581 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:29:18,801 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:29:18,805 > 16:29
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:29:18,810 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:29:32,759 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:29:32,763 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:29:32,768 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:29:43,326 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:29:43,331 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:29:43,335 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:29:46,591 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:29:46,605 > 16:29
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:29:46,609 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:30:00,601 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:30:00,605 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:30:00,609 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:30:10,569 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:30:10,574 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:30:10,579 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:30:13,805 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:30:13,809 > 16:30
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:30:13,813 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:30:28,061 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:30:28,065 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:30:28,079 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:30:38,155 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:30:38,161 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:30:38,164 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:30:41,424 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:30:41,428 > 16:30
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:30:41,432 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:30:56,067 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:30:56,071 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:30:56,086 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:31:06,044 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:31:06,049 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:31:06,053 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:31:09,267 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:31:09,271 > 16:31
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:31:09,275 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:31:23,469 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:31:23,473 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:31:23,490 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:31:33,598 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:31:33,603 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:31:33,616 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:31:36,872 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:31:36,879 > 16:31
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:31:36,886 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:31:51,022 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:31:51,026 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:31:51,030 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:32:00,991 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:32:00,996 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:32:01,000 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:32:04,220 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:32:04,225 > 16:32
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:32:04,229 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:32:18,436 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:32:18,441 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:32:18,444 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:32:28,414 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:32:28,419 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:32:28,423 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:32:31,635 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:32:31,639 > 16:32
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:32:31,643 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:32:45,319 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:32:45,324 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:32:45,328 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:33:39,039 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:33:39,044 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:33:39,052 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:33:42,285 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:33:42,289 > 16:33
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:33:42,293 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:37:05,947 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:37:05,953 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:37:05,967 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:37:09,190 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:37:09,194 > 16:37
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:37:09,198 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:37:23,459 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:37:23,463 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:37:23,476 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:37:33,442 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:37:33,447 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:37:33,451 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:37:36,668 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:37:36,672 > 16:37
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:37:36,677 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:37:50,454 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:37:50,459 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:37:50,462 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:38:00,432 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:38:00,438 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:38:00,442 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:38:03,656 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:38:03,660 > 16:38
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:38:03,664 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:38:17,827 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:38:17,832 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:38:17,836 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:38:27,809 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:38:27,814 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:38:27,819 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:38:31,039 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:38:31,043 > 16:38
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:38:31,047 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:38:44,758 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:38:44,762 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:38:44,766 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:38:55,084 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:38:55,089 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:38:55,093 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:38:58,313 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:38:58,317 > 16:38
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:38:58,321 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:40:28,357 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:40:28,362 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:40:28,386 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:40:31,608 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:40:31,612 > 16:40
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:40:31,617 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:40:45,368 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:40:45,372 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:40:45,376 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:43:37,118 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:43:37,124 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:43:37,138 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:43:40,359 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:43:40,363 > 16:43
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:43:40,367 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:43:54,611 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:43:54,615 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:43:54,619 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:44:04,575 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:44:04,580 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:44:04,584 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:44:07,804 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:44:07,808 > 16:44
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:44:07,812 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:44:22,067 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:44:22,071 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:44:22,074 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:44:32,023 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:44:32,028 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:44:32,032 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:44:35,247 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:44:35,250 > 16:44
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:44:35,255 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:44:48,930 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:44:48,934 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:44:48,938 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:44:58,894 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:44:58,900 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:44:58,903 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:45:02,454 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:45:02,459 > 16:45
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:45:02,462 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:45:16,208 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:45:16,212 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:45:16,217 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:45:26,168 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:45:26,173 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:45:26,177 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:45:29,408 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:45:29,412 > 16:45
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:45:29,416 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:45:43,423 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:45:43,427 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:45:43,431 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:45:53,381 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:45:53,386 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:45:53,390 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:45:56,606 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:45:56,610 > 16:45
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:45:56,614 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:46:10,377 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:46:10,381 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:46:10,384 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:46:20,341 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:46:20,346 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:46:20,350 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:46:23,567 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:46:23,571 > 16:46
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:46:23,575 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:47:44,519 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:47:44,536 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:47:44,540 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:47:47,764 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:47:47,768 > 16:47
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:47:47,772 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:48:01,901 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:48:01,905 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:48:01,909 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:48:11,852 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:48:11,857 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:48:11,860 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:48:15,080 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:48:15,084 > 16:48
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:48:15,088 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:52:08,198 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:52:08,203 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:52:08,218 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:52:11,439 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:52:11,443 > 16:52
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:52:11,447 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:52:25,746 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:52:25,750 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:52:25,754 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:52:35,726 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:52:35,731 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:52:35,736 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:52:38,954 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:52:38,958 > 16:52
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:52:38,962 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:55:59,496 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:55:59,507 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:55:59,515 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:56:02,746 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:56:02,750 > 16:56
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:56:02,753 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:56:16,484 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:56:16,488 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:56:16,492 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:56:27,001 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:56:27,015 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:56:27,019 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:56:30,236 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:56:30,240 > 16:56
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:56:30,244 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:56:43,977 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:56:43,981 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:56:43,984 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:56:53,945 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:56:53,950 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:56:53,954 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:56:57,434 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:56:57,438 > 16:56
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:56:57,442 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:57:34,442 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:57:34,457 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:57:34,461 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:57:37,694 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:57:37,698 > 16:57
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:57:37,702 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:57:51,728 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:57:51,732 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:57:51,736 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:58:01,722 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:58:01,727 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:58:01,731 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:58:04,964 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:58:04,968 > 16:58
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:58:04,972 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:58:19,112 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:58:19,116 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:58:19,120 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:58:29,085 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:58:29,090 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:58:29,094 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:58:32,317 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:58:32,321 > 16:58
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:58:32,325 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:59:29,618 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:59:29,623 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:59:29,657 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:59:32,873 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:59:32,878 > 16:59
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:59:32,882 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:59:47,032 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:59:47,036 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:59:47,040 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 16:59:57,004 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 16:59:57,009 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 16:59:57,013 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:00:00,233 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:00:00,237 > 17:00
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:00:00,241 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:00:14,340 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:00:14,344 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:00:14,348 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:00:24,336 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:00:24,341 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:00:24,345 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:00:27,559 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:00:27,563 > 17:00
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:00:27,567 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:00:41,303 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:00:41,308 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:00:41,312 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:00:51,503 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:00:51,509 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:00:51,512 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:00:54,724 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:00:54,728 > 17:00
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:00:54,733 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:01:08,434 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:01:08,438 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:01:08,443 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:01:48,855 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:01:48,860 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:01:48,877 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:01:52,114 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:01:52,121 > 17:01
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:01:52,124 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:02:06,455 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:02:06,459 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:02:06,463 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:02:16,417 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:02:16,422 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:02:16,426 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:02:19,636 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:02:19,640 > 17:02
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:02:19,644 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:02:33,628 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:02:33,632 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:02:33,635 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:02:43,580 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:02:43,585 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:02:43,589 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:02:46,802 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:02:46,807 > 17:02
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:02:46,810 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:03:00,561 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:03:00,564 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:03:00,569 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:03:10,801 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:03:10,806 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:03:10,810 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:03:14,018 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:03:14,022 > 17:03
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:03:14,027 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:03:27,776 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:03:27,780 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:03:27,784 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:03:37,730 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:03:37,735 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:03:37,739 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:03:40,963 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:03:40,967 > 17:03
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:03:40,971 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:03:55,077 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:03:55,081 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:03:55,084 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:04:05,051 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:04:05,057 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:04:05,060 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:04:08,282 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:04:08,286 > 17:04
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:04:08,290 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:04:22,422 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:04:22,431 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:04:22,435 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:04:32,415 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:04:32,420 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:04:32,424 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:04:35,636 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:04:35,640 > 17:04
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:04:35,644 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:04:49,409 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:04:49,413 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:04:49,418 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:04:59,378 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:04:59,383 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:04:59,387 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:05:02,605 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:05:02,609 > 17:05
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:05:02,613 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:05:16,685 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:05:16,691 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:05:16,695 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:05:26,656 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:05:26,661 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:05:26,664 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:05:29,880 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:05:29,884 > 17:05
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:05:29,888 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:05:43,597 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:05:43,602 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:05:43,606 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:05:54,081 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:05:54,086 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:05:54,090 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:05:57,316 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:05:57,320 > 17:05
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:05:57,324 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:06:11,048 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:06:11,052 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:06:11,063 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:06:21,045 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:06:21,050 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:06:21,054 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:07:17,413 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:07:17,418 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:07:17,422 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:07:20,670 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:07:20,675 > 17:07
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:07:20,679 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:07:34,748 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:07:34,753 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:07:34,757 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:07:44,733 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:07:44,738 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:07:44,742 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:07:47,965 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:07:47,969 > 17:07
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:07:47,973 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:08:02,036 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:08:02,040 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:08:02,045 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:08:12,016 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:08:12,021 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:08:12,024 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:08:15,246 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:08:15,250 > 17:08
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:08:15,254 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:08:29,179 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:08:29,184 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:08:29,188 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:08:39,171 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:08:39,177 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:08:39,180 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:08:42,410 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:08:42,415 > 17:08
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:08:42,419 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:08:56,112 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:08:56,116 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:08:56,120 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:09:06,462 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:09:06,468 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:09:06,472 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:09:09,695 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:09:09,699 > 17:09
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:09:09,702 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:09:23,481 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:09:23,486 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:09:23,490 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:09:33,473 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:09:33,478 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:09:33,482 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:09:36,702 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:09:36,706 > 17:09
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:09:36,710 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:09:50,521 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:09:50,525 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:09:50,532 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:10:00,602 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:10:00,614 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:10:00,619 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:10:03,897 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:10:03,901 > 17:10
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:10:03,904 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:10:18,147 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:10:18,151 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:10:18,154 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:10:28,149 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:10:28,153 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:10:28,158 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:10:31,389 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:10:31,393 > 17:10
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:10:31,397 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:10:45,537 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:10:45,541 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:10:45,545 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:10:55,533 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:10:55,538 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:10:55,542 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:10:58,760 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:10:58,764 > 17:10
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:10:58,768 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:11:12,832 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:11:12,837 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:11:12,841 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:11:22,991 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:11:23,005 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:11:23,010 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:11:26,246 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:11:26,250 > 17:11
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:11:26,254 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:11:40,284 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:11:40,289 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:11:40,293 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:11:50,281 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:11:50,286 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:11:50,290 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:11:53,508 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:11:53,512 > 17:11
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:11:53,517 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:12:07,195 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:12:07,199 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:12:07,205 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:12:17,389 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:12:17,394 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:12:17,398 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:12:20,622 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:12:20,626 > 17:12
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:12:20,630 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:12:34,412 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:12:34,417 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:12:34,421 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:12:44,413 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:12:44,419 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:12:44,422 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:12:47,637 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:12:47,641 > 17:12
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:12:47,645 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:13:01,698 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:13:01,703 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:13:01,707 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:13:11,672 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:13:11,677 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:13:11,682 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:13:14,918 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:13:14,922 > 17:13
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:13:14,926 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:13:28,713 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:13:28,718 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:13:28,722 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:13:38,696 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:13:38,701 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:13:38,705 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:13:41,945 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:13:41,949 > 17:13
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:13:41,953 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:13:55,951 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:13:55,956 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:13:55,959 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:14:05,933 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:14:05,939 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:14:05,942 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:14:09,180 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:14:09,185 > 17:14
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:14:09,188 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:14:23,347 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:14:23,351 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:14:23,354 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:14:33,343 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:14:33,348 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:14:33,352 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:14:36,565 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:14:36,569 > 17:14
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:14:36,573 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:14:50,709 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:14:50,713 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:14:50,718 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:15:00,737 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:15:00,741 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:15:00,746 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:15:03,972 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:15:03,976 > 17:15
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:15:03,980 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:15:17,832 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:15:17,836 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:15:17,840 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:15:27,844 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:15:27,849 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:15:27,853 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:15:31,072 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:15:31,076 > 17:15
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:15:31,080 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:15:45,221 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:15:45,225 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:15:45,229 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:15:55,183 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:15:55,188 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:15:55,192 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:15:58,407 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:15:58,411 > 17:15
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:15:58,415 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:16:12,134 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:16:12,139 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:16:12,146 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:16:54,452 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:16:54,458 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:16:54,462 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:16:57,694 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:16:57,698 > 17:16
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:16:57,702 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:17:11,967 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:17:11,972 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:17:11,976 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:17:21,991 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:17:21,999 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:17:22,008 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:17:25,254 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:17:25,258 > 17:17
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:17:25,262 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:17:39,041 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:17:39,045 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:17:39,049 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:17:48,976 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:17:48,980 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:17:48,985 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:17:52,184 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:17:52,188 > 17:17
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:17:52,192 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:18:06,160 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:18:06,164 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:18:06,168 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:18:16,128 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:18:16,133 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:18:16,137 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:18:19,351 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:18:19,355 > 17:18
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:18:19,359 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:18:33,510 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:18:33,514 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:18:33,518 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:18:43,482 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:18:43,488 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:18:43,492 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:18:46,706 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:18:46,710 > 17:18
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:18:46,714 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:19:00,775 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:19:00,779 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:19:00,783 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:19:10,746 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:19:10,751 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:19:10,755 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:19:13,970 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:19:13,974 > 17:19
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:19:13,978 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:19:27,781 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:19:27,785 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:19:27,789 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:19:38,109 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:19:38,114 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:19:38,121 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:19:41,335 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:19:41,340 > 17:19
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:19:41,343 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:19:55,042 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:19:55,047 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:19:55,051 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:20:05,020 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:20:05,024 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:20:05,029 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:20:08,243 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:20:08,247 > 17:20
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:20:08,251 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:20:22,088 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:20:22,092 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:20:22,107 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:20:32,079 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:20:32,084 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:20:32,088 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:20:35,308 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:20:35,313 > 17:20
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:20:35,317 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:20:49,454 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:20:49,458 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:20:49,462 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:20:59,439 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:20:59,444 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:20:59,448 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:21:02,667 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:21:02,670 > 17:21
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:21:02,675 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:21:16,764 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:21:16,768 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:21:16,773 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:21:26,742 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:21:26,747 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:21:26,751 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:21:29,996 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:21:30,000 > 17:21
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:21:30,004 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:21:44,059 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:21:44,063 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:21:44,067 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:21:54,027 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:21:54,032 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:21:54,036 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:21:57,260 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:21:57,264 > 17:21
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:21:57,268 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:22:11,003 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:22:11,007 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:22:11,011 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:22:20,974 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:22:20,979 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:22:20,983 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:22:24,291 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:22:24,296 > 17:22
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:22:24,300 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:22:38,032 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:22:38,036 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:22:38,040 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:22:47,996 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:22:48,001 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:22:48,006 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:23:40,322 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:23:40,332 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:23:40,347 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:23:43,564 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:23:43,569 > 17:23
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:23:43,573 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:23:57,331 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:23:57,335 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:23:57,339 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:24:07,308 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:24:07,313 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:24:07,317 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:24:10,530 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:24:10,534 > 17:24
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:24:10,538 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:24:24,404 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:24:24,408 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:24:24,412 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:25:55,751 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:25:55,757 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:25:55,761 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:25:58,978 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:25:58,982 > 17:25
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:25:58,986 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:26:13,143 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:26:13,147 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:26:13,151 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:26:23,215 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:26:23,220 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:26:23,223 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:26:26,535 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:26:26,539 > 17:26
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:26:26,543 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:26:40,586 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:26:40,590 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:26:40,594 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:26:50,558 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:26:50,563 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:26:50,567 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:26:53,798 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:26:53,802 > 17:26
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:26:53,806 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:27:07,764 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:27:07,768 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:27:07,772 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:27:17,734 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:27:17,739 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:27:17,742 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:27:20,985 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:27:20,989 > 17:27
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:27:20,993 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:27:34,822 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:27:34,826 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:27:34,830 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:27:44,794 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:27:44,799 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:27:44,803 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:27:48,043 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:27:48,047 > 17:27
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:27:48,051 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:28:01,735 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:28:01,739 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:28:01,743 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:28:11,700 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:28:11,706 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:28:11,710 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:28:14,930 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:28:14,934 > 17:28
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:28:14,938 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:28:29,092 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:28:29,097 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:28:29,101 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:29:19,912 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:29:19,924 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:29:19,938 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:29:23,191 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:29:23,195 > 17:29
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:29:23,209 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:29:37,086 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:29:37,091 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:29:37,095 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:29:47,070 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:29:47,074 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:29:47,079 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:29:50,773 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:29:50,777 > 17:29
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:29:50,781 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:30:04,520 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:30:04,524 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:30:04,529 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:30:14,494 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:30:14,499 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:30:14,503 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:30:17,718 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:30:17,722 > 17:30
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:30:17,726 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:30:31,848 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:30:31,852 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:30:31,856 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:30:41,813 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:30:41,819 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:30:41,822 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:30:45,046 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:30:45,049 > 17:30
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:30:45,053 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:30:58,851 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:30:58,855 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:30:58,859 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:31:08,823 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:31:08,829 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:31:08,832 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:31:12,050 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:31:12,054 > 17:31
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:31:12,058 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:31:26,315 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:31:26,320 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:31:26,324 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:31:36,285 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:31:36,290 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:31:36,294 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:31:39,516 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:31:39,520 > 17:31
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:31:39,524 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:31:53,565 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:31:53,569 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:31:53,574 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:32:03,530 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:32:03,535 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:32:03,540 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:32:06,753 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:32:06,757 > 17:32
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:32:06,761 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:32:20,483 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:32:20,487 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:32:20,491 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:32:30,534 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:32:30,541 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:32:30,546 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:32:34,012 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:32:34,016 > 17:32
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:32:34,020 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:32:47,752 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:32:47,756 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:32:47,760 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:32:57,705 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:32:57,710 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:32:57,714 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:33:00,933 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:33:00,937 > 17:33
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:33:00,941 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:33:14,726 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:33:14,729 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:33:14,733 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:33:24,797 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:33:24,802 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:33:24,816 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:33:28,061 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:33:28,065 > 17:33
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:33:28,079 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:33:42,662 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:33:42,675 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:33:42,679 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:33:52,758 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:33:52,763 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:33:52,777 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:33:55,988 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:33:55,992 > 17:33
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:33:55,996 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:34:10,205 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:34:10,209 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:34:10,213 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:34:20,167 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:34:20,172 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:34:20,179 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:34:23,406 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:34:23,410 > 17:34
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:34:23,415 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:34:37,733 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:34:37,744 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:34:37,748 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:34:47,815 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:34:47,820 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:34:47,824 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:34:51,086 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:34:51,090 > 17:34
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:34:51,093 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:35:05,036 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:35:05,040 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:35:05,044 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:35:15,371 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:35:15,376 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:35:15,380 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:35:18,599 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:35:18,602 > 17:35
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:35:18,607 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:36:40,681 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:36:40,698 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:36:40,701 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:36:43,935 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:36:43,940 > 17:36
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:36:43,944 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:36:57,699 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:36:57,703 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:36:57,707 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:37:07,674 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:37:07,679 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:37:07,684 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:37:11,243 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:37:11,247 > 17:37
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:37:11,251 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:37:25,115 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:37:25,119 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:37:25,123 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:37:35,101 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:37:35,106 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:37:35,110 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:37:38,321 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:37:38,325 > 17:37
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:37:38,331 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:37:52,230 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:37:52,234 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:37:52,238 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:38:02,198 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:38:02,203 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:38:02,207 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:38:05,422 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:38:05,427 > 17:38
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:38:05,430 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:38:19,503 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:38:19,507 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:38:19,511 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:38:29,482 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:38:29,488 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:38:29,492 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:39:16,150 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:39:16,163 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:39:16,167 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:39:19,401 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:39:19,405 > 17:39
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:39:19,409 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:39:33,550 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:39:33,554 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:39:33,558 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:39:43,519 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:39:43,523 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:39:43,527 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:39:46,762 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:39:46,766 > 17:39
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:39:46,770 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:40:00,680 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:40:00,684 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:40:00,688 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:40:10,656 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:40:10,661 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:40:10,665 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:40:13,883 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:40:13,887 > 17:40
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:40:13,892 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:40:27,670 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:40:27,674 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:40:27,678 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:40:37,636 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:40:37,641 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:40:37,645 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:40:40,844 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:40:40,851 > 17:40
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:40:40,855 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:40:54,859 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:40:54,863 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:40:54,867 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:42:50,652 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:42:50,657 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:42:50,661 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:42:53,890 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:42:53,895 > 17:42
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:42:53,899 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:43:07,618 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:43:07,623 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:43:07,627 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:43:17,591 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:43:17,596 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:43:17,600 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:43:20,822 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:43:20,826 > 17:43
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:43:20,830 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:43:34,752 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:43:34,757 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:43:34,761 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:43:44,717 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:43:44,722 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:43:44,726 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:43:47,945 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:43:47,949 > 17:43
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:43:47,953 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:44:02,037 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:44:02,041 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:44:02,045 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:44:12,003 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:44:12,008 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:44:12,013 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:44:15,236 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:44:15,240 > 17:44
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:44:15,244 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:44:29,452 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:44:29,457 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:44:29,461 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:44:39,418 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:44:39,423 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:44:39,427 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:44:42,645 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:44:42,650 > 17:44
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:44:42,654 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:51:06,832 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:51:06,838 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:51:06,842 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:51:10,203 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:51:10,227 > 17:51
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:51:10,231 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:51:24,812 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:51:24,817 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:51:24,821 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:56:23,456 > Wlan IP Addr
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:56:23,461 > 192.168.0.64
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:56:23,465 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:56:26,693 > 2015-09-19 Sat
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:56:26,697 > 17:56
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:56:26,701 > ================
+[INFO|tablebar_LCDlogging.py:16] 2015-09-19 17:56:40,411 > Sep#Mon The Wed Thu Fri Sat Sun 
+[INFO|tablebar_LCDlogging.py:17] 2015-09-19 17:56:40,415 > 19 # 14 *15  16  17  18  19  20 
+[INFO|tablebar_LCDlogging.py:18] 2015-09-19 17:56:40,419 > ================

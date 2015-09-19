@@ -553,3 +553,14 @@
 [2015-09-19 15:44:42] EDIT myapp/controllers/tablebar_email.py: 0
 [2015-09-19 15:47:21] EDIT myapp/controllers/default.py: 13
 [2015-09-19 15:55:39] EDIT myapp/controllers/default.py: -13
+[2015-09-19 16:28:16] CREATE tablebar_send_email.py: 0
+[2015-09-19 16:30:12] EDIT myapp/modules/tablebar_send_email.py: 22
+[2015-09-19 16:30:59] EDIT myapp/modules/tablebar_send_email.py: 0
+[2015-09-19 16:56:59] EDIT myapp/controllers/tablebar_email.py: 4
+[2015-09-19 17:00:42] EDIT myapp/modules/tablebar_send_email.py: 0
+[2015-09-19 17:06:10] EDIT myapp/controllers/tablebar_email.py: -5
+[2015-09-19 17:06:13] EDIT myapp/modules/tablebar_send_email.py: 0
+[2015-09-19 17:11:47] EDIT myapp/modules/tablebar_send_email.py: 0
+[2015-09-19 17:22:00] EDIT myapp/modules/tablebar_send_email.py: 0
+[2015-09-19 17:49:20] EDIT myapp/modules/tablebar_baseball.py: -1
+[2015-09-19 17:55:49] EDIT myapp/modules/tablebar_baseball.py: 0

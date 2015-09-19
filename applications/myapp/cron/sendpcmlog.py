@@ -17,7 +17,7 @@ def main():
         data={"from": "Excited User <mailgun@sandbox54f98034843b4141b17c7334201d0628.mailgun.org>",
               "to": ["walkinpcm@gmail.com"],
               "subject": "TableBar Log",
-              "text": print_tail()})
+              "text": "test"})
     return "Send E-mail : Okay"
 
 

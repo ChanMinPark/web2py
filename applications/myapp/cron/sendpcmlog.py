@@ -3,7 +3,7 @@ import sys
 from tablebar_send_email import *
 
 def run_cmd(cmd):
-    p = Popen(cmd, shell=True, stdout=subprocess.PIPE)
+    p = Popen(cmd, shell=True, stdout=PIPE)
     output = p.communicate()[0]
     return output
 

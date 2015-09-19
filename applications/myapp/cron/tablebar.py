@@ -52,9 +52,9 @@ def main():
                 time.sleep(1)
             setLock("False")
         if cycle == 0:
-            setTask("0")
+            setTask("2")
             break
-    """
+    
     # Display Baseball information
     while getTask() == "2":
     	plines = getBaseballinfo()
@@ -72,7 +72,7 @@ def main():
     	if cycle == 0:
     	    setTask("0")
     	    break
-    """
+    
     """
     while getTask() == "3":
     	cycle = 5

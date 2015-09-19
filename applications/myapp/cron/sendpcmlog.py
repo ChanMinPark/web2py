@@ -2,6 +2,17 @@
 import sys
 from tablebar_send_email import *
 
+import logging
+import logging.handlers
+
+logger = logging.getLogger('pcmlogger')
+formatter = logging.Formatter('[%(levelname)s|%(filename)s:%(lineno)s] %(asctime)s > %(message)s')
+fileMaxByte = 1024 * 1024 * 10 #10MB
+fileHandler = logging.handlers.RotatingFileHandler('/usr/local/web2py/logs/pcm_email_test.log', maxBytes=fileMaxByte, backupCount=1)
+fileHandler.setFormatter(formatter)
+logger.addHandler(fileHandler)
+logger.setLevel(logging.DEBUG)
+
 def run_cmd(cmd):
     p = Popen(cmd, shell=True, stdout=PIPE)
     output = p.communicate()[0]
@@ -10,6 +21,7 @@ def run_cmd(cmd):
 def print_tail():
     cmd = "tail -n 10 /usr/local/web2py/logs/pcm_LCD.log"
     printTail = run_cmd(cmd)
+    logger.info(printTail)
     return printTail
 
 def main():
@@ -22,6 +34,7 @@ def main():
               "subject": "TableBar Log",
               "text": print_tail()})
     """
+    logger.info(print_tail())
     send_email()
     return "Send E-mail : Okay"
 

@@ -23,7 +23,7 @@ def main():
               "text": print_tail()})
     """
     print print_tail()
-    send_email(print_tail())
+    send_email("test")
     return "Send E-mail : Okay"
 
 

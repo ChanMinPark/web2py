@@ -22,8 +22,7 @@ def main():
               "subject": "TableBar Log",
               "text": print_tail()})
     """
-    print print_tail()
-    send_email("test")
+    send_email()
     return "Send E-mail : Okay"
 
 

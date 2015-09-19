@@ -6,7 +6,7 @@ import logging.handlers
 
 logger = logging.getLogger('pcmlogger')
 formatter = logging.Formatter('[%(levelname)s|%(filename)s:%(lineno)s] %(asctime)s > %(message)s')
-fileMaxByte = 1024 * 1024 * 100 #100MB
+fileMaxByte = 1024 * 1024 * 10 #10MB
 fileHandler = logging.handlers.RotatingFileHandler('/usr/local/web2py/logs/pcm_LCD.log', maxBytes=fileMaxByte, backupCount=1)
 fileHandler.setFormatter(formatter)
 logger.addHandler(fileHandler)
